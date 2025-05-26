@@ -2,7 +2,7 @@ name: Update Road Restrictions
 
 on:
   schedule:
-    - cron: '0 * * * *'    # every hour
+    - cron: '0 */12 * * *'  # every 12 hours (at 00:00 and 12:00 UTC)
   workflow_dispatch:       # manual trigger
 
 jobs:
