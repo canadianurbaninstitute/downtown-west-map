@@ -10,17 +10,17 @@ import * as turf from '@turf/turf'
 const FEED_URL = 'https://secure.toronto.ca/opendata/cart/road_restrictions/v3?format=json';
 
 const raw = JSON.parse(
-  fs.readFileSync(path.join('data','downtown-west.geojson')) );
+  fs.readFileSync(path.join('data', 'downtown-west.geojson')));
 const POLY = raw.type === 'FeatureCollection'
-? raw.features[0]     // first feature in the collection
-: raw.type === 'Feature'
-? raw               // already a Feature
-: {                 // assume it’s a bare geometry
-type: 'Feature',
-geometry: raw
-};
-  
-const OUT_PATH = path.join('data','road-restrictions.geojson');
+  ? raw.features[0]     // first feature in the collection
+  : raw.type === 'Feature'
+    ? raw               // already a Feature
+    : {                 // assume it’s a bare geometry
+      type: 'Feature',
+      geometry: raw
+    };
+
+const OUT_PATH = path.join('data', 'road-restrictions.geojson');
 
 async function main() {
   const resp = await fetch(FEED_URL);
@@ -37,11 +37,13 @@ async function main() {
         [parseFloat(r.longitude), parseFloat(r.latitude)],
         {
           WorkEventType: r.workEventType,
-          Contractor:     r.contractor,
-          PermitType:     r.permitType,
-          Description:    r.description,
-          Type:           r.type,
-          MaxImpact:      +r.maxImpact
+          Contractor: r.contractor,
+          PermitType: r.permitType,
+          Description: r.description,
+          Type: r.type,
+          maxImpact: r.maxImpact,
+          StartTime: new Date(Number(r.startTime)).toLocaleString(),
+          EndTime: new Date(Number(r.endTime)).toLocaleString()
         }
       );
       return turf.booleanPointInPolygon(pt, POLY) ? pt : null;

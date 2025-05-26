@@ -32,7 +32,7 @@
         id: 'area-fill',
         type: 'fill',
         source: 'area',
-        paint: { 'fill-color':'#088','fill-opacity':0.1 }
+        paint: { 'fill-color':'#088','fill-opacity':0.2 }
       });
 
       // 2. Restrictions points
@@ -45,8 +45,16 @@
         type: 'circle',
         source: 'restrictions',
         paint: {
-          'circle-radius': ['interpolate',['linear'],['get','MaxImpact'],0,4,5,12],
+            'circle-radius': [
+            'match',
+            ['get', 'maxImpact'],
+            'High', 20,
+            'Medium', 12,
+            'Low', 8,
+            6 // default if none match
+            ],
           'circle-color':'#e03',
+          'circle-opacity':0.6,
           'circle-stroke-color':'#fff',
           'circle-stroke-width':1
         }
@@ -63,6 +71,9 @@
             <p>${p.Description}</p>
             <p><strong>Contractor:</strong> ${p.Contractor}<br/>
             <strong>Type:</strong> ${p.Type}</p>
+            <p><strong>Impact:</strong> ${p.maxImpact}</p>
+            <p><strong>Start Time:</strong> ${p.StartTime}<br/>
+            <strong>End Time:</strong> ${p.EndTime}</p>
           `)
           .addTo(map);
       });
