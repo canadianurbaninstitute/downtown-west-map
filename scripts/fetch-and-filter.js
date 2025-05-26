@@ -4,12 +4,22 @@
 
 import fs from 'fs';
 import path from 'path';
-import turf from '@turf/turf';
+import * as turf from '@turf/turf'
 
 // 1. Replace with your actual RESTful JSON URL (Version 3 feed)
-const FEED_URL = 'https://ckan0.cf.opendata-inter.prod-toronto.ca/api/3/action/datastore_search?resource_id=2265bfca-e845-4613-b341-70ee2ac73fbe&limit=30000';
+const FEED_URL = 'https://secure.toronto.ca/opendata/cart/road_restrictions/v3?format=json';
 
-const POLY = JSON.parse(fs.readFileSync(path.join('data','downtown-west.geojson')));
+const raw = JSON.parse(
+  fs.readFileSync(path.join('data','downtown-west.geojson')) );
+const POLY = raw.type === 'FeatureCollection'
+? raw.features[0]     // first feature in the collection
+: raw.type === 'Feature'
+? raw               // already a Feature
+: {                 // assume it’s a bare geometry
+type: 'Feature',
+geometry: raw
+};
+  
 const OUT_PATH = path.join('data','road-restrictions.geojson');
 
 async function main() {
