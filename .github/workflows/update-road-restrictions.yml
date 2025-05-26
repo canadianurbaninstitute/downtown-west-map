@@ -1,0 +1,32 @@
+name: Update Road Restrictions
+
+on:
+  schedule:
+    - cron: '0 * * * *'    # every hour
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch & filter road restrictions
+        run: node scripts/fetch-and-filter.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/road-restrictions.geojson
+          git diff --cached --quiet || git commit -m "chore: update road-restrictions data"
+          git push

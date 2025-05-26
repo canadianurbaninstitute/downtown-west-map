@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>Toronto Road Restrictions</title>
+  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
+  <style>
+    body, html { margin:0; padding:0; height:100% }
+    #map { width:100%; height:100% }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+  <script>
+    const map = new maplibregl.Map({
+      container: 'map',
+      style: 'https://demotiles.maplibre.org/style.json',
+      center: [-79.38643, 43.67731],
+      zoom: 12
+    });
+
+    map.on('load', () => {
+      // 1. AOI polygon
+      map.addSource('area', {
+        type: 'geojson',
+        data: 'data/downtown-west.geojson'
+      });
+      map.addLayer({
+        id: 'area-fill',
+        type: 'fill',
+        source: 'area',
+        paint: { 'fill-color':'#088','fill-opacity':0.2 }
+      });
+
+      // 2. Restrictions points
+      map.addSource('restrictions', {
+        type: 'geojson',
+        data: 'data/road-restrictions.geojson'
+      });
+      map.addLayer({
+        id: 'events',
+        type: 'circle',
+        source: 'restrictions',
+        paint: {
+          'circle-radius': ['interpolate',['linear'],['get','MaxImpact'],0,4,5,12],
+          'circle-color':'#e03',
+          'circle-stroke-color':'#fff',
+          'circle-stroke-width':1
+        }
+      });
+
+      // 3. Popup on click
+      const popup = new maplibregl.Popup({ closeOnClick: true });
+      map.on('click','events', e => {
+        const p = e.features[0].properties;
+        popup
+          .setLngLat(e.lngLat)
+          .setHTML(`
+            <strong>${p.WorkEventType}</strong><br/>
+            <em>${p.PermitType}</em><br/>
+            <p>${p.Description}</p>
+            <p><strong>Contractor:</strong> ${p.Contractor}<br/>
+            <strong>Type:</strong> ${p.Type}</p>
+          `)
+          .addTo(map);
+      });
+      map.on('mouseenter','events',()=> map.getCanvas().style.cursor='pointer');
+      map.on('mouseleave','events',()=> map.getCanvas().style.cursor='');
+    });
+  </script>
+</body>
+</html>
