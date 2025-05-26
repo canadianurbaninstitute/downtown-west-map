@@ -8,10 +8,48 @@
   <style>
     body, html { margin:0; padding:0; height:100% }
     #map { width:100%; height:100% }
+    .map-legend {
+  background: white;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 13px;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  z-index: 1;
+}
+.map-legend h4 {
+  margin: 0 0 8px;
+}
+.map-legend div {
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+}
+.map-legend span {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-right: 6px;
+  border-radius: 2px;
+}
+
   </style>
 </head>
 <body>
   <div id="map"></div>
+  <div id="legend" class="map-legend">
+    <h4>Work Event Types</h4>
+    <div><span style="background:#7C4DFF"></span>Utility Work</div>
+    <div><span style="background:#1E88E5"></span>City of Toronto Construction</div>
+    <div><span style="background:#FFD600"></span>Development</div>
+    <div><span style="background:#43A047"></span>Metrolinx Transit Work</div>
+    <div><span style="background:#FFAB91"></span>Other</div>
+    <div><span style="background:#E53935"></span>TTC Transit Work</div>
+    <div><span style="background:#FB8C00"></span>Provincial Transit Work</div>
+  </div>
   <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
   <script>
     const map = new maplibregl.Map({
@@ -32,8 +70,17 @@
         id: 'area-fill',
         type: 'fill',
         source: 'area',
-        paint: { 'fill-color':'#088','fill-opacity':0.2 }
+        paint: { 'fill-color':'#EEE','fill-opacity':0.1 }
       });
+      map.addLayer({
+        id: 'area-line',
+        type: 'line',
+        source: 'area',
+        paint: {
+            'line-color': '#088',
+            'line-width': 2
+        }
+        });
 
       // 2. Restrictions points
       map.addSource('restrictions', {
@@ -48,13 +95,24 @@
             'circle-radius': [
             'match',
             ['get', 'maxImpact'],
-            'High', 20,
-            'Medium', 12,
-            'Low', 8,
+            'High', 24,
+            'Medium', 16,
+            'Low', 12,
             6 // default if none match
             ],
-          'circle-color':'#e03',
-          'circle-opacity':0.6,
+        'circle-color': [
+        'match',
+        ['get', 'WorkEventType'],
+        'Utility Work', '#7C4DFF',                // bright violet
+        'City of Toronto Construction', '#1E88E5', // bold blue
+        'Development', '#FFD600',                 // vivid yellow
+        'Metrolinx Transit Work', '#43A047',      // fresh green
+        'Other', '#FFAB91',                       // soft peach
+        'TTC Transit Work', '#E53935',            // bright red
+        'Provincial Transit Work', '#FB8C00',     // vibrant orange
+        '#BDBDBD' // default gray
+        ],
+          'circle-opacity':0.8,
           'circle-stroke-color':'#fff',
           'circle-stroke-width':1
         }
