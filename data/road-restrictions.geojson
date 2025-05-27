@@ -4,460 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: 24TW-DC-310 OCS - PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-12, 9:00:00 a.m.",
-        "EndTime": "2025-05-26, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3921,
-          43.64549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: 24TW-DC-310 OCS - PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-12, 9:00:00 a.m.",
-        "EndTime": "2025-05-26, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39159,
-          43.64547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: 24TW-DC-310 OCS - PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-12, 9:00:00 a.m.",
-        "EndTime": "2025-05-26, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39289,
-          43.64739
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: 24TW-DC-310 OCS - PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-12, 9:00:00 a.m.",
-        "EndTime": "2025-05-26, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39345,
-          43.6488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: 24TW-DC-310 OCS - PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-12, 9:00:00 a.m.",
-        "EndTime": "2025-05-26, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39288,
-          43.64449
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: 24TW-DC-310 OCS - PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "High",
-        "StartTime": "2025-05-12, 9:00:00 a.m.",
-        "EndTime": "2025-05-26, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3926,
-          43.64599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: 24TW-DC-310 OCS - PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-12, 9:00:00 a.m.",
-        "EndTime": "2025-05-26, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39235,
-          43.64611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Midome Construction Services Ltd",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: Contract 23ECS-RD-09SP - Adelaide St Current work includes accessing various hydro chambers to install new cable and remove old ones.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "2025-02-24, 7:00:00 a.m.",
-        "EndTime": "2025-06-13, 5:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38556,
-          43.64887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
+        "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39246,
-          43.64068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Vault Rebuild",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "2025-02-03, 7:00:00 a.m.",
-        "EndTime": "2025-05-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39616,
-          43.64662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: PROJECT: 16 YORK ST (ON BREMNER BLVD) ROAD CROSSING ON BREMNER BLVD WEST OF YORK ST (AT SIDE OF 16 YORK)",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-23, 7:00:00 a.m.",
-        "EndTime": "2025-05-30, 5:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38198,
-          43.64281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Sunrise Contracting Inc.",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: SIDEWALK REPAIR AT SOUTH WEST CORNER OF KING ST W AND BLUE JAYS WAY. PERMANENT RESTORATION TO ROGERS UTILITY CUTS. WE ARE REQUESTING TO WORK MONDAY MAY 26TH, 2025 7:00AM AND WORK DAY ENDS AT 5:30PM BUT WOULD NEED TO KEEP THE RIGHT TURN LANE ON KING AND BIKE LANE ON BLUE JAYS WAY CLOSED OVER NIGHT AND WE WOULD COMPLETE EVERYTHING TUESDAY MAY 27TH BY 5:30PM EVERYTHING WOLD BE CLEANED UP. DURING THE WORK HOURS OF 7:00AM TO 5:30PM WOULD HAVE PAID DUTY ON SITE, PROPER AODA RAMPS FOR PEDESTRIANS WITH THE WALL AND ALSO FLAGMEN ON SITE. I HAVE ATTACHED THE OLD PERMIT FOR THIS AS WE ARE GETTING THE NEW PERMIT I JUST NEED TO SEE IF THIS CAN BE APPROVED SO I CAN PLAN MY CREWS ACCORDINGLY AND I WILL SEND YOU THE NEW PERMIT AS SOON AS I GET IT BEFORE WE START WORK. I KNOW THE CITY WOULD LIKE THIS COMPLETED AS SOON AS POSSIBLE. I APPRECIATE IT.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-26, 7:00:00 a.m.",
-        "EndTime": "2025-05-27, 5:30:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3923,
-          43.64599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: PROJECT: 12 YORK ST (WORK AT GRAND TRUNK & BREMER) ROAD/SIDEWALK AT VARIOUS LOCATIONS ON GRAND TRUNK FROM SOUTH OF BREMNER TO THE BEND",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-21, 7:00:00 a.m.",
-        "EndTime": "2025-05-30, 5:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38279,
-          43.64264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39222,
-          43.64073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39202,
-          43.64076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39311,
-          43.6408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39303,
-          43.64141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39319,
-          43.641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39334,
-          43.64134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-06-30, 4:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39255,
-          43.64151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Permanent restoration of the concrete sidewalk and asphalt road on Simcoe St, from Pearl St to just south of King St W, and on Pearl St, from Simcoe St to University Ave.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-05-01, 7:00:00 a.m.",
-        "EndTime": "2025-05-30, 7:00:00 p.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38637,
-          43.64801
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -470,8 +30,8 @@
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "2025-01-01, 9:00:00 p.m.",
-        "EndTime": "2025-06-30, 6:00:00 a.m."
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -490,8 +50,8 @@
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-01, 9:00:00 p.m.",
-        "EndTime": "2025-06-30, 6:00:00 a.m."
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -504,20 +64,320 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "WorkEventType": "Utility Work",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Permanent restoration of the concrete sidewalk and asphalt road on Simcoe St, from Pearl St to just south of King St W, and on Pearl St, from Simcoe St to University Ave.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-01, 9:00:00 p.m.",
-        "EndTime": "2025-06-30, 6:00:00 a.m."
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "5/30/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
+          -79.38637,
+          43.64801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "City of Toronto Construction",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "City of Toronto Construction",
+        "Description": "Toronto-TMC: PROJECT: 16 YORK ST (ON BREMNER BLVD) ROAD CROSSING ON BREMNER BLVD WEST OF YORK ST (AT SIDE OF 16 YORK)",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "5/23/2025, 11:00:00 AM",
+        "EndTime": "5/30/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38198,
+          43.64281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "City of Toronto Construction",
+        "Contractor": "Midome Construction Services Ltd",
+        "PermitType": "City of Toronto Construction",
+        "Description": "Toronto-TMC: Contract 23ECS-RD-09SP - Adelaide St Current work includes accessing various hydro chambers to install new cable and remove old ones.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "2/24/2025, 12:00:00 PM",
+        "EndTime": "6/13/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38556,
+          43.64887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "City of Toronto Construction",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "City of Toronto Construction",
+        "Description": "Toronto-TMC: PROJECT: 12 YORK ST (WORK AT GRAND TRUNK & BREMER) ROAD/SIDEWALK AT VARIOUS LOCATIONS ON GRAND TRUNK FROM SOUTH OF BREMNER TO THE BEND",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/21/2025, 11:00:00 AM",
+        "EndTime": "5/30/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38279,
+          43.64264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Vault Rebuild",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "2/3/2025, 12:00:00 PM",
+        "EndTime": "5/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39616,
+          43.64662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39222,
+          43.64073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39319,
+          43.641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39311,
+          43.6408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39255,
+          43.64151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39303,
+          43.64141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39202,
+          43.64076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39246,
+          43.64068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "City of Toronto Construction",
+        "Contractor": "Sunrise Contracting Inc.",
+        "PermitType": "City of Toronto Construction",
+        "Description": "Toronto-TMC: SIDEWALK REPAIR AT SOUTH WEST CORNER OF KING ST W AND BLUE JAYS WAY. PERMANENT RESTORATION TO ROGERS UTILITY CUTS. WE ARE REQUESTING TO WORK MONDAY MAY 26TH, 2025 7:00AM AND WORK DAY ENDS AT 5:30PM BUT WOULD NEED TO KEEP THE RIGHT TURN LANE ON KING AND BIKE LANE ON BLUE JAYS WAY CLOSED OVER NIGHT AND WE WOULD COMPLETE EVERYTHING TUESDAY MAY 27TH BY 5:30PM EVERYTHING WOLD BE CLEANED UP. DURING THE WORK HOURS OF 7:00AM TO 5:30PM WOULD HAVE PAID DUTY ON SITE, PROPER AODA RAMPS FOR PEDESTRIANS WITH THE WALL AND ALSO FLAGMEN ON SITE. I HAVE ATTACHED THE OLD PERMIT FOR THIS AS WE ARE GETTING THE NEW PERMIT I JUST NEED TO SEE IF THIS CAN BE APPROVED SO I CAN PLAN MY CREWS ACCORDINGLY AND I WILL SEND YOU THE NEW PERMIT AS SOON AS I GET IT BEFORE WE START WORK. I KNOW THE CITY WOULD LIKE THIS COMPLETED AS SOON AS POSSIBLE. I APPRECIATE IT.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/26/2025, 11:00:00 AM",
+        "EndTime": "5/27/2025, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3923,
+          43.64599
         ]
       }
     },
@@ -530,8 +390,8 @@
         "Description": "Toronto-TMC: 2025 Phase 1 FGG Hammer sounding",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "2025-05-25, 11:00:00 p.m.",
-        "EndTime": "2025-05-27, 5:00:00 a.m."
+        "StartTime": "5/26/2025, 3:00:00 AM",
+        "EndTime": "5/27/2025, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -550,8 +410,8 @@
         "Description": "Toronto-TMC: 2025 Phase 1 FGG Hammer sounding",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "2025-05-25, 11:00:00 p.m.",
-        "EndTime": "2025-05-27, 5:00:00 a.m."
+        "StartTime": "5/26/2025, 3:00:00 AM",
+        "EndTime": "5/27/2025, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -570,8 +430,8 @@
         "Description": "Toronto-TMC: ROAD CUT REPAIR FIRST WOULD DO THE BUFFER LANE, ONCE COMPLETED WOULD DO THE ROAD CUT NORTH BOUND ON PETER ST AND BIKE LANE DIVERTING TRAFFIC TO THE BUFFER LANE. ONCE I RECEIVE THE PERMIT I WILL UPLOAD IT. PERMANENT RESTORATION TO ROGERS UTILITY CUTS.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-05-28, 7:00:00 a.m.",
-        "EndTime": "2025-05-30, 5:30:00 p.m."
+        "StartTime": "5/28/2025, 11:00:00 AM",
+        "EndTime": "5/30/2025, 9:30:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -590,8 +450,8 @@
         "Description": "Toronto-TMC: Permanent restoration to Rogers utility cuts. If we can do this work from 7:00am to 5:30pm we can be all completed by Wednesday May 28th by end of day. First day would just be the sidewalk repair and only 1 curb lane closure and paid duty on site and 2nd day sidewalk would be open and we would do the road cut that is in both north bound lanes and paid duty on site. Wednesday May 29th we would just top the road and have everything open before 5:30pm. If we don't get this time frame it would create more days to have lane closures. I know the City is expediting permits for these locations and as soon as I get them I will send them off to you.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-05-27, 7:00:00 a.m.",
-        "EndTime": "2025-05-29, 5:30:00 p.m."
+        "StartTime": "5/27/2025, 11:00:00 AM",
+        "EndTime": "5/29/2025, 9:30:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -610,8 +470,8 @@
         "Description": "Toronto-TMC: Permanent restoration to Rogers Utility Cuts. Laneway entrance from Widmer would be closed for 1 day with detour signs up. Rest of the cuts are in the laneway would not be closing the laneway as cuts wont be impacting both lanes. If we get the time permitted we can have everything complete and opened up by Wednesday end of day.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "2025-05-27, 7:00:00 a.m.",
-        "EndTime": "2025-05-28, 5:30:00 p.m."
+        "StartTime": "5/27/2025, 11:00:00 AM",
+        "EndTime": "5/28/2025, 9:30:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -630,8 +490,8 @@
         "Description": "Toronto-TMC: FGG Hammer Sounding 2025, Phase 1",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-05-27, 11:00:00 p.m.",
-        "EndTime": "2025-05-30, 5:00:00 a.m."
+        "StartTime": "5/28/2025, 3:00:00 AM",
+        "EndTime": "5/30/2025, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -650,8 +510,8 @@
         "Description": "Toronto-TMC: FGG Hammer Sounding 2025, Phase 1",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-05-27, 11:00:00 p.m.",
-        "EndTime": "2025-05-30, 5:00:00 a.m."
+        "StartTime": "5/28/2025, 3:00:00 AM",
+        "EndTime": "5/30/2025, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -670,8 +530,8 @@
         "Description": "Toronto-TMC: We will be working at asphalt on the road and paid duty will be placed to watch and manage on coming vehicles coming in to Portland St. Our service vehicles will be parked close to our worksite.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "2025-06-02, 9:00:00 a.m.",
-        "EndTime": "2025-06-06, 4:00:00 p.m."
+        "StartTime": "6/2/2025, 1:00:00 PM",
+        "EndTime": "6/6/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -690,8 +550,8 @@
         "Description": "Toronto-TMC: TTC Surface Work -SCW - King (Spadina - Sumach) tangent track work",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "2025-05-11, 12:00:00 a.m.",
-        "EndTime": "2025-08-30, 12:00:00 a.m."
+        "StartTime": "5/11/2025, 4:00:00 AM",
+        "EndTime": "8/30/2025, 4:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -710,8 +570,8 @@
         "Description": "Toronto-TMC: TTC Surface Work - Margin Repair, utilizing the King & Church CP diversion King (Simcoe to John)",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "2025-07-23, 11:00:00 p.m.",
-        "EndTime": "2025-07-25, 4:00:00 a.m."
+        "StartTime": "7/24/2025, 3:00:00 AM",
+        "EndTime": "7/25/2025, 8:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -730,8 +590,8 @@
         "Description": "Toronto-TMC: Underground Electrical work (Installation and removal of 3-phase primary cable, splice, fuse, primary switch, fault indicator) Trenching (Installation of concrete encased duct bank)",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-03-24, 12:00:00 a.m.",
-        "EndTime": "2025-05-31, 12:00:00 a.m."
+        "StartTime": "3/24/2025, 4:00:00 AM",
+        "EndTime": "5/31/2025, 4:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -750,8 +610,8 @@
         "Description": "Toronto-TMC: Underground Electrical work (Installation and removal of 3-phase primary cable, splice, fuse, primary switch, fault indicator) Trenching (Installation of concrete encased duct bank)",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-03-24, 12:00:00 a.m.",
-        "EndTime": "2025-05-31, 12:00:00 a.m."
+        "StartTime": "3/24/2025, 4:00:00 AM",
+        "EndTime": "5/31/2025, 4:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -770,8 +630,8 @@
         "Description": "Toronto-TMC: 24ECS-RD-102LR - 11 Street Contract - Local traffic only will be permitted. - Only ONE side of the road will be closed when reconstruction sidewalks.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-02-18, 7:00:00 a.m.",
-        "EndTime": "2025-08-29, 7:00:00 a.m."
+        "StartTime": "2/18/2025, 12:00:00 PM",
+        "EndTime": "8/29/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -790,8 +650,8 @@
         "Description": "Toronto-TMC: 24ECS-RD-102LR - 11 Street Contract - Local traffic only will be permitted. - Only ONE side of the road will be closed when reconstruction sidewalks.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-02-18, 7:00:00 a.m.",
-        "EndTime": "2025-08-29, 7:00:00 a.m."
+        "StartTime": "2/18/2025, 12:00:00 PM",
+        "EndTime": "8/29/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -810,8 +670,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-20, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
+        "StartTime": "1/20/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -830,8 +690,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-20, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
+        "StartTime": "1/20/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -850,8 +710,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-20, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
+        "StartTime": "1/20/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -870,28 +730,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-01, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-01-01, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -910,54 +750,74 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-01, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39188,
+          43.64165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.39179,
           43.64167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-01-01, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39188,
-          43.64165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "2025-01-01, 7:00:00 a.m.",
-        "EndTime": "2025-12-31, 7:00:00 a.m."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
         ]
       }
     },
@@ -970,8 +830,8 @@
         "Description": "Toronto-TMC: King-Bathurst Station site staging. Closure adjacent to South Shaft work area along Stewart St. Extended permit not yet issued, but has been applied for.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-01, 12:00:00 a.m.",
-        "EndTime": "2025-06-30, 11:59:00 p.m."
+        "StartTime": "1/1/2025, 5:00:00 AM",
+        "EndTime": "7/1/2025, 3:59:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -990,8 +850,8 @@
         "Description": "Toronto-TMC: Osgoode Station Site Staging. One southbound lane closed along Simcoe St. between Queen St. W. and the Simcoe Laneway. Northbound University Ave. lanes shifted west to accommodate north shaft piling work. RoDARS to extend site staging. Extended permit not yet issued but has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-01, 12:00:00 a.m.",
-        "EndTime": "2025-06-30, 11:59:00 p.m."
+        "StartTime": "1/1/2025, 5:00:00 AM",
+        "EndTime": "7/1/2025, 3:59:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -1010,8 +870,8 @@
         "Description": "Toronto-TMC: Osgoode Station Site Staging. One southbound lane closed along Simcoe St. between Queen St. W. and the Simcoe Laneway. Northbound University Ave. lanes shifted west to accommodate north shaft piling work. RoDARS to extend site staging. Extended permit not yet issued but has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2025-01-01, 12:00:00 a.m.",
-        "EndTime": "2025-06-30, 11:59:00 p.m."
+        "StartTime": "1/1/2025, 5:00:00 AM",
+        "EndTime": "7/1/2025, 3:59:00 AM"
       },
       "geometry": {
         "type": "Point",
@@ -1030,8 +890,8 @@
         "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "2024-03-27, 4:00:00 p.m.",
-        "EndTime": "2026-02-06, 4:00:00 p.m."
+        "StartTime": "3/27/2024, 8:00:00 PM",
+        "EndTime": "2/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
@@ -1050,8 +910,8 @@
         "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "2024-03-27, 4:00:00 p.m.",
-        "EndTime": "2026-02-06, 4:00:00 p.m."
+        "StartTime": "3/27/2024, 8:00:00 PM",
+        "EndTime": "2/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
