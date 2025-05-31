@@ -5,6 +5,106 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40226,
+          43.64425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "City of Toronto Construction",
+        "Contractor": "Midome Construction Services Ltd",
+        "PermitType": "City of Toronto Construction",
+        "Description": "Toronto-TMC: Contract 23ECS-RD-09SP - Adelaide St Current work includes accessing various hydro chambers to install new cable and remove old ones.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "2/24/2025, 12:00:00 PM",
+        "EndTime": "6/13/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38556,
+          43.64887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
         "Contractor": "Reliance Construction Toronto Inc.",
         "PermitType": "Other",
         "Description": "Toronto-TMC: Landscaping related work.",
@@ -56,66 +156,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39311,
-          43.6408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Vault Rebuild",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "2/3/2025, 12:00:00 PM",
-        "EndTime": "5/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39616,
-          43.64662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: PROJECT: 12 YORK ST (WORK AT GRAND TRUNK & BREMER) ROAD/SIDEWALK AT VARIOUS LOCATIONS ON GRAND TRUNK FROM SOUTH OF BREMNER TO THE BEND",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/21/2025, 11:00:00 AM",
-        "EndTime": "5/30/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38279,
-          43.64264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "5/1/2025, 11:00:00 AM",
-        "EndTime": "6/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.39319,
           43.641
         ]
@@ -129,26 +169,6 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/1/2025, 11:00:00 AM",
-        "EndTime": "6/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39334,
-          43.64134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "5/1/2025, 11:00:00 AM",
         "EndTime": "6/30/2025, 8:00:00 PM"
@@ -156,28 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.393,
-          43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/1/2025, 11:00:00 AM",
-        "EndTime": "6/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39202,
-          43.64076
+          -79.39311,
+          43.6408
         ]
       }
     },
@@ -244,140 +244,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Sunrise Contracting Inc.",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: ROAD CUT REPAIR FIRST WOULD DO THE BUFFER LANE, ONCE COMPLETED WOULD DO THE ROAD CUT NORTH BOUND ON PETER ST AND BIKE LANE DIVERTING TRAFFIC TO THE BUFFER LANE. ONCE I RECEIVE THE PERMIT I WILL UPLOAD IT. PERMANENT RESTORATION TO ROGERS UTILITY CUTS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/28/2025, 11:00:00 AM",
-        "EndTime": "5/30/2025, 9:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39282,
-          43.64722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Permanent restoration of the concrete sidewalk and asphalt road on Simcoe St, from Pearl St to just south of King St W, and on Pearl St, from Simcoe St to University Ave.",
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
         "StartTime": "5/1/2025, 11:00:00 AM",
-        "EndTime": "5/30/2025, 11:00:00 PM"
+        "EndTime": "6/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38637,
-          43.64801
+          -79.39202,
+          43.64076
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: PROJECT: 16 YORK ST (ON BREMNER BLVD) ROAD CROSSING ON BREMNER BLVD WEST OF YORK ST (AT SIDE OF 16 YORK)",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "5/23/2025, 11:00:00 AM",
-        "EndTime": "5/30/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38198,
-          43.64281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Midome Construction Services Ltd",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: Contract 23ECS-RD-09SP - Adelaide St Current work includes accessing various hydro chambers to install new cable and remove old ones.",
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "2/24/2025, 12:00:00 PM",
-        "EndTime": "6/13/2025, 9:00:00 PM"
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38556,
-          43.64887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "6/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40226,
-          43.64425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "6/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "6/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
+          -79.393,
+          43.64056
         ]
       }
     },
@@ -444,26 +344,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Powerline Plus",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Underground Electrical work (Installation and removal of 3-phase primary cable, splice, fuse, primary switch, fault indicator) Trenching (Installation of concrete encased duct bank)",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/24/2025, 4:00:00 AM",
-        "EndTime": "6/30/2025, 4:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38465,
-          43.65044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Development",
         "Contractor": "Madison Group",
         "PermitType": "Development",
@@ -478,6 +358,26 @@
         "coordinates": [
           -79.39062,
           43.64568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Powerline Plus",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Underground Electrical work (Installation and removal of 3-phase primary cable, splice, fuse, primary switch, fault indicator) Trenching (Installation of concrete encased duct bank)",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/24/2025, 4:00:00 AM",
+        "EndTime": "6/30/2025, 4:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38465,
+          43.65044
         ]
       }
     },
