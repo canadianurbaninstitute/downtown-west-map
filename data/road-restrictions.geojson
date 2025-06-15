@@ -5,66 +5,6 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "6/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "6/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "6/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40226,
-          43.64425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
         "Contractor": "Reliance Construction Toronto Inc.",
         "PermitType": "Other",
         "Description": "Toronto-TMC: Landscaping related work.",
@@ -108,7 +48,7 @@
         "Contractor": "Reliance Construction Toronto Inc.",
         "PermitType": "Other",
         "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
         "StartTime": "5/1/2025, 11:00:00 AM",
         "EndTime": "6/30/2025, 8:00:00 PM"
@@ -116,8 +56,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39222,
-          43.64073
+          -79.39303,
+          43.64141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39255,
+          43.64151
         ]
       }
     },
@@ -158,6 +118,26 @@
         "coordinates": [
           -79.393,
           43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/1/2025, 11:00:00 AM",
+        "EndTime": "6/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39222,
+          43.64073
         ]
       }
     },
@@ -225,19 +205,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
+        "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "5/1/2025, 11:00:00 AM",
-        "EndTime": "6/30/2025, 8:00:00 PM"
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39303,
-          43.64141
+          -79.40226,
+          43.64425
         ]
       }
     },
@@ -245,19 +225,39 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
+        "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "ROAD_CLOSED",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "5/1/2025, 11:00:00 AM",
-        "EndTime": "6/30/2025, 8:00:00 PM"
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39255,
-          43.64151
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "6/30/2025, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -416,8 +416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.393,
-          43.64056
+          -79.39316,
+          43.64091
         ]
       }
     },
@@ -436,8 +436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3931,
-          43.64078
+          -79.393,
+          43.64056
         ]
       }
     },
@@ -476,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39316,
-          43.64091
+          -79.3931,
+          43.64078
         ]
       }
     },
