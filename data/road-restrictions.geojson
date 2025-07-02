@@ -9,15 +9,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "7/1/2025, 11:00:00 AM",
         "EndTime": "8/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39316,
-          43.64091
+          -79.393,
+          43.64056
         ]
       }
     },
@@ -36,8 +36,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64134
+          -79.39322,
+          43.64106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: PROJECT: SEC WELLINGTON ST & JOHN ST SIDEWALK AT THE SEC WELLINGTON ST & JOHN ST",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/2/2025, 11:00:00 AM",
+        "EndTime": "7/18/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38919,
+          43.64528
         ]
       }
     },
@@ -96,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39322,
-          43.64106
+          -79.39316,
+          43.64091
         ]
       }
     },
@@ -109,35 +129,55 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "7/1/2025, 11:00:00 AM",
         "EndTime": "8/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.393,
-          43.64056
+          -79.39334,
+          43.64134
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Swinging of boom and counterweight of tower crane including flying of forms",
-        "Contractor": "EllisDon Corporation",
-        "PermitType": "Swinging of boom and counterweight of tower crane including flying of forms",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
+        "WorkEventType": "Long term construction staging",
+        "Contractor": "Madison Group",
+        "PermitType": "Long term construction staging",
+        "Description": "Toronto-TMC: Storage of Materials -- Permission for storage of a 192 square foot bin measuring 24ft x 8ft in the south Public Lane",
+        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "7/3/2025, 10:00:00 AM",
-        "EndTime": "7/3/2025, 11:00:00 PM"
+        "StartTime": "7/2/2025, 4:01:00 AM",
+        "EndTime": "8/1/2025, 3:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3884,
-          43.64757
+          -79.3905,
+          43.64571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Long term construction staging",
+        "Contractor": "Madison Group",
+        "PermitType": "Long term construction staging",
+        "Description": "Toronto-TMC: Storage of Materials -- Permission for storage of a 192 square foot bin measuring 24ft x 8ft in the south Public Lane",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/2/2025, 4:01:00 AM",
+        "EndTime": "8/1/2025, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3905,
+          43.64571
         ]
       }
     },
@@ -164,60 +204,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Long term construction staging",
-        "Contractor": "Madison Group",
-        "PermitType": "Long term construction staging",
-        "Description": "Toronto-TMC: Storage of Materials -- Permission for storage of a 192 square foot bin measuring 24ft x 8ft in the south Public Lane",
-        "Type": "CONSTRUCTION",
+        "WorkEventType": "Swinging of boom and counterweight of tower crane including flying of forms",
+        "Contractor": "EllisDon Corporation",
+        "PermitType": "Swinging of boom and counterweight of tower crane including flying of forms",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "7/2/2025, 4:01:00 AM",
-        "EndTime": "8/1/2025, 3:59:00 AM"
+        "StartTime": "7/3/2025, 10:00:00 AM",
+        "EndTime": "7/3/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3905,
-          43.64571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Long term construction staging",
-        "Contractor": "Madison Group",
-        "PermitType": "Long term construction staging",
-        "Description": "Toronto-TMC: Storage of Materials -- Permission for storage of a 192 square foot bin measuring 24ft x 8ft in the south Public Lane",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/2/2025, 4:01:00 AM",
-        "EndTime": "8/1/2025, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3905,
-          43.64571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: PROJECT: SEC WELLINGTON ST & JOHN ST SIDEWALK AT THE SEC WELLINGTON ST & JOHN ST",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/2/2025, 11:00:00 AM",
-        "EndTime": "7/18/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38919,
-          43.64528
+          -79.3884,
+          43.64757
         ]
       }
     },
@@ -356,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39789,
-          43.64253
+          -79.39811,
+          43.64301
         ]
       }
     },
@@ -376,8 +376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39811,
-          43.64301
+          -79.39789,
+          43.64253
         ]
       }
     },
@@ -456,46 +456,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39188,
-          43.64165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39188,
-          43.64165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.39129,
           43.64342
         ]
@@ -518,6 +478,46 @@
         "coordinates": [
           -79.39129,
           43.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39188,
+          43.64165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39188,
+          43.64165
         ]
       }
     },
