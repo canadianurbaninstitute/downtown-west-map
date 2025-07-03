@@ -4,46 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39322,
-          43.64106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Utility Work",
         "Contractor": "Ferpac Paving Inc",
         "PermitType": "Utility Work",
@@ -96,8 +56,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3931,
-          43.64078
+          -79.39322,
+          43.64106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64134
         ]
       }
     },
@@ -136,8 +136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64134
+          -79.3931,
+          43.64078
         ]
       }
     },
@@ -356,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39811,
-          43.64301
+          -79.39789,
+          43.64253
         ]
       }
     },
@@ -376,8 +376,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39789,
-          43.64253
+          -79.39811,
+          43.64301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/20/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
         ]
       }
     },
@@ -427,66 +447,6 @@
         "WorkEventType": "Utility Work",
         "Contractor": "Clearway Construction",
         "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/20/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
@@ -518,6 +478,46 @@
         "coordinates": [
           -79.39188,
           43.64165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
         ]
       }
     },
