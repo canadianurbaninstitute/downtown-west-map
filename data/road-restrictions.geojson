@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "7850891 Canada Inc",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: crack filling mobile operation, flagsmen on standby to ensure traffic safety",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/4/2025, 1:00:00 PM",
-        "EndTime": "9/8/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Reliance Construction Toronto Inc.",
         "PermitType": "Other",
@@ -36,8 +16,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.393,
-          43.64056
+          -79.39334,
+          43.64134
         ]
       }
     },
@@ -78,26 +58,6 @@
         "coordinates": [
           -79.39316,
           43.64091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39334,
-          43.64134
         ]
       }
     },
@@ -164,6 +124,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "7850891 Canada Inc",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: crack filling mobile operation, flagsmen on standby to ensure traffic safety",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/4/2025, 1:00:00 PM",
+        "EndTime": "9/8/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38762,
+          43.64086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Long term construction staging",
         "Contractor": "Madison Group",
         "PermitType": "Long term construction staging",
@@ -238,26 +238,6 @@
         "coordinates": [
           -79.38729,
           43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: King-Bathurst Station site staging. Closure adjacent to South Shaft work area along Stewart St. Extended permit not yet issued, but has been applied for.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 5:00:00 AM",
-        "EndTime": "1/1/2026, 4:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4024,
-          43.64319
         ]
       }
     },
@@ -278,6 +258,26 @@
         "coordinates": [
           -79.40206,
           43.64351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: King-Bathurst Station site staging. Closure adjacent to South Shaft work area along Stewart St. Extended permit not yet issued, but has been applied for.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 5:00:00 AM",
+        "EndTime": "1/1/2026, 4:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4024,
+          43.64319
         ]
       }
     },
