@@ -36,8 +36,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.393,
-          43.64056
+          -79.3931,
+          43.64078
         ]
       }
     },
@@ -76,8 +76,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64134
+          -79.393,
+          43.64056
         ]
       }
     },
@@ -96,8 +96,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3931,
-          43.64078
+          -79.39334,
+          43.64134
         ]
       }
     },
@@ -158,6 +158,46 @@
         "coordinates": [
           -79.38762,
           43.64086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "true",
+        "Contractor": "Sanscon Construction Ltd.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: 24ECS-RD-102LR-Draper and wellington this is for the road reconstruction at draper and wellington",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/16/2025, 11:00:00 AM",
+        "EndTime": "7/21/2025, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39829,
+          43.64325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "true",
+        "Contractor": "Sanscon Construction Ltd.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: 24ECS-RD-102LR-Draper and wellington this is for the road reconstruction at draper and wellington",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/16/2025, 11:00:00 AM",
+        "EndTime": "7/21/2025, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39818,
+          43.64316
         ]
       }
     },
