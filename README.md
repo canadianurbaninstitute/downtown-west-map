@@ -19,6 +19,20 @@ This project fetches real-time data from Toronto's Open Data feed about road res
 
 2. **Map Display:**  
    `index.html` loads the Downtown West area and overlays filtered road restriction events. Events are colored and sized by type and impact. Users can click markers for more information.
+   
+3. **Road Restrictions GitHub Action**
+
+To ensure the map always displays the most recent road restrictions, this project uses a GitHub Actions workflow to update its data automatically:
+
+- **Workflow File:** `.github/workflows/update-road-restrictions.yml`
+- **Schedule:** Runs every 12 hours (at 00:00 and 12:00 UTC) and can also be triggered manually.
+- **Process:**
+  - Checks out the repo and sets up Node.js.
+  - Installs dependencies.
+  - Runs the fetch and filter script to pull and process the latest road restriction data.
+  - Commits any changes to the `data/road-restrictions.geojson` file back to the repository.
+
+This keeps the map up-to-date for users without manual intervention.
 
 ## Getting Started
 
