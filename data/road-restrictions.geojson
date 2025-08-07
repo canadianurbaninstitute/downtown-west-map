@@ -5,19 +5,119 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
+        "Contractor": "Reliance Construction Toronto Inc.",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3931,
+          43.64078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39316,
+          43.64091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Reliance Construction Toronto Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Landscaping related work.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39322,
+          43.64106
         ]
       }
     },
@@ -44,20 +144,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Sentrex",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: INSTALL FIBRE CABLE THROUGH NEW HYDRO CHAMBERS FOR METROLINX",
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "7/15/2025, 1:00:00 AM",
-        "EndTime": "8/29/2025, 9:00:00 AM"
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38738,
-          43.64847
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -78,6 +178,26 @@
         "coordinates": [
           -79.38729,
           43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Sentrex",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: INSTALL FIBRE CABLE THROUGH NEW HYDRO CHAMBERS FOR METROLINX",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "7/15/2025, 1:00:00 AM",
+        "EndTime": "8/29/2025, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38738,
+          43.64847
         ]
       }
     },
@@ -218,126 +338,6 @@
         "coordinates": [
           -79.39334,
           43.64134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39316,
-          43.64091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3931,
-          43.64078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39334,
-          43.64134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39322,
-          43.64106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
         ]
       }
     },
