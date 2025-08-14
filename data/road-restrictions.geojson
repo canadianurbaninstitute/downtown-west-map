@@ -5,39 +5,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
+        "Contractor": "Reliance Construction Toronto Inc.",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Sentrex",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: INSTALL FIBRE CABLE THROUGH NEW HYDRO CHAMBERS FOR METROLINX",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "7/15/2025, 1:00:00 AM",
-        "EndTime": "8/29/2025, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38738,
-          43.64847
+          -79.393,
+          43.64056
         ]
       }
     },
@@ -45,59 +25,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
+        "Contractor": "Reliance Construction Toronto Inc.",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Description": "Toronto-TMC: Landscaping related work.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "7/1/2025, 11:00:00 AM",
+        "EndTime": "8/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40226,
-          43.64425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "City of Toronto Construction",
-        "Contractor": "Englobe Corp.",
-        "PermitType": "City of Toronto Construction",
-        "Description": "Toronto-TMC: - Drilling eight (8) boreholes to depths ranging from 3.0 to 13.0 m depth below the existing ground surface along the below-mentioned roadway section. - All borehole locations will be daylighted by a professional subcontractor before drilling commencement. A truck and low-clearance rubber track-mounted drill rig will be used for the drilling work. - All boreholes will be backfilled, compacted and finished as per the applicable City of Toronto standard (TS 4.70), after the completion of drilling operations. - Traffic control will be provided during the course of fieldwork in accordance with MTO Book 7. - Pay duty officers will be present to assist in traffic management.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "8/18/2025, 1:30:00 PM",
-        "EndTime": "8/29/2025, 7:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38401,
-          43.64239
+          -79.39334,
+          43.64134
         ]
       }
     },
@@ -136,8 +76,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.393,
-          43.64056
+          -79.39316,
+          43.64091
         ]
       }
     },
@@ -185,19 +125,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
+        "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
+        "maxImpact": "Medium",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39316,
-          43.64091
+          -79.40226,
+          43.64425
         ]
       }
     },
@@ -205,19 +145,79 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Reliance Construction Toronto Inc.",
+        "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Landscaping related work.",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/1/2025, 11:00:00 AM",
-        "EndTime": "8/30/2025, 8:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64134
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Sentrex",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: INSTALL FIBRE CABLE THROUGH NEW HYDRO CHAMBERS FOR METROLINX",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "7/15/2025, 1:00:00 AM",
+        "EndTime": "8/29/2025, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38738,
+          43.64847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "City of Toronto Construction",
+        "Contractor": "Englobe Corp.",
+        "PermitType": "City of Toronto Construction",
+        "Description": "Toronto-TMC: - Drilling eight (8) boreholes to depths ranging from 3.0 to 13.0 m depth below the existing ground surface along the below-mentioned roadway section. - All borehole locations will be daylighted by a professional subcontractor before drilling commencement. A truck and low-clearance rubber track-mounted drill rig will be used for the drilling work. - All boreholes will be backfilled, compacted and finished as per the applicable City of Toronto standard (TS 4.70), after the completion of drilling operations. - Traffic control will be provided during the course of fieldwork in accordance with MTO Book 7. - Pay duty officers will be present to assist in traffic management.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "8/18/2025, 1:30:00 PM",
+        "EndTime": "8/29/2025, 7:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38401,
+          43.64239
         ]
       }
     },
