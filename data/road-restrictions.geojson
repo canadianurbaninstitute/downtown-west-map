@@ -4,20 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "WorkEventType": "true",
+        "Contractor": "Rafat General Contractor Inc.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: The scope of work is flushing only for City of Toronto-Contract No. 25TR-OM-310-TEY-MB-Minor Bridge Repairs",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "StartTime": "8/22/2025, 11:00:00 AM",
+        "EndTime": "9/1/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
+          -79.39093,
+          43.64231
         ]
       }
     },
@@ -64,20 +64,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "true",
-        "Contractor": "Rafat General Contractor Inc.",
-        "PermitType": "true",
-        "Description": "Toronto-TMC: The scope of work is flushing only for City of Toronto-Contract No. 25TR-OM-310-TEY-MB-Minor Bridge Repairs",
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/22/2025, 11:00:00 AM",
-        "EndTime": "9/1/2025, 8:00:00 PM"
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39093,
-          43.64231
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -236,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39502,
-          43.64546
+          -79.39742,
+          43.64498
         ]
       }
     },
@@ -256,28 +256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39742,
-          43.64498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Telecon Design Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/16/2025, 1:00:00 PM",
-        "EndTime": "9/17/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39885,
-          43.64571
+          -79.39502,
+          43.64546
         ]
       }
     },
@@ -298,6 +278,26 @@
         "coordinates": [
           -79.399,
           43.64605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Telecon Design Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/16/2025, 1:00:00 PM",
+        "EndTime": "9/17/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39885,
+          43.64571
         ]
       }
     },
