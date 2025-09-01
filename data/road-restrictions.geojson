@@ -4,6 +4,86 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractor",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39502,
+          43.64546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractor",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39742,
+          43.64498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "true",
+        "Contractor": "Rafat General Contractor Inc.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: The scope of work is flushing only for City of Toronto-Contract No. 25TR-OM-310-TEY-MB-Minor Bridge Repairs",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/22/2025, 11:00:00 AM",
+        "EndTime": "9/1/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39093,
+          43.64231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/25/2025, 11:00:00 AM",
+        "EndTime": "9/5/2025, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39135,
+          43.64359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
@@ -64,26 +144,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "true",
-        "Contractor": "Rafat General Contractor Inc.",
-        "PermitType": "true",
-        "Description": "Toronto-TMC: The scope of work is flushing only for City of Toronto-Contract No. 25TR-OM-310-TEY-MB-Minor Bridge Repairs",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/22/2025, 11:00:00 AM",
-        "EndTime": "9/1/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39093,
-          43.64231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "false",
         "Contractor": "7850891 Canada Inc",
         "PermitType": "false",
@@ -98,26 +158,6 @@
         "coordinates": [
           -79.38762,
           43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/25/2025, 11:00:00 AM",
-        "EndTime": "9/5/2025, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39135,
-          43.64359
         ]
       }
     },
@@ -224,46 +264,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39502,
-          43.64546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39742,
-          43.64498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Telecon Design Inc.",
         "PermitType": "Other",
@@ -364,26 +364,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Civica Infrastructure",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2025, 3:00:00 AM",
-        "EndTime": "9/1/2025, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38585,
-          43.64459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "false",
         "Contractor": "Bevcon Construction & Paving Ltd.",
         "PermitType": "false",
@@ -478,26 +458,6 @@
         "coordinates": [
           -79.40229,
           43.64401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Storage of materials and equipment",
-        "Contractor": "Madison Group",
-        "PermitType": "Storage of materials and equipment",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/1/2025, 4:01:00 AM",
-        "EndTime": "9/1/2025, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39104,
-          43.64528
         ]
       }
     },
@@ -676,48 +636,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.39188,
+          43.64165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39188,
+          43.64165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.39179,
           43.64167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39188,
-          43.64165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39188,
-          43.64165
         ]
       }
     },
