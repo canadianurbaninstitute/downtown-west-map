@@ -4,86 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39502,
-          43.64546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39742,
-          43.64498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/25/2025, 11:00:00 AM",
-        "EndTime": "9/5/2025, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39135,
-          43.64359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: PROJECT: 576 FRONT ST W",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/2/2025, 11:00:00 AM",
-        "EndTime": "9/10/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39994,
-          43.64113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
@@ -144,40 +64,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of the City of Toronto. Paid Duty on Site.",
-        "Type": "ROAD_CLOSED",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/27/2025, 1:00:00 PM",
-        "EndTime": "9/2/2025, 9:00:00 PM"
+        "StartTime": "8/25/2025, 11:00:00 AM",
+        "EndTime": "9/5/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40155,
-          43.64278
+          -79.39135,
+          43.64359
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "7850891 Canada Inc",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: crack filling mobile operation, flagsmen on standby to ensure traffic safety",
+        "WorkEventType": "Utility Work",
+        "Contractor": "Aecon",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Cable Pulling",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/4/2025, 1:00:00 PM",
-        "EndTime": "9/8/2025, 8:00:00 PM"
+        "maxImpact": "Medium",
+        "StartTime": "9/2/2025, 11:00:00 PM",
+        "EndTime": "10/30/2025, 10:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38762,
-          43.64086
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: PROJECT: 576 FRONT ST W",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/2/2025, 11:00:00 AM",
+        "EndTime": "9/10/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39994,
+          43.64113
         ]
       }
     },
@@ -198,6 +138,46 @@
         "coordinates": [
           -79.39188,
           43.64165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Beacon Utility",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2025, 1:00:00 PM",
+        "EndTime": "9/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3915,
+          43.64075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "7850891 Canada Inc",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: crack filling mobile operation, flagsmen on standby to ensure traffic safety",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/4/2025, 1:00:00 PM",
+        "EndTime": "9/8/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38762,
+          43.64086
         ]
       }
     },
@@ -244,40 +224,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Beacon Utility",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractor",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/21/2025, 1:00:00 PM",
-        "EndTime": "9/30/2025, 8:00:00 PM"
+        "maxImpact": "High",
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3915,
-          43.64075
+          -79.39502,
+          43.64546
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Telecon Design Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/16/2025, 1:00:00 PM",
-        "EndTime": "9/17/2025, 8:00:00 PM"
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractor",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39885,
-          43.64571
+          -79.39742,
+          43.64498
         ]
       }
     },
@@ -304,20 +284,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Aecon",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Cable Pulling",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "9/2/2025, 11:00:00 PM",
-        "EndTime": "10/30/2025, 10:00:00 AM"
+        "WorkEventType": "Other",
+        "Contractor": "Telecon Design Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/16/2025, 1:00:00 PM",
+        "EndTime": "9/17/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.393,
-          43.64056
+          -79.39885,
+          43.64571
         ]
       }
     },
