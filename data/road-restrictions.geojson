@@ -376,26 +376,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.389245,
-          43.645276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": null,
-        "Contractor": "TIFF",
-        "PermitType": null,
-        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2025, 11:00:00 PM",
-        "EndTime": "9/8/2025, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.386111,
           43.647395
         ]
@@ -467,6 +447,26 @@
         "WorkEventType": null,
         "Contractor": "TIFF",
         "PermitType": null,
+        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2025, 11:00:00 PM",
+        "EndTime": "9/8/2025, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389245,
+          43.645276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": null,
+        "Contractor": "TIFF",
+        "PermitType": null,
         "Description": "Toronto-TMC: NB or SB Right lane closed for TIFF.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
@@ -488,26 +488,6 @@
         "Contractor": "Telecon Design Inc.",
         "PermitType": "Other",
         "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/16/2025, 1:00:00 PM",
-        "EndTime": "9/17/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.399,
-          43.64605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Telecon Design Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
         "StartTime": "9/16/2025, 1:00:00 PM",
@@ -518,6 +498,26 @@
         "coordinates": [
           -79.39885,
           43.64571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Telecon Design Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/16/2025, 1:00:00 PM",
+        "EndTime": "9/17/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.399,
+          43.64605
         ]
       }
     },
