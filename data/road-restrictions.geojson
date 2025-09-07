@@ -9,15 +9,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
+        "maxImpact": "Low",
         "StartTime": "1/2/2025, 2:00:00 AM",
         "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40226,
-          43.64425
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -29,15 +29,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "Medium",
         "StartTime": "1/2/2025, 2:00:00 AM",
         "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
+          -79.40226,
+          43.64425
         ]
       }
     },
@@ -376,6 +376,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.390045,
+          43.647228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": null,
+        "Contractor": "TIFF",
+        "PermitType": null,
+        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2025, 11:00:00 PM",
+        "EndTime": "9/8/2025, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389245,
+          43.645276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": null,
+        "Contractor": "TIFF",
+        "PermitType": null,
+        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2025, 11:00:00 PM",
+        "EndTime": "9/8/2025, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.384911,
           43.646196
         ]
@@ -418,46 +458,6 @@
         "coordinates": [
           -79.386111,
           43.647395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": null,
-        "Contractor": "TIFF",
-        "PermitType": null,
-        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2025, 11:00:00 PM",
-        "EndTime": "9/8/2025, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389245,
-          43.645276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": null,
-        "Contractor": "TIFF",
-        "PermitType": null,
-        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2025, 11:00:00 PM",
-        "EndTime": "9/8/2025, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.390045,
-          43.647228
         ]
       }
     },
