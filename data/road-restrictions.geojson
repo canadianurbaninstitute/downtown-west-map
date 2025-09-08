@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Aecon",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Cable Pulling",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "9/2/2025, 11:00:00 PM",
+        "EndTime": "10/30/2025, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
@@ -44,26 +84,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "false",
         "Contractor": "7850891 Canada Inc",
         "PermitType": "false",
@@ -78,26 +98,6 @@
         "coordinates": [
           -79.38762,
           43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Aecon",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Cable Pulling",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "9/2/2025, 11:00:00 PM",
-        "EndTime": "10/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
         ]
       }
     },
@@ -138,26 +138,6 @@
         "coordinates": [
           -79.39994,
           43.64113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Beacon Utility",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "7/21/2025, 1:00:00 PM",
-        "EndTime": "9/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39188,
-          43.64165
         ]
       }
     },
@@ -218,6 +198,26 @@
         "coordinates": [
           -79.39334,
           43.64134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Beacon Utility",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2025, 1:00:00 PM",
+        "EndTime": "9/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39188,
+          43.64165
         ]
       }
     },
@@ -376,48 +376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.390045,
-          43.647228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": null,
-        "Contractor": "TIFF",
-        "PermitType": null,
-        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2025, 11:00:00 PM",
-        "EndTime": "9/8/2025, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389245,
-          43.645276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": null,
-        "Contractor": "TIFF",
-        "PermitType": null,
-        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2025, 11:00:00 PM",
-        "EndTime": "9/8/2025, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.384911,
-          43.646196
+          -79.386111,
+          43.647395
         ]
       }
     },
@@ -456,8 +416,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.386111,
-          43.647395
+          -79.384911,
+          43.646196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": null,
+        "Contractor": "TIFF",
+        "PermitType": null,
+        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2025, 11:00:00 PM",
+        "EndTime": "9/8/2025, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.390045,
+          43.647228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": null,
+        "Contractor": "TIFF",
+        "PermitType": null,
+        "Description": "Toronto-TMC: Roads are closed for Toronto International Film Festival.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2025, 11:00:00 PM",
+        "EndTime": "9/8/2025, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389245,
+          43.645276
         ]
       }
     },
