@@ -4,106 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39502,
-          43.64546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39742,
-          43.64498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/8/2025, 11:00:00 AM",
-        "EndTime": "9/12/2025, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39281,
-          43.64731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: PROJECT: 576 FRONT ST W",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/2/2025, 11:00:00 AM",
-        "EndTime": "9/10/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39994,
-          43.64113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Aecon",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Cable Pulling",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "9/2/2025, 11:00:00 PM",
-        "EndTime": "10/30/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
@@ -165,19 +65,59 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
+        "Contractor": "Pave Krete Construction",
         "PermitType": "Toronto Hydro",
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/18/2025, 1:00:00 PM",
-        "EndTime": "9/25/2025, 8:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "9/8/2025, 11:00:00 AM",
+        "EndTime": "9/12/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38943,
-          43.64803
+          -79.39281,
+          43.64731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Aecon",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Cable Pulling",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "9/2/2025, 11:00:00 PM",
+        "EndTime": "10/30/2025, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: PROJECT: 576 FRONT ST W",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/2/2025, 11:00:00 AM",
+        "EndTime": "9/10/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39994,
+          43.64113
         ]
       }
     },
@@ -196,8 +136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39251,
-          43.64067
+          -79.3915,
+          43.64075
         ]
       }
     },
@@ -236,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3915,
-          43.64075
+          -79.39251,
+          43.64067
         ]
       }
     },
@@ -258,6 +198,46 @@
         "coordinates": [
           -79.39334,
           43.64134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractor",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39502,
+          43.64546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractor",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39742,
+          43.64498
         ]
       }
     },
@@ -298,6 +278,86 @@
         "coordinates": [
           -79.39405,
           43.64271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Rabcon Contractors Ltd",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Installation of new sanitary service for 118 PETER ST Duration of Work : 1 day",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/12/2025, 1:00:00 PM",
+        "EndTime": "9/15/2025, 8:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39307,
+          43.64791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Hastings utilities",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Installation of Pole in T73, in 163 Spadina Ave and T032 in 66 Spadina Ave.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/15/2025, 1:00:00 PM",
+        "EndTime": "10/6/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39487,
+          43.64508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Storage of materials and equipment",
+        "Contractor": "Madison Group",
+        "PermitType": "Storage of materials and equipment",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2025, 4:01:00 AM",
+        "EndTime": "10/1/2025, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.391,
+          43.64529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/18/2025, 1:00:00 PM",
+        "EndTime": "9/25/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38943,
+          43.64803
         ]
       }
     },
