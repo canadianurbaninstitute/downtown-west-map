@@ -64,6 +64,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Rabcon Contractors Ltd",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Installation of new sanitary service for 118 PETER ST Duration of Work : 1 day",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/12/2025, 1:00:00 PM",
+        "EndTime": "9/15/2025, 8:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39307,
+          43.64791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Utility Work",
         "Contractor": "Aecon",
         "PermitType": "Utility Work",
@@ -78,6 +98,26 @@
         "coordinates": [
           -79.393,
           43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Beacon Utility",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/21/2025, 1:00:00 PM",
+        "EndTime": "9/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64134
         ]
       }
     },
@@ -138,26 +178,6 @@
         "coordinates": [
           -79.39251,
           43.64067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Beacon Utility",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/21/2025, 1:00:00 PM",
-        "EndTime": "9/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39334,
-          43.64134
         ]
       }
     },
@@ -278,26 +298,6 @@
         "coordinates": [
           -79.39105,
           43.64633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Rabcon Contractors Ltd",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Installation of new sanitary service for 118 PETER ST Duration of Work : 1 day",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/12/2025, 1:00:00 PM",
-        "EndTime": "9/15/2025, 8:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39307,
-          43.64791
         ]
       }
     },
