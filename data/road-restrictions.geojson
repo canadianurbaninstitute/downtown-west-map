@@ -4,46 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39742,
-          43.64498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractor",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "9/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39502,
-          43.64546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
@@ -129,15 +89,35 @@
         "PermitType": "false",
         "Description": "Toronto-TMC: Concrete Encased Duct Installation",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "7/21/2025, 1:00:00 PM",
         "EndTime": "9/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64134
+          -79.3915,
+          43.64075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Beacon Utility",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2025, 1:00:00 PM",
+        "EndTime": "9/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39188,
+          43.64165
         ]
       }
     },
@@ -169,35 +149,35 @@
         "PermitType": "false",
         "Description": "Toronto-TMC: Concrete Encased Duct Installation",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "7/21/2025, 1:00:00 PM",
         "EndTime": "9/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3915,
-          43.64075
+          -79.39334,
+          43.64134
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Beacon Utility",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "7/21/2025, 1:00:00 PM",
-        "EndTime": "9/30/2025, 8:00:00 PM"
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractor",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39188,
-          43.64165
+          -79.39742,
+          43.64498
         ]
       }
     },
@@ -245,19 +225,59 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
+        "Contractor": "Entera Utility Contractor",
         "PermitType": "Toronto Hydro",
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "9/15/2025, 1:00:00 PM",
-        "EndTime": "9/25/2025, 8:00:00 PM"
+        "StartTime": "8/28/2025, 12:00:00 PM",
+        "EndTime": "9/24/2025, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38943,
-          43.64803
+          -79.39502,
+          43.64546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "A & F Di Carlo Construction Inc",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "High",
+        "StartTime": "9/15/2025, 1:00:00 PM",
+        "EndTime": "9/29/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3915,
+          43.64622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "A & F Di Carlo Construction Inc",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "High",
+        "StartTime": "9/16/2025, 1:00:00 PM",
+        "EndTime": "9/30/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39105,
+          43.64633
         ]
       }
     },
@@ -278,6 +298,26 @@
         "coordinates": [
           -79.39307,
           43.64791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/15/2025, 1:00:00 PM",
+        "EndTime": "9/25/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38943,
+          43.64803
         ]
       }
     },
@@ -408,26 +448,6 @@
         "Contractor": "Telecon Design Inc.",
         "PermitType": "Other",
         "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/16/2025, 1:00:00 PM",
-        "EndTime": "9/17/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39885,
-          43.64571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Telecon Design Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "9/16/2025, 1:00:00 PM",
@@ -438,6 +458,26 @@
         "coordinates": [
           -79.399,
           43.64605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Telecon Design Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/16/2025, 1:00:00 PM",
+        "EndTime": "9/17/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39885,
+          43.64571
         ]
       }
     },
