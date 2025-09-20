@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "true",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2025, 11:00:00 AM",
+        "EndTime": "10/31/2025, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3923,
+          43.64604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2025, 11:00:00 AM",
+        "EndTime": "9/26/2025, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4024,
+          43.64319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
@@ -78,26 +118,6 @@
         "coordinates": [
           -79.393,
           43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "true",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "true",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2025, 11:00:00 AM",
-        "EndTime": "10/31/2025, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3923,
-          43.64604
         ]
       }
     },
@@ -438,26 +458,6 @@
         "coordinates": [
           -79.39487,
           43.64508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2025, 11:00:00 AM",
-        "EndTime": "9/26/2025, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4024,
-          43.64319
         ]
       }
     },
