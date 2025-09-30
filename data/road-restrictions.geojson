@@ -4,40 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "WorkEventType": "true",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "StartTime": "9/15/2025, 11:00:00 AM",
+        "EndTime": "10/31/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
+          -79.3923,
+          43.64604
         ]
       }
     },
@@ -64,6 +44,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Utility Work",
         "Contractor": "Aecon",
         "PermitType": "Utility Work",
@@ -84,20 +104,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "true",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "true",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
+        "WorkEventType": "false",
+        "Contractor": "Beacon Utility",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "9/15/2025, 11:00:00 AM",
-        "EndTime": "10/31/2025, 11:00:00 PM"
+        "StartTime": "7/21/2025, 1:00:00 PM",
+        "EndTime": "9/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3923,
-          43.64604
+          -79.39188,
+          43.64165
         ]
       }
     },
@@ -105,39 +125,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "false",
-        "Contractor": "A & F Di Carlo Construction Inc",
+        "Contractor": "Beacon Utility",
         "PermitType": "false",
-        "Description": "Toronto-TMC: PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "High",
-        "StartTime": "9/16/2025, 1:00:00 PM",
-        "EndTime": "9/30/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39105,
-          43.64633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: PROJECT - 292 ADELAIDE ST W",
+        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "9/26/2025, 1:00:00 PM",
+        "StartTime": "7/21/2025, 1:00:00 PM",
         "EndTime": "9/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39091,
-          43.64772
+          -79.39334,
+          43.64134
         ]
       }
     },
@@ -184,20 +184,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Beacon Utility",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "7/21/2025, 1:00:00 PM",
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: PROJECT - 292 ADELAIDE ST W",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/26/2025, 1:00:00 PM",
         "EndTime": "9/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39188,
-          43.64165
+          -79.39091,
+          43.64772
         ]
       }
     },
@@ -205,19 +205,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "false",
-        "Contractor": "Beacon Utility",
+        "Contractor": "A & F Di Carlo Construction Inc",
         "PermitType": "false",
-        "Description": "Toronto-TMC: Concrete Encased Duct Installation",
-        "Type": "CONSTRUCTION",
+        "Description": "Toronto-TMC: PERMANENT SURFACE REPAIRS TO TORONTO WATER CUTS",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "High",
-        "StartTime": "7/21/2025, 1:00:00 PM",
+        "StartTime": "9/16/2025, 1:00:00 PM",
         "EndTime": "9/30/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64134
+          -79.39105,
+          43.64633
         ]
       }
     },
@@ -288,6 +288,26 @@
         "Contractor": "Ontario Transit Group",
         "PermitType": "Metrolinx",
         "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/3/2025, 11:00:00 AM",
+        "EndTime": "10/24/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39941,
+          43.64743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "10/3/2025, 2:00:00 PM",
@@ -336,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39941,
-          43.64743
+          -79.40091,
+          43.64651
         ]
       }
     },
@@ -358,26 +378,6 @@
         "coordinates": [
           -79.40161,
           43.64497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/3/2025, 11:00:00 AM",
-        "EndTime": "10/24/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40091,
-          43.64651
         ]
       }
     },
@@ -556,48 +556,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/20/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/20/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.39179,
           43.64167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/20/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/20/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
         ]
       }
     },
@@ -618,6 +618,26 @@
         "coordinates": [
           -79.39129,
           43.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Clearway Construction",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/1/2025, 12:00:00 PM",
+        "EndTime": "12/31/2025, 12:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39179,
+          43.64167
         ]
       }
     },
@@ -658,26 +678,6 @@
         "coordinates": [
           -79.39188,
           43.64165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility Work",
-        "Contractor": "Clearway Construction",
-        "PermitType": "Utility Work",
-        "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39179,
-          43.64167
         ]
       }
     },
