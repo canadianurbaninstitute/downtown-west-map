@@ -4,40 +4,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "true",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "true",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/15/2025, 11:00:00 AM",
-        "EndTime": "10/31/2025, 11:00:00 PM"
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3923,
-          43.64604
+          -79.38729,
+          43.65026
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/1/2025, 11:00:00 AM",
-        "EndTime": "10/17/2025, 11:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40228,
-          43.64401
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -64,40 +64,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "10/1/2025, 11:00:00 AM",
+        "EndTime": "10/17/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
+          -79.40228,
+          43.64401
         ]
       }
     },
@@ -124,20 +104,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Storage of materials and equipment",
-        "Contractor": "Madison Group",
-        "PermitType": "Storage of materials and equipment",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
+        "WorkEventType": "true",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/1/2025, 4:01:00 AM",
-        "EndTime": "11/1/2025, 3:59:00 AM"
+        "StartTime": "9/15/2025, 11:00:00 AM",
+        "EndTime": "10/31/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39104,
-          43.64528
+          -79.3923,
+          43.64604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/1/2025, 1:00:00 PM",
+        "EndTime": "10/8/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38943,
+          43.64803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Black & McDonald",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/8/2025, 1:00:00 PM",
+        "EndTime": "10/31/2025, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39393,
+          43.64274
         ]
       }
     },
@@ -164,20 +184,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Black & McDonald",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
+        "WorkEventType": null,
+        "Contractor": "Canada Running series Inc",
+        "PermitType": null,
+        "Description": "Toronto-TMC: Road is closed for TCS Toronto Waterfront Marathon.",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "9/8/2025, 1:00:00 PM",
-        "EndTime": "10/31/2025, 7:00:00 PM"
+        "StartTime": "10/19/2025, 8:00:00 AM",
+        "EndTime": "10/19/2025, 3:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39393,
-          43.64274
+          -79.386054,
+          43.648761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Storage of materials and equipment",
+        "Contractor": "Madison Group",
+        "PermitType": "Storage of materials and equipment",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/1/2025, 4:01:00 AM",
+        "EndTime": "11/1/2025, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39104,
+          43.64528
         ]
       }
     },
