@@ -4,100 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "true",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "true",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/15/2025, 11:00:00 AM",
-        "EndTime": "10/31/2025, 11:00:00 PM"
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3923,
-          43.64604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/1/2025, 11:00:00 AM",
-        "EndTime": "10/17/2025, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40228,
-          43.64401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/3/2025, 11:00:00 AM",
-        "EndTime": "10/24/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40091,
-          43.64651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/3/2025, 11:00:00 AM",
-        "EndTime": "10/24/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40161,
-          43.64497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/3/2025, 11:00:00 AM",
-        "EndTime": "10/24/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39941,
-          43.64743
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -164,40 +84,160 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "10/1/2025, 11:00:00 AM",
+        "EndTime": "10/17/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
+          -79.40228,
+          43.64401
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "WorkEventType": "true",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/23/2025, 1:00:00 PM",
-        "EndTime": "10/24/2025, 8:00:00 PM"
+        "StartTime": "9/15/2025, 11:00:00 AM",
+        "EndTime": "10/31/2025, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39275,
-          43.64715
+          -79.3923,
+          43.64604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/3/2025, 11:00:00 AM",
+        "EndTime": "10/24/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40161,
+          43.64497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/3/2025, 11:00:00 AM",
+        "EndTime": "10/24/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40091,
+          43.64651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/3/2025, 11:00:00 AM",
+        "EndTime": "10/24/2025, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39941,
+          43.64743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "T2 Utility Engineers Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/16/2025, 1:30:00 PM",
+        "EndTime": "10/31/2025, 7:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39668,
+          43.64652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Black & McDonald",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/8/2025, 1:00:00 PM",
+        "EndTime": "10/31/2025, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39393,
+          43.64274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/3/2025, 2:00:00 PM",
+        "EndTime": "10/24/2025, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40013,
+          43.64716
         ]
       }
     },
@@ -229,26 +269,6 @@
         "PermitType": "false",
         "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/8/2025, 1:00:00 PM",
-        "EndTime": "10/31/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39393,
-          43.64274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Black & McDonald",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
-        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
         "StartTime": "9/8/2025, 1:00:00 PM",
         "EndTime": "10/31/2025, 7:00:00 PM"
@@ -258,26 +278,6 @@
         "coordinates": [
           -79.39405,
           43.64271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/3/2025, 2:00:00 PM",
-        "EndTime": "10/24/2025, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40013,
-          43.64716
         ]
       }
     },
@@ -304,20 +304,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
-        "Type": "ROAD_CLOSED",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
+        "StartTime": "10/22/2025, 1:00:00 PM",
+        "EndTime": "10/23/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4001,
-          43.64714
+          -79.39281,
+          43.64731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/22/2025, 1:00:00 PM",
+        "EndTime": "10/23/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39297,
+          43.64769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/23/2025, 1:00:00 PM",
+        "EndTime": "10/24/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39275,
+          43.64715
         ]
       }
     },
@@ -358,6 +398,26 @@
         "coordinates": [
           -79.4001,
           43.64713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/20/2025, 11:00:00 AM",
+        "EndTime": "12/21/2025, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001,
+          43.64714
         ]
       }
     },
@@ -438,26 +498,6 @@
         "coordinates": [
           -79.39375,
           43.64616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "T2 Utility Engineers Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/16/2025, 1:30:00 PM",
-        "EndTime": "10/31/2025, 7:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39668,
-          43.64652
         ]
       }
     },
