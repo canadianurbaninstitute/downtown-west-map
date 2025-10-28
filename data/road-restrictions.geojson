@@ -4,6 +4,86 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "false",
+        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/20/2025, 11:00:00 AM",
+        "EndTime": "12/21/2025, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001,
+          43.64714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "true",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "true",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2025, 11:00:00 AM",
+        "EndTime": "10/31/2025, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3923,
+          43.64604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/20/2025, 11:00:00 AM",
+        "EndTime": "12/21/2025, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001,
+          43.64713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/20/2025, 11:00:00 AM",
+        "EndTime": "12/21/2025, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40009,
+          43.64712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
@@ -78,86 +158,6 @@
         "coordinates": [
           -79.393,
           43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "true",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "true",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2025, 11:00:00 AM",
-        "EndTime": "10/31/2025, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3923,
-          43.64604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4001,
-          43.64714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40009,
-          43.64712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4001,
-          43.64713
         ]
       }
     },
