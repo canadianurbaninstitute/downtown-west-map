@@ -28,6 +28,26 @@
         "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
         "PermitType": "false",
         "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/20/2025, 11:00:00 AM",
+        "EndTime": "12/21/2025, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001,
+          43.64713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
         "StartTime": "10/20/2025, 11:00:00 AM",
@@ -44,20 +64,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Sentrex",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: Install conduit and fibre to the buildings",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
+        "StartTime": "11/3/2025, 2:00:00 PM",
+        "EndTime": "11/28/2025, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4001,
-          43.64713
+          -79.39375,
+          43.64616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: Beginning midnight on Saturday, Nov. 8, the Osgoode Station Team plans to close Simcoe St. for works related to the Osgoode Station South Shaft. This closure is expected to remain in place for 24 hours only, but may extend through Sunday, Nov. 9. All closures will be off the road by midnight on Nov. 9, per the permit requirement. Two paid duty officers will be present on site while the road is closed to help redirect traffic and pedestrians.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "11/8/2025, 5:00:00 AM",
+        "EndTime": "11/10/2025, 4:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38727,
+          43.65025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Swing stages",
+        "Contractor": "Century Building Restoration Inc.",
+        "PermitType": "Swing stages",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "10/22/2025, 12:00:00 PM",
+        "EndTime": "11/7/2025, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39125,
+          43.64901
         ]
       }
     },
@@ -118,26 +178,6 @@
         "coordinates": [
           -79.40226,
           43.64425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Swing stages",
-        "Contractor": "Century Building Restoration Inc.",
-        "PermitType": "Swing stages",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "10/22/2025, 12:00:00 PM",
-        "EndTime": "11/7/2025, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39125,
-          43.64901
         ]
       }
     },
@@ -288,6 +328,26 @@
         "Contractor": "GG Duncan Inc",
         "PermitType": "Other",
         "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "3/27/2024, 8:00:00 PM",
+        "EndTime": "2/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38778,
+          43.64723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "GG Duncan Inc",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
         "StartTime": "3/27/2024, 8:00:00 PM",
@@ -318,46 +378,6 @@
         "coordinates": [
           -79.38769,
           43.64703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "GG Duncan Inc",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "3/27/2024, 8:00:00 PM",
-        "EndTime": "2/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38778,
-          43.64723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Sentrex",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: Install conduit and fibre to the buildings",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/3/2025, 2:00:00 PM",
-        "EndTime": "11/28/2025, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39375,
-          43.64616
         ]
       }
     },
