@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "11/5/2025, 12:00:00 PM",
-        "EndTime": "12/11/2025, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40161,
-          43.64497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "false",
         "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
         "PermitType": "false",
@@ -38,26 +18,6 @@
         "coordinates": [
           -79.40009,
           43.64712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4001,
-          43.64713
         ]
       }
     },
@@ -84,20 +44,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Amherst Crane",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Closure of Westbound Bremner Blvd from Rees St to Van de Water Crescent to facilitate a mobile crane hoist of structural steel to the Rogers Centre Westbound Bremner Blvd will be maintained with a diversion around the construction area utilizing the #2 Eastbound lane",
+        "WorkEventType": "false",
+        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/6/2025, 12:00:00 PM",
-        "EndTime": "11/29/2025, 4:00:00 AM"
+        "StartTime": "10/20/2025, 11:00:00 AM",
+        "EndTime": "12/21/2025, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38772,
-          43.6408
+          -79.4001,
+          43.64713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Capital Job restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/7/2025, 2:00:00 PM",
+        "EndTime": "11/15/2025, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39215,
+          43.64565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "11/5/2025, 12:00:00 PM",
+        "EndTime": "12/11/2025, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40161,
+          43.64497
         ]
       }
     },
@@ -138,6 +138,106 @@
         "coordinates": [
           -79.40091,
           43.64651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/5/2025, 3:00:00 PM",
+        "EndTime": "12/11/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40157,
+          43.64554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Black & McDonald",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/8/2025, 1:00:00 PM",
+        "EndTime": "11/28/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39393,
+          43.64274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "false",
+        "Contractor": "Black & McDonald",
+        "PermitType": "false",
+        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/8/2025, 1:00:00 PM",
+        "EndTime": "11/28/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39405,
+          43.64271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/5/2025, 3:00:00 PM",
+        "EndTime": "12/11/2025, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40013,
+          43.64716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Amherst Crane",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Closure of Westbound Bremner Blvd from Rees St to Van de Water Crescent to facilitate a mobile crane hoist of structural steel to the Rogers Centre Westbound Bremner Blvd will be maintained with a diversion around the construction area utilizing the #2 Eastbound lane",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/6/2025, 12:00:00 PM",
+        "EndTime": "11/29/2025, 4:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38772,
+          43.6408
         ]
       }
     },
@@ -224,26 +324,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Capital Job restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/7/2025, 2:00:00 PM",
-        "EndTime": "11/15/2025, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39215,
-          43.64565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Utility",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Utility",
@@ -304,86 +384,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Black & McDonald",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/8/2025, 1:00:00 PM",
-        "EndTime": "11/28/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39405,
-          43.64271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "false",
-        "Contractor": "Black & McDonald",
-        "PermitType": "false",
-        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/8/2025, 1:00:00 PM",
-        "EndTime": "11/28/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39393,
-          43.64274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/5/2025, 3:00:00 PM",
-        "EndTime": "12/11/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40157,
-          43.64554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/5/2025, 3:00:00 PM",
-        "EndTime": "12/11/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40013,
-          43.64716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Storage of materials and equipment",
         "Contractor": "Madison Group",
         "PermitType": "Storage of materials and equipment",
@@ -428,26 +428,6 @@
         "Contractor": "GG Duncan Inc",
         "PermitType": "Other",
         "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "3/27/2024, 8:00:00 PM",
-        "EndTime": "2/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38778,
-          43.64723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "GG Duncan Inc",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
         "StartTime": "3/27/2024, 8:00:00 PM",
@@ -458,6 +438,26 @@
         "coordinates": [
           -79.3884,
           43.64757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "GG Duncan Inc",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "3/27/2024, 8:00:00 PM",
+        "EndTime": "2/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38778,
+          43.64723
         ]
       }
     },
