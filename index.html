@@ -35,6 +35,11 @@
   margin-right: 6px;
   border-radius: 2px;
 }
+#impact-legend {
+  top: 20px;
+  left: 20px;
+  height: 120px;
+}
 
   </style>
 </head>
@@ -50,6 +55,46 @@
     <div><span style="background:#E53935"></span>TTC Transit Work</div>
     <div><span style="background:#FB8C00"></span>Provincial Transit Work</div>
   </div>
+  <div id="impact-legend" class="map-legend">
+    <h4>Impact of Closure</h4>
+
+    <div>
+      <span style="
+        display:inline-block;
+        width:40px;
+        height:40px;
+        background:#555;
+        border-radius:50%;
+        margin-right:6px;
+      "></span>
+      High
+    </div>
+
+    <div>
+      <span style="
+        display:inline-block;
+        width:28px;
+        height:28px;
+        background:#777;
+        border-radius:50%;
+        margin-right:6px;
+      "></span>
+      Medium
+    </div>
+
+    <div>
+      <span style="
+        display:inline-block;
+        width:20px;
+        height:20px;
+        background:#999;
+        border-radius:50%;
+        margin-right:6px;
+      "></span>
+      Low
+    </div>
+  </div>
+
   <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
   <script>
     const map = new maplibregl.Map({
@@ -92,26 +137,45 @@
         type: 'circle',
         source: 'restrictions',
         paint: {
-            'circle-radius': [
+          'circle-radius': [
             'match',
             ['get', 'maxImpact'],
             'High', 24,
             'Medium', 16,
-            'Low', 12,
+            'Low', 10,
             6 // default if none match
             ],
-        'circle-color': [
-        'match',
-        ['get', 'WorkEventType'],
-        'Utility Work', '#7C4DFF',                // bright violet
-        'City of Toronto Construction', '#1E88E5', // bold blue
-        'Development', '#FFD600',                 // vivid yellow
-        'Metrolinx Transit Work', '#43A047',      // fresh green
-        'Other', '#FFAB91',                       // soft peach
-        'TTC Transit Work', '#E53935',            // bright red
-        'Provincial Transit Work', '#FB8C00',     // vibrant orange
-        '#BDBDBD' // default gray
-        ],
+          'circle-color': [
+            'case',
+
+            // special condition
+            [
+              'all',
+              ['==', ['get', 'WorkEventType'], 'Other'],
+              ['==', ['get', 'Contractor'], 'Ontario Transit Group']
+            ],
+            '#43A047',
+
+            // otherwise use a match
+            [
+              'match',
+              ['get', 'WorkEventType'],
+
+              'Utility Work', '#7C4DFF', // bright violet
+              'Utility', '#7C4DFF', // bright violet
+              'City of Toronto Construction', '#1E88E5', // bold blue
+              'true', '#1E88E5', // City of Toronto work; bold blue
+              'false', '#1E88E5', // City of Toronto work; bold blue
+              'Development', '#FFD600', // vivid yellow
+              'Metrolinx Transit Work', '#43A047', // fresh green
+              'Metrolinx', '#43A047', // fresh green
+              'Other', '#FFAB91', // soft peach
+              'TTC Transit Work', '#E53935',// bright red
+              'Provincial Transit Work', '#FB8C00', // vibrant orange
+
+              '#BDBDBD'
+            ]
+          ],
           'circle-opacity':0.8,
           'circle-stroke-color':'#fff',
           'circle-stroke-width':1

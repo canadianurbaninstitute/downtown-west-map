@@ -2,8 +2,9 @@ name: Update Road Restrictions
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # every 12 hours (at 00:00 and 12:00 UTC)
-  workflow_dispatch:       # manual trigger
+    - cron: "0 7 * * *" # 2 AM EST
+    - cron: "0 19 * * *" # 2 PM EST
+  workflow_dispatch: # manual trigger
 
 jobs:
   build:
@@ -15,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: "18"
 
       - name: Install dependencies
         run: npm ci
@@ -23,10 +24,40 @@ jobs:
       - name: Fetch & filter road restrictions
         run: node scripts/fetch-and-filter.js
 
+      - name: Validate output
+        run: |
+          # Check file exists and isn't empty
+          if [ ! -s data/road-restrictions.geojson ]; then
+            echo "Error: GeoJSON file is empty or missing"
+            exit 1
+          fi
+
+          # Validate JSON and ensure it has features
+          node - << 'EOF'
+          const fs = require('fs');
+          const data = JSON.parse(fs.readFileSync('data/road-restrictions.geojson', 'utf8'));
+
+          if (!Array.isArray(data.features)) {
+            console.error("Error: GeoJSON does not contain a features array");
+            process.exit(1);
+          }
+
+          if (data.features.length === 0) {
+            console.error("Error: GeoJSON contains zero features");
+            process.exit(1);
+          }
+
+          console.log("✓ GeoJSON is valid and has features");
+          EOF
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/road-restrictions.geojson
-          git diff --cached --quiet || git commit -m "chore: update road-restrictions data"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update road-restrictions data"
+            git push
+          fi

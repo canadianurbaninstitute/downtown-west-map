@@ -4,14 +4,54 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "2025-11-05, 10:00:00 a.m.",
+        "EndTime": "2025-12-11, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40013,
+          43.64716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "2025-11-05, 10:00:00 a.m.",
+        "EndTime": "2025-12-11, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40157,
+          43.64554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "false",
         "Contractor": "Black & McDonald",
         "PermitType": "false",
         "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/8/2025, 1:00:00 PM",
-        "EndTime": "11/28/2025, 8:00:00 PM"
+        "StartTime": "2025-09-08, 9:00:00 a.m.",
+        "EndTime": "2025-11-28, 3:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -30,8 +70,8 @@
         "Description": "Toronto-TMC: Install conduit and fibre to the buildings",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/3/2025, 2:00:00 PM",
-        "EndTime": "11/28/2025, 9:00:00 PM"
+        "StartTime": "2025-11-03, 9:00:00 a.m.",
+        "EndTime": "2025-11-28, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -50,8 +90,8 @@
         "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "9/8/2025, 1:00:00 PM",
-        "EndTime": "11/28/2025, 8:00:00 PM"
+        "StartTime": "2025-09-08, 9:00:00 a.m.",
+        "EndTime": "2025-11-28, 3:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -70,8 +110,8 @@
         "Description": "Toronto-TMC: Closure of Westbound Bremner Blvd from Rees St to Van de Water Crescent to facilitate a mobile crane hoist of structural steel to the Rogers Centre Westbound Bremner Blvd will be maintained with a diversion around the construction area utilizing the #2 Eastbound lane",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/6/2025, 12:00:00 PM",
-        "EndTime": "11/29/2025, 4:00:00 AM"
+        "StartTime": "2025-11-06, 7:00:00 a.m.",
+        "EndTime": "2025-11-28, 11:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -90,8 +130,8 @@
         "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/5/2025, 12:00:00 PM",
-        "EndTime": "12/23/2025, 10:00:00 PM"
+        "StartTime": "2025-11-05, 7:00:00 a.m.",
+        "EndTime": "2025-12-23, 5:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -110,8 +150,8 @@
         "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/17/2025, 12:00:00 PM",
-        "EndTime": "1/1/2026, 12:00:00 AM"
+        "StartTime": "2025-11-17, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -130,8 +170,8 @@
         "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "11/5/2025, 12:00:00 PM",
-        "EndTime": "12/11/2025, 10:00:00 PM"
+        "StartTime": "2025-11-05, 7:00:00 a.m.",
+        "EndTime": "2025-12-11, 5:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -150,8 +190,8 @@
         "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "11/5/2025, 12:00:00 PM",
-        "EndTime": "12/11/2025, 10:00:00 PM"
+        "StartTime": "2025-11-05, 7:00:00 a.m.",
+        "EndTime": "2025-12-11, 5:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -170,8 +210,8 @@
         "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/15/2025, 11:00:00 AM",
-        "EndTime": "1/1/2026, 12:00:00 AM"
+        "StartTime": "2025-09-15, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -190,8 +230,8 @@
         "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "11/5/2025, 12:00:00 PM",
-        "EndTime": "12/11/2025, 10:00:00 PM"
+        "StartTime": "2025-11-05, 7:00:00 a.m.",
+        "EndTime": "2025-12-11, 5:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -210,8 +250,8 @@
         "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
+        "StartTime": "2025-10-20, 7:00:00 a.m.",
+        "EndTime": "2025-12-20, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -230,8 +270,8 @@
         "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
+        "StartTime": "2025-10-20, 7:00:00 a.m.",
+        "EndTime": "2025-12-20, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -250,8 +290,8 @@
         "Description": "Toronto-TMC: Completing work for COT Project - 25ECS-RD-102LR. Sidewalks will be closed one at a time, always allowing pedestrians to have access down the road. Paving closures will allow local traffic at all times. Recon & Paving closures will be set up once per activity and drivable lane will be provided outside of work areas during recon. For paving closure will be set up and removed at end of day. Metrolinx Permits attached. Updated TCP attached. Access will be maintained at all times for residents. TCP & Cut permits attached.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "10/20/2025, 11:00:00 AM",
-        "EndTime": "12/21/2025, 12:00:00 AM"
+        "StartTime": "2025-10-20, 7:00:00 a.m.",
+        "EndTime": "2025-12-20, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -270,8 +310,8 @@
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "StartTime": "2025-01-01, 9:00:00 p.m.",
+        "EndTime": "2025-12-31, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -290,8 +330,8 @@
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "StartTime": "2025-01-01, 9:00:00 p.m.",
+        "EndTime": "2025-12-31, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -310,8 +350,8 @@
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "StartTime": "2025-01-01, 9:00:00 p.m.",
+        "EndTime": "2025-12-31, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -324,54 +364,14 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/5/2025, 3:00:00 PM",
-        "EndTime": "12/11/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40157,
-          43.64554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: October 3 through October 24 (excluding weekends and October 13), an OTG subcontractor plans to perform PWD/GIMP installation work in the OTG corridor area between King-Bathurst and Queen-Spadina. The contractor will work between the following hours: Main Arterials: Adelaide St W/Bathurst, Richmond St W/Maud St, Queen St W/Augusta, â€“ 10am to 3pm Side Streets: Adelaide Pl, Portland St, Augusta St, Cameron St â€“ 7am to 5pm",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/5/2025, 3:00:00 PM",
-        "EndTime": "12/11/2025, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40013,
-          43.64716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Grounded Engineering",
         "PermitType": "Other",
         "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "12/1/2025, 2:00:00 PM",
-        "EndTime": "12/2/2025, 9:00:00 PM"
+        "StartTime": "2025-12-01, 9:00:00 a.m.",
+        "EndTime": "2025-12-02, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -390,8 +390,8 @@
         "Description": "Toronto-TMC: Phase 4 of Rogers Centre renovation",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/20/2025, 11:00:00 AM",
-        "EndTime": "11/21/2025, 10:00:00 PM"
+        "StartTime": "2025-11-20, 6:00:00 a.m.",
+        "EndTime": "2025-11-21, 5:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -410,8 +410,8 @@
         "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/3/2025, 5:01:00 AM",
-        "EndTime": "12/1/2025, 4:59:00 AM"
+        "StartTime": "2025-11-03, 12:01:00 a.m.",
+        "EndTime": "2025-11-30, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -430,8 +430,28 @@
         "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "3/27/2024, 8:00:00 PM",
-        "EndTime": "2/6/2026, 9:00:00 PM"
+        "StartTime": "2024-03-27, 4:00:00 p.m.",
+        "EndTime": "2026-02-06, 4:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38778,
+          43.64723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "GG Duncan Inc",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "2024-03-27, 4:00:00 p.m.",
+        "EndTime": "2026-02-06, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -450,8 +470,8 @@
         "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "3/27/2024, 8:00:00 PM",
-        "EndTime": "2/6/2026, 9:00:00 PM"
+        "StartTime": "2024-03-27, 4:00:00 p.m.",
+        "EndTime": "2026-02-06, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -464,34 +484,14 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "GG Duncan Inc",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "3/27/2024, 8:00:00 PM",
-        "EndTime": "2/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38778,
-          43.64723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractor",
         "PermitType": "Toronto Hydro",
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "8/28/2025, 12:00:00 PM",
-        "EndTime": "11/28/2025, 8:00:00 PM"
+        "StartTime": "2025-08-28, 8:00:00 a.m.",
+        "EndTime": "2025-11-28, 3:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -510,8 +510,8 @@
         "Description": "Toronto-TMC: Osgoode Station Site Staging. One southbound lane closed along Simcoe St. between Queen St. W. and the Simcoe Laneway. Northbound University Ave. lanes shifted west to accommodate north shaft piling work. RoDARS to extend site staging. Extended permit not yet issued but has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 5:00:00 AM",
-        "EndTime": "1/1/2026, 4:59:00 AM"
+        "StartTime": "2025-01-01, 12:00:00 a.m.",
+        "EndTime": "2025-12-31, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -530,8 +530,8 @@
         "Description": "Toronto-TMC: Osgoode Station Site Staging. One southbound lane closed along Simcoe St. between Queen St. W. and the Simcoe Laneway. Northbound University Ave. lanes shifted west to accommodate north shaft piling work. RoDARS to extend site staging. Extended permit not yet issued but has been requested.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 5:00:00 AM",
-        "EndTime": "1/1/2026, 4:59:00 AM"
+        "StartTime": "2025-01-01, 12:00:00 a.m.",
+        "EndTime": "2025-12-31, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -550,8 +550,8 @@
         "Description": "Toronto-TMC: King-Bathurst Station site staging. Closure adjacent to South Shaft work area along Stewart St. Extended permit not yet issued, but has been applied for.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 5:00:00 AM",
-        "EndTime": "1/1/2026, 4:59:00 AM"
+        "StartTime": "2025-01-01, 12:00:00 a.m.",
+        "EndTime": "2025-12-31, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -570,8 +570,8 @@
         "Description": "Toronto-TMC: King-Bathurst Station site staging. Closure adjacent to South Shaft work area along Stewart St. Extended permit not yet issued, but has been applied for.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 5:00:00 AM",
-        "EndTime": "1/1/2026, 4:59:00 AM"
+        "StartTime": "2025-01-01, 12:00:00 a.m.",
+        "EndTime": "2025-12-31, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -590,8 +590,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/20/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-20, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -610,8 +610,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/20/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-20, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -630,8 +630,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station. Additional Notes",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/20/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-20, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -650,8 +650,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-01, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -670,8 +670,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-01, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -690,8 +690,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-01, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -710,8 +710,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-01, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
@@ -730,8 +730,8 @@
         "Description": "Toronto-TMC: Skydome SPS: o Approximately 190 m of 300 mm diameter of Primary Forcemain on Navy Wharf Ct and Blue Jays Way including proposed Discharge Maintenance Hole, and Valve Chambers, o Approximately 100 m of Twin 350 mm diameter Forcemains on Blue Jays Way including the installation at the underside of the Bridge over the Metrolinx Tracks and Expansion Joint Chambers, and o Processing, Structural, and Electrical Work inside the Pumping Station.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 12:00:00 PM",
-        "EndTime": "12/31/2025, 12:00:00 PM"
+        "StartTime": "2025-01-01, 7:00:00 a.m.",
+        "EndTime": "2025-12-31, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
