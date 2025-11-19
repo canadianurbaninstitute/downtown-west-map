@@ -2,8 +2,8 @@ name: Update Road Restrictions
 
 on:
   schedule:
-    - cron: "0 7 * * *" # 2 AM EST
-    - cron: "0 19 * * *" # 2 PM EST
+    - cron: "0 6 * * *" # 1 AM EST
+    - cron: "0 18 * * *" # 1 PM EST
   workflow_dispatch: # manual trigger
 
 jobs:
