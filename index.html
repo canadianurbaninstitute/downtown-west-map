@@ -105,7 +105,18 @@
     });
 
 
-    map.on('load', () => {
+    map.on('load', async () => {
+
+      // 1. Fetch the GeoJSON
+      let response = await fetch('data/road-restrictions.geojson');
+      let restrictions = await response.json();
+
+      // 2. Update WorkEventType for true/false values
+      restrictions.features.forEach(feature => {
+        if (feature.properties.WorkEventType === 'true' || feature.properties.WorkEventType === 'false') {
+          feature.properties.WorkEventType = "City of Toronto Construction";
+        }
+      });
       // 1. AOI polygon
       map.addSource('area', {
         type: 'geojson',
@@ -130,7 +141,7 @@
       // 2. Restrictions points
       map.addSource('restrictions', {
         type: 'geojson',
-        data: 'data/road-restrictions.geojson'
+        data: restrictions
       });
       map.addLayer({
         id: 'events',
@@ -164,8 +175,6 @@
               'Utility Work', '#7C4DFF', // bright violet
               'Utility', '#7C4DFF', // bright violet
               'City of Toronto Construction', '#1E88E5', // bold blue
-              'true', '#1E88E5', // City of Toronto work; bold blue
-              'false', '#1E88E5', // City of Toronto work; bold blue
               'Development', '#FFD600', // vivid yellow
               'Metrolinx Transit Work', '#43A047', // fresh green
               'Metrolinx', '#43A047', // fresh green
@@ -185,6 +194,7 @@
       // 3. Popup on click
       const popup = new maplibregl.Popup({ closeOnClick: true });
       map.on('click','events', e => {
+        console.log(e.features[0].properties);
         const p = e.features[0].properties;
         popup
           .setLngLat(e.lngLat)
