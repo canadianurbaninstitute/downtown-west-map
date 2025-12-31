@@ -4,40 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Sidewalk Construction, Infrastructure Enhancement",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Sidewalk Construction, Infrastructure Enhancement",
-        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/8/2025, 1:00:00 PM",
-        "EndTime": "12/31/2025, 8:00:00 PM"
+        "StartTime": "11/17/2025, 12:00:00 PM",
+        "EndTime": "1/1/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39405,
-          43.64271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "CCSL",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "12/18/2025, 1:00:00 PM",
-        "EndTime": "2/28/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39738,
-          43.64706
+          -79.3923,
+          43.64604
         ]
       }
     },
@@ -64,40 +44,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
+        "WorkEventType": "Other",
+        "Contractor": "CCSL",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "11/17/2025, 12:00:00 PM",
-        "EndTime": "1/1/2026, 12:00:00 AM"
+        "StartTime": "12/18/2025, 1:00:00 PM",
+        "EndTime": "2/28/2026, 10:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3923,
-          43.64604
+          -79.39738,
+          43.64706
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "WorkEventType": "Sidewalk Construction, Infrastructure Enhancement",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Sidewalk Construction, Infrastructure Enhancement",
+        "Description": "Toronto-TMC: APS Push button upgrade. 3 Push button Poles total",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/2/2025, 2:00:00 AM",
-        "EndTime": "12/31/2025, 11:00:00 AM"
+        "StartTime": "9/8/2025, 1:00:00 PM",
+        "EndTime": "12/31/2025, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
+          -79.39405,
+          43.64271
         ]
       }
     },
@@ -118,6 +98,26 @@
         "coordinates": [
           -79.40226,
           43.64425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2025, 2:00:00 AM",
+        "EndTime": "12/31/2025, 11:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
         ]
       }
     },
@@ -238,6 +238,66 @@
         "coordinates": [
           -79.39097,
           43.64529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39147,
+          43.64067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3915,
+          43.64075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39018,
+          43.64053
         ]
       }
     },
@@ -847,7 +907,7 @@
         "WorkEventType": "Utility",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Description": "Toronto-TMC: See attached TMP, Street Occupancy Permit, Cut Permit and Metrolinx approval",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
         "StartTime": "1/5/2026, 12:00:00 PM",
@@ -856,48 +916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39147,
-          43.64067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39018,
-          43.64053
+          -79.39296,
+          43.64057
         ]
       }
     },
@@ -929,26 +949,6 @@
         "PermitType": "Utility",
         "Description": "Toronto-TMC: See attached TMP, Street Occupancy Permit, Cut Permit and Metrolinx approval",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39296,
-          43.64057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: See attached TMP, Street Occupancy Permit, Cut Permit and Metrolinx approval",
-        "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "1/5/2026, 12:00:00 PM",
         "EndTime": "2/27/2026, 10:00:00 PM"
@@ -958,26 +958,6 @@
         "coordinates": [
           -79.39308,
           43.64073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "GG Duncan Inc",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "3/27/2024, 8:00:00 PM",
-        "EndTime": "2/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38769,
-          43.64703
         ]
       }
     },
@@ -998,6 +978,26 @@
         "coordinates": [
           -79.3884,
           43.64757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "GG Duncan Inc",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: 1 Westbound Lane Occupied on King Street W Ed Mirvish Way reduced to 1 lane southbound between Pearl Street and King Street West",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "3/27/2024, 8:00:00 PM",
+        "EndTime": "2/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38769,
+          43.64703
         ]
       }
     },
@@ -1136,8 +1136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39129,
-          43.64342
+          -79.39188,
+          43.64165
         ]
       }
     },
@@ -1216,8 +1216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39188,
-          43.64165
+          -79.39129,
+          43.64342
         ]
       }
     }
