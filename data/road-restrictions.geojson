@@ -4,60 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "1/2/2026, 2:00:00 AM",
-        "EndTime": "4/30/2026, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40226,
-          43.64425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
+        "WorkEventType": "Telecommunications",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: Open trench, install conduit and manhole",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "1/2/2026, 2:00:00 AM",
-        "EndTime": "4/30/2026, 10:00:00 AM"
+        "StartTime": "1/14/2026, 2:00:00 PM",
+        "EndTime": "1/23/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/2/2026, 2:00:00 AM",
-        "EndTime": "4/30/2026, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
+          -79.39781,
+          43.64544
         ]
       }
     },
@@ -78,86 +38,6 @@
         "coordinates": [
           -79.39738,
           43.64706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38887,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39147,
-          43.64067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38884,
-          43.64042
         ]
       }
     },
@@ -437,6 +317,26 @@
         "type": "Point",
         "coordinates": [
           -79.38884,
+          43.64042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38887,
           43.64042
         ]
       }
@@ -804,20 +704,120 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: Open trench, install conduit and manhole",
-        "Type": "ROAD_CLOSED",
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "1/5/2026, 2:00:00 PM",
-        "EndTime": "1/16/2026, 9:00:00 PM"
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39781,
-          43.64544
+          -79.38884,
+          43.64042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39147,
+          43.64067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3915,
+          43.64075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "1/2/2026, 2:00:00 AM",
+        "EndTime": "4/30/2026, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40226,
+          43.64425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2026, 2:00:00 AM",
+        "EndTime": "4/30/2026, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/2/2026, 2:00:00 AM",
+        "EndTime": "4/30/2026, 10:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38729,
+          43.65026
         ]
       }
     },
