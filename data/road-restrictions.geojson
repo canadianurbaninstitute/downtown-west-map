@@ -5,26 +5,6 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "CCSL",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "12/18/2025, 1:00:00 PM",
-        "EndTime": "2/28/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39738,
-          43.64706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
         "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
@@ -84,20 +64,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: See attached TMP, Street Occupancy Permit, Cut Permit and Metrolinx approval",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
+        "WorkEventType": "Other",
+        "Contractor": "CCSL",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "12/18/2025, 1:00:00 PM",
+        "EndTime": "2/28/2026, 10:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39308,
-          43.64073
+          -79.39738,
+          43.64706
         ]
       }
     },
@@ -118,26 +98,6 @@
         "coordinates": [
           -79.3915,
           43.64075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "2/27/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39018,
-          43.64053
         ]
       }
     },
@@ -178,6 +138,46 @@
         "coordinates": [
           -79.39281,
           43.64004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: See attached TMP, Street Occupancy Permit, Cut Permit and Metrolinx approval",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39308,
+          43.64073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "1/5/2026, 12:00:00 PM",
+        "EndTime": "2/27/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39018,
+          43.64053
         ]
       }
     },
@@ -988,7 +988,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "CONSTRUCTION",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
@@ -1008,7 +1008,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "ROAD_CLOSED",
+        "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
