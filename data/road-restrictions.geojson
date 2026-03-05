@@ -24,20 +24,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
+        "WorkEventType": "Utility Work",
+        "Contractor": "Powerline Plus",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: OH electrical ( Pole installation and stringing)",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "2/9/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
+        "StartTime": "3/28/2026, 1:00:00 PM",
+        "EndTime": "3/31/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39618,
-          43.64662
+          -79.40325,
+          43.64655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility Work",
+        "Contractor": "Powerline Plus",
+        "PermitType": "Utility Work",
+        "Description": "Toronto-TMC: OH electrical ( Pole installation and stringing)",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "3/24/2026, 1:00:00 PM",
+        "EndTime": "3/27/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40331,
+          43.64547
         ]
       }
     },
@@ -68,7 +88,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "CONSTRUCTION",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
@@ -88,7 +108,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "ROAD_CLOSED",
+        "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
