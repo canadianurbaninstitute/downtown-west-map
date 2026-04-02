@@ -5,20 +5,187 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "ONTrack Alliance",
+        "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Investigate watermain at York and Front intersection. See attached Metrolinx construction notice.",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "4/7/2026, 1:00:00 AM",
-        "EndTime": "4/8/2026, 9:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "2026-01-01, 10:00:00 a.m.",
+        "EndTime": "2026-04-30, 3:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38258,
-          43.64534
-        ]
+        "coordinates": [-79.40226, 43.64425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-01, 10:00:00 a.m.",
+        "EndTime": "2026-04-30, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38729, 43.65026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-01, 10:00:00 a.m.",
+        "EndTime": "2026-04-30, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38729, 43.65026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: APS push button upgrade",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 8:00:00 a.m.",
+        "EndTime": "2026-04-03, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39164, 43.64333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: APS push button upgrade",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 8:00:00 a.m.",
+        "EndTime": "2026-04-03, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39129, 43.64342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: APS push button upgrade",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 8:00:00 a.m.",
+        "EndTime": "2026-04-03, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39136, 43.64362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: APS push button upgrade",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 8:00:00 a.m.",
+        "EndTime": "2026-04-03, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39129, 43.64342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: APS push button upgrade",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 8:00:00 a.m.",
+        "EndTime": "2026-04-03, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39119, 43.64322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: APS push button upgrade",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 8:00:00 a.m.",
+        "EndTime": "2026-04-03, 3:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39129, 43.64342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38743, 43.64101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38762, 43.64086]
       }
     },
     {
@@ -30,15 +197,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38884,
-          43.64042
-        ]
+        "coordinates": [-79.3914, 43.64047]
       }
     },
     {
@@ -50,15 +214,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38884,
-          43.64042
-        ]
+        "coordinates": [-79.3915, 43.64075]
       }
     },
     {
@@ -70,15 +231,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
+        "coordinates": [-79.3914, 43.64045]
       }
     },
     {
@@ -90,15 +248,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
+        "coordinates": [-79.3915, 43.64075]
       }
     },
     {
@@ -110,75 +265,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38788,
-          43.64071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38741,
-          43.64067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
-        ]
+        "coordinates": [-79.38998, 43.6405]
       }
     },
     {
@@ -190,15 +282,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3929,
-          43.64027
-        ]
+        "coordinates": [-79.3929, 43.64027]
       }
     },
     {
@@ -210,15 +299,182 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38998,
-          43.6405
-        ]
+        "coordinates": [-79.3915, 43.64075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39129, 43.64342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39018, 43.64053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38886, 43.64042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38884, 43.64042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38887, 43.64042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39147, 43.64067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39221, 43.6458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39177, 43.64472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39152, 43.64336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39129, 43.64342]
       }
     },
     {
@@ -230,15 +486,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38998,
-          43.6405
-        ]
+        "coordinates": [-79.39029, 43.64055]
       }
     },
     {
@@ -250,15 +503,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3903,
-          43.64055
-        ]
+        "coordinates": [-79.3903, 43.64055]
       }
     },
     {
@@ -270,15 +520,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39029,
-          43.64055
-        ]
+        "coordinates": [-79.38998, 43.6405]
       }
     },
     {
@@ -290,15 +537,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
+        "coordinates": [-79.3915, 43.64075]
       }
     },
     {
@@ -310,15 +554,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38998,
-          43.6405
-        ]
+        "coordinates": [-79.39151, 43.64075]
       }
     },
     {
@@ -330,15 +571,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
+        "coordinates": [-79.38762, 43.64086]
       }
     },
     {
@@ -350,15 +588,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3914,
-          43.64045
-        ]
+        "coordinates": [-79.38762, 43.64086]
       }
     },
     {
@@ -370,15 +605,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
+        "coordinates": [-79.38788, 43.64071]
       }
     },
     {
@@ -390,15 +622,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3914,
-          43.64047
-        ]
+        "coordinates": [-79.38884, 43.64042]
       }
     },
     {
@@ -410,15 +639,114 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39151,
-          43.64075
-        ]
+        "coordinates": [-79.38741, 43.64067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38754, 43.64079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38762, 43.64086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38754, 43.64092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38774, 43.64079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38741, 43.64103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38762, 43.64086]
       }
     },
     {
@@ -430,15 +758,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39195,
-          43.64077
-        ]
+        "coordinates": [-79.38998, 43.6405]
       }
     },
     {
@@ -450,175 +775,573 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
+        "coordinates": [-79.38884, 43.64042]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38984, 43.64048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38996, 43.64049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39135, 43.64072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38983, 43.64047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39018, 43.64053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38774, 43.64079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.393, 43.64056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38762, 43.64086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Bremner Blvd from Spadina Ave to Rees St. - Permanent restoration of the concrete sidewalk at Bremner Blvd & Rees St. - One side of the road in both directions (eastbound and westbound) will remain open all the time. - On certain days project will be carried out through the night shift.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-04-02, 7:00:00 a.m.",
+        "EndTime": "2026-04-02, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39291, 43.64058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3917, 43.64077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38984, 43.64048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39017, 43.64053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38886, 43.64042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38884, 43.64042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3915, 43.64075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3923, 43.64604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38791, 43.64069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38762, 43.64086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38762, 43.64086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-01-05, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38746, 43.64072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39221, 43.64581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39177, 43.64472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Contractor": "Viola Management Inc.",
+        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
+        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-23, 7:00:00 a.m.",
+        "EndTime": "2026-05-01, 7:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39174, 43.64463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-30, 7:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.39195, 43.64077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38982, 43.64681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "EGNATIA PAVING",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39015,
-          43.64651
-        ]
+        "coordinates": [-79.38973, 43.6466]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38973,
-          43.6466
-        ]
+        "coordinates": [-79.38984, 43.64686]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38939,
-          43.64667
-        ]
+        "coordinates": [-79.39012, 43.64652]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38973,
-          43.6466
-        ]
+        "coordinates": [-79.39015, 43.64651]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38984,
-          43.64686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38973,
-          43.6466
-        ]
+        "coordinates": [-79.38973, 43.6466]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "maxImpact": "Medium",
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38982,
-          43.64681
-        ]
+        "coordinates": [-79.38939, 43.64667]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38973,
-          43.6466
-        ]
+        "coordinates": [-79.38973, 43.6466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "EGNATIA PAVING",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "2026-03-25, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 6:00:00 a.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38973, 43.6466]
       }
     },
     {
@@ -630,815 +1353,29 @@
         "Description": "Toronto-TMC: Evening closure of Simcoe St. for bollard removal, curb cutting, and line painting. Pedestrian sidewalk to remain open on eastern side of Simcoe. Cyclists detoured and southbound lanes fully closed.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "3/31/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 9:00:00 AM"
+        "StartTime": "2026-03-30, 9:00:00 p.m.",
+        "EndTime": "2026-04-03, 5:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38727,
-          43.65025
-        ]
+        "coordinates": [-79.38727, 43.65025]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
+        "WorkEventType": "Other",
+        "Contractor": "ONTrack Alliance",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Investigate watermain at York and Front intersection. See attached Metrolinx construction notice.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "3/26/2026, 1:00:00 AM",
-        "EndTime": "4/3/2026, 10:00:00 AM"
+        "StartTime": "2026-04-06, 9:00:00 p.m.",
+        "EndTime": "2026-04-08, 5:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39012,
-          43.64652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39221,
-          43.64581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39177,
-          43.64472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39174,
-          43.64463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39221,
-          43.6458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39177,
-          43.64472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39152,
-          43.64336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Contractor": "Viola Management Inc.",
-        "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
-        "Description": "Toronto-TMC: City of Toronto CONTRACT No. 25TR-OM-210-TEY-CI. Critical Interim Repairs within the Toronto and East York District",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "3/23/2026, 11:00:00 AM",
-        "EndTime": "5/1/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3923,
-          43.64604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38774,
-          43.64079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39018,
-          43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38774,
-          43.64079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38743,
-          43.64101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38746,
-          43.64072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38791,
-          43.64069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38984,
-          43.64048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38996,
-          43.64049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39018,
-          43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38886,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38887,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38884,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38741,
-          43.64103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38754,
-          43.64092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38754,
-          43.64079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39147,
-          43.64067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38884,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39135,
-          43.64072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39017,
-          43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38984,
-          43.64048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38983,
-          43.64047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3917,
-          43.64077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38886,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: Cable chamber and duct installations on Bremner Blvd. at Spadina Ave to Rees St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/5/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: Tree pruning on Stewart St. for the purpose of ensuring monitoring equipment is clear and uncovered. Pedestrians detoured around sidewalk closure.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "4/2/2026, 12:00:00 PM",
-        "EndTime": "4/2/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40129,
-          43.64342
-        ]
+        "coordinates": [-79.38258, 43.64534]
       }
     },
     {
@@ -1450,15 +1387,12 @@
         "Description": "Toronto-TMC: GPR survey along TTC streetcar track on Queen St. W. Traffic crew and paid duty officer to assist with traffic control. Survey/utility investigations in TTC corridor coordinated with TTC.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "4/4/2026, 10:00:00 PM",
-        "EndTime": "4/5/2026, 8:00:00 AM"
+        "StartTime": "2026-04-04, 6:00:00 p.m.",
+        "EndTime": "2026-04-05, 4:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39612,
-          43.64815
-        ]
+        "coordinates": [-79.39612, 43.64815]
       }
     },
     {
@@ -1470,195 +1404,12 @@
         "Description": "Toronto-TMC: Full closure of Simcoe St. for bollard removal, curb cutting, and line painting. Pedestrian sidewalk to remain open on eastern side of Simcoe. Cyclists detoured and southbound lanes fully closed.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "4/4/2026, 4:00:00 AM",
-        "EndTime": "5/1/2026, 3:59:00 AM"
+        "StartTime": "2026-04-04, 12:00:00 a.m.",
+        "EndTime": "2026-04-30, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38727,
-          43.65025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "1/1/2026, 3:00:00 PM",
-        "EndTime": "4/30/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40226,
-          43.64425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2026, 3:00:00 PM",
-        "EndTime": "4/30/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Surveying of monitoring points across the OTG Corridor. Intermittent and VSD closures assisted by a PDO/vehicle and signalized work vehicle. Evening work hours, Sunday - Friday nights (9pm-6am), excluding holidays. This permit has expired -- an extended permit has been requested.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "1/1/2026, 3:00:00 PM",
-        "EndTime": "4/30/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38729,
-          43.65026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "Black & McDonald",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: APS push button upgrade",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 12:00:00 PM",
-        "EndTime": "4/3/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "Black & McDonald",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: APS push button upgrade",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 12:00:00 PM",
-        "EndTime": "4/3/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39136,
-          43.64362
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "Black & McDonald",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: APS push button upgrade",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 12:00:00 PM",
-        "EndTime": "4/3/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "Black & McDonald",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: APS push button upgrade",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 12:00:00 PM",
-        "EndTime": "4/3/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39119,
-          43.64322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "Black & McDonald",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: APS push button upgrade",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 12:00:00 PM",
-        "EndTime": "4/3/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Contractor": "Black & McDonald",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
-        "Description": "Toronto-TMC: APS push button upgrade",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 12:00:00 PM",
-        "EndTime": "4/3/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39164,
-          43.64333
-        ]
+        "coordinates": [-79.38727, 43.65025]
       }
     },
     {
@@ -1670,15 +1421,12 @@
         "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "4/1/2026, 4:00:00 AM",
-        "EndTime": "5/1/2026, 3:59:00 AM"
+        "StartTime": "2026-04-01, 12:00:00 a.m.",
+        "EndTime": "2026-04-30, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39086,
-          43.64532
-        ]
+        "coordinates": [-79.39086, 43.64532]
       }
     },
     {
@@ -1690,15 +1438,12 @@
         "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/3/2026, 12:00:00 PM",
-        "EndTime": "4/10/2026, 8:00:00 PM"
+        "StartTime": "2026-04-03, 8:00:00 a.m.",
+        "EndTime": "2026-04-10, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38916,
-          43.64521
-        ]
+        "coordinates": [-79.38916, 43.64521]
       }
     },
     {
@@ -1710,15 +1455,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/3/2026, 12:00:00 AM",
-        "EndTime": "4/13/2026, 9:00:00 AM"
+        "StartTime": "2026-04-02, 8:00:00 p.m.",
+        "EndTime": "2026-04-13, 5:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39277,
-          43.64061
-        ]
+        "coordinates": [-79.39277, 43.64061]
       }
     },
     {
@@ -1730,15 +1472,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/6/2026, 12:00:00 AM",
-        "EndTime": "4/13/2026, 9:00:00 AM"
+        "StartTime": "2026-04-02, 8:00:00 p.m.",
+        "EndTime": "2026-04-13, 5:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38828,
-          43.64055
-        ]
+        "coordinates": [-79.39131, 43.64072]
       }
     },
     {
@@ -1750,15 +1489,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/3/2026, 12:00:00 AM",
-        "EndTime": "4/13/2026, 9:00:00 AM"
+        "StartTime": "2026-04-05, 8:00:00 p.m.",
+        "EndTime": "2026-04-13, 5:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39131,
-          43.64072
-        ]
+        "coordinates": [-79.38828, 43.64055]
       }
     },
     {
@@ -1770,35 +1506,12 @@
         "Description": "Toronto-TMC: Open trench, install conduit",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "4/13/2026, 1:00:00 PM",
-        "EndTime": "4/17/2026, 8:00:00 PM"
+        "StartTime": "2026-04-13, 9:00:00 a.m.",
+        "EndTime": "2026-04-17, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.40257,
-          43.64395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Telecon Design Inc. SUE Department",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "4/20/2026, 1:00:00 PM",
-        "EndTime": "4/24/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38865,
-          43.6482
-        ]
+        "coordinates": [-79.40257, 43.64395]
       }
     },
     {
@@ -1810,15 +1523,29 @@
         "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/20/2026, 1:00:00 PM",
-        "EndTime": "4/24/2026, 8:00:00 PM"
+        "StartTime": "2026-04-20, 9:00:00 a.m.",
+        "EndTime": "2026-04-24, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38855,
-          43.64796
-        ]
+        "coordinates": [-79.38855, 43.64796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Telecon Design Inc. SUE Department",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "2026-04-20, 9:00:00 a.m.",
+        "EndTime": "2026-04-24, 4:00:00 p.m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.38865, 43.6482]
       }
     },
     {
@@ -1830,15 +1557,12 @@
         "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Bremner Blvd from Spadina Ave to Rees St. - Permanent restoration of the concrete sidewalk at Bremner Blvd & Rees St. - One side of the road in both directions (eastbound and westbound) will remain open all the time. - On certain days project will be carried out through the night shift.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "5/14/2026, 4:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "2026-05-14, 12:00:00 a.m.",
+        "EndTime": "2026-05-17, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3929,
-          43.64058
-        ]
+        "coordinates": [-79.3929, 43.64058]
       }
     },
     {
@@ -1850,15 +1574,12 @@
         "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Bremner Blvd from Spadina Ave to Rees St. - Permanent restoration of the concrete sidewalk at Bremner Blvd & Rees St. - One side of the road in both directions (eastbound and westbound) will remain open all the time. - On certain days project will be carried out through the night shift.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/30/2026, 4:00:00 AM",
-        "EndTime": "5/8/2026, 7:00:00 PM"
+        "StartTime": "2026-04-30, 12:00:00 a.m.",
+        "EndTime": "2026-05-08, 3:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39293,
-          43.64058
-        ]
+        "coordinates": [-79.39293, 43.64058]
       }
     },
     {
@@ -1870,35 +1591,12 @@
         "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Bremner Blvd from Spadina Ave to Rees St. - Permanent restoration of the concrete sidewalk at Bremner Blvd & Rees St. - One side of the road in both directions (eastbound and westbound) will remain open all the time. - On certain days project will be carried out through the night shift.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/2/2026, 11:00:00 AM",
-        "EndTime": "4/2/2026, 11:00:00 PM"
+        "StartTime": "2026-04-13, 12:00:00 a.m.",
+        "EndTime": "2026-04-24, 3:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39291,
-          43.64058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Bremner Blvd from Spadina Ave to Rees St. - Permanent restoration of the concrete sidewalk at Bremner Blvd & Rees St. - One side of the road in both directions (eastbound and westbound) will remain open all the time. - On certain days project will be carried out through the night shift.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "4/13/2026, 4:00:00 AM",
-        "EndTime": "4/24/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39294,
-          43.64058
-        ]
+        "coordinates": [-79.39294, 43.64058]
       }
     },
     {
@@ -1910,15 +1608,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/6/2026, 11:00:00 AM",
-        "EndTime": "4/10/2026, 11:00:00 PM"
+        "StartTime": "2026-04-06, 7:00:00 a.m.",
+        "EndTime": "2026-04-10, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.40006,
-          43.64444
-        ]
+        "coordinates": [-79.40006, 43.64444]
       }
     },
     {
@@ -1930,15 +1625,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "4/6/2026, 11:00:00 AM",
-        "EndTime": "4/10/2026, 11:00:00 PM"
+        "StartTime": "2026-04-06, 7:00:00 a.m.",
+        "EndTime": "2026-04-10, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39993,
-          43.64447
-        ]
+        "coordinates": [-79.39993, 43.64447]
       }
     },
     {
@@ -1950,15 +1642,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/6/2026, 11:00:00 AM",
-        "EndTime": "4/10/2026, 11:00:00 PM"
+        "StartTime": "2026-04-06, 7:00:00 a.m.",
+        "EndTime": "2026-04-10, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.3896,
-          43.64591
-        ]
+        "coordinates": [-79.3896, 43.64591]
       }
     },
     {
@@ -1970,15 +1659,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "4/6/2026, 1:00:00 PM",
-        "EndTime": "4/10/2026, 8:00:00 PM"
+        "StartTime": "2026-04-06, 9:00:00 a.m.",
+        "EndTime": "2026-04-10, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.40052,
-          43.6471
-        ]
+        "coordinates": [-79.40052, 43.6471]
       }
     },
     {
@@ -1990,15 +1676,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "4/6/2026, 1:00:00 PM",
-        "EndTime": "4/10/2026, 8:00:00 PM"
+        "StartTime": "2026-04-06, 9:00:00 a.m.",
+        "EndTime": "2026-04-10, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.40011,
-          43.64715
-        ]
+        "coordinates": [-79.40011, 43.64715]
       }
     },
     {
@@ -2010,15 +1693,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/6/2026, 11:00:00 AM",
-        "EndTime": "4/10/2026, 11:00:00 PM"
+        "StartTime": "2026-04-06, 7:00:00 a.m.",
+        "EndTime": "2026-04-10, 7:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38708,
-          43.64977
-        ]
+        "coordinates": [-79.38708, 43.64977]
       }
     },
     {
@@ -2030,55 +1710,46 @@
         "Description": "Toronto-TMC: Continuous closure of one eastbound lane at 263 Adelaide Street West, and re-routing of sidewalk.",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "3/25/2026, 4:00:00 AM",
-        "EndTime": "1/1/2027, 4:59:00 AM"
+        "StartTime": "2026-03-25, 12:00:00 a.m.",
+        "EndTime": "2026-12-31, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.38931,
-          43.64806
-        ]
+        "coordinates": [-79.38931, 43.64806]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Toronto Water\"",
+        "WorkEventType": "Toronto Water",
         "Contractor": "Insituform Technologies Ltd",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Toronto Water\"",
+        "PermitType": "Toronto Water",
         "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
         "Type": "CONSTRUCTION",
         "maxImpact": "Medium",
-        "StartTime": "4/11/2026, 11:00:00 PM",
-        "EndTime": "4/12/2026, 11:00:00 AM"
+        "StartTime": "2026-04-11, 7:00:00 p.m.",
+        "EndTime": "2026-04-12, 7:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39398,
-          43.64285
-        ]
+        "coordinates": [-79.39398, 43.64285]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "WorkEventType": "Transportation Services",
         "Contractor": "EGNATIA PAVING",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Transportation Services\"",
+        "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: General Maintenance Contract for sidewalk, curb and road work",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/6/2026, 1:00:00 PM",
-        "EndTime": "4/13/2026, 8:00:00 PM"
+        "StartTime": "2026-04-06, 9:00:00 a.m.",
+        "EndTime": "2026-04-13, 4:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39051,
-          43.64359
-        ]
+        "coordinates": [-79.39051, 43.64359]
       }
     },
     {
@@ -2090,15 +1761,12 @@
         "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: Approved",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "2/9/2026, 12:00:00 PM",
-        "EndTime": "4/30/2026, 9:00:00 PM"
+        "StartTime": "2026-02-09, 7:00:00 a.m.",
+        "EndTime": "2026-04-30, 5:00:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39618,
-          43.64662
-        ]
+        "coordinates": [-79.39618, 43.64662]
       }
     },
     {
@@ -2110,15 +1778,12 @@
         "Description": "Toronto-TMC: King-Bathurst Station site staging. Closure adjacent to South Shaft work area along Stewart St. Extended permit not yet issued, but has been applied for.",
         "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "1/1/2025, 5:00:00 AM",
-        "EndTime": "5/1/2026, 3:59:00 AM"
+        "StartTime": "2025-01-01, 12:00:00 a.m.",
+        "EndTime": "2026-04-30, 11:59:00 p.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.4024,
-          43.64319
-        ]
+        "coordinates": [-79.4024, 43.64319]
       }
     },
     {
@@ -2130,15 +1795,12 @@
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "ROAD_CLOSED",
         "maxImpact": "High",
-        "StartTime": "12/18/2025, 5:00:00 AM",
-        "EndTime": "5/31/2026, 4:00:00 AM"
+        "StartTime": "2025-12-18, 12:00:00 a.m.",
+        "EndTime": "2026-05-31, 12:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39297,
-          43.64589
-        ]
+        "coordinates": [-79.39297, 43.64589]
       }
     },
     {
@@ -2150,15 +1812,12 @@
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "12/18/2025, 5:00:00 AM",
-        "EndTime": "5/31/2026, 4:00:00 AM"
+        "StartTime": "2025-12-18, 12:00:00 a.m.",
+        "EndTime": "2026-05-31, 12:00:00 a.m."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.39297,
-          43.64589
-        ]
+        "coordinates": [-79.39297, 43.64589]
       }
     }
   ]
