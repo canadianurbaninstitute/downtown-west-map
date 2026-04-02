@@ -1,204 +1,244 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-  <title>Toronto Road Restrictions</title>
-  <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
-  <style>
-    body, html { margin:0; padding:0; height:100% }
-    #map { width:100%; height:100% }
-    .map-legend {
-  background: white;
-  padding: 10px;
-  font-family: sans-serif;
-  font-size: 13px;
-  border-radius: 4px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
-  position: absolute;
-  bottom: 30px;
-  left: 10px;
-  z-index: 1;
-}
-.map-legend h4 {
-  margin: 0 0 8px;
-}
-.map-legend div {
-  margin-bottom: 4px;
-  display: flex;
-  align-items: center;
-}
-.map-legend span {
-  display: inline-block;
-  width: 14px;
-  height: 14px;
-  margin-right: 6px;
-  border-radius: 2px;
-}
-#impact-legend {
-  top: 20px;
-  left: 20px;
-  height: 120px;
-}
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <title>Toronto Road Restrictions</title>
+    <link
+      href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css"
+      rel="stylesheet"
+    />
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+      #map {
+        width: 100%;
+        height: 100%;
+      }
+      .map-legend {
+        background: white;
+        padding: 10px;
+        font-family: sans-serif;
+        font-size: 13px;
+        border-radius: 4px;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+        position: absolute;
+        bottom: 30px;
+        left: 10px;
+        z-index: 1;
+      }
+      .map-legend h4 {
+        margin: 0 0 8px;
+      }
+      .map-legend div {
+        margin-bottom: 4px;
+        display: flex;
+        align-items: center;
+      }
+      .map-legend span {
+        display: inline-block;
+        width: 14px;
+        height: 14px;
+        margin-right: 6px;
+        border-radius: 2px;
+      }
+      #impact-legend {
+        top: 20px;
+        left: 20px;
+        height: 120px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="legend" class="map-legend">
+      <h4>Work Event Types</h4>
+      <div><span style="background: #7c4dff"></span>Utility Work</div>
+      <div>
+        <span style="background: #1e88e5"></span>City of Toronto Construction
+      </div>
+      <div><span style="background: #d9ff00"></span>Development</div>
+      <div><span style="background: #43a047"></span>Metrolinx Transit Work</div>
+      <div><span style="background: #ffab91"></span>Other</div>
+      <div><span style="background: #e53935"></span>TTC Transit Work</div>
+      <div><span style="background: #fcc100"></span>Toronto Hydro</div>
+      <div>
+        <span style="background: #fb8c00"></span>Provincial Transit Work
+      </div>
+    </div>
+    <div id="impact-legend" class="map-legend">
+      <h4>Impact of Closure</h4>
 
-  </style>
-</head>
-<body>
-  <div id="map"></div>
-  <div id="legend" class="map-legend">
-    <h4>Work Event Types</h4>
-    <div><span style="background:#7C4DFF"></span>Utility Work</div>
-    <div><span style="background:#1E88E5"></span>City of Toronto Construction</div>
-    <div><span style="background:#FFD600"></span>Development</div>
-    <div><span style="background:#43A047"></span>Metrolinx Transit Work</div>
-    <div><span style="background:#FFAB91"></span>Other</div>
-    <div><span style="background:#E53935"></span>TTC Transit Work</div>
-    <div><span style="background:#FB8C00"></span>Provincial Transit Work</div>
-  </div>
-  <div id="impact-legend" class="map-legend">
-    <h4>Impact of Closure</h4>
+      <div>
+        <span
+          style="
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #555;
+            border-radius: 50%;
+            margin-right: 6px;
+          "
+        ></span>
+        High
+      </div>
 
-    <div>
-      <span style="
-        display:inline-block;
-        width:40px;
-        height:40px;
-        background:#555;
-        border-radius:50%;
-        margin-right:6px;
-      "></span>
-      High
+      <div>
+        <span
+          style="
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: #777;
+            border-radius: 50%;
+            margin-right: 6px;
+          "
+        ></span>
+        Medium
+      </div>
+
+      <div>
+        <span
+          style="
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background: #999;
+            border-radius: 50%;
+            margin-right: 6px;
+          "
+        ></span>
+        Low
+      </div>
     </div>
 
-    <div>
-      <span style="
-        display:inline-block;
-        width:28px;
-        height:28px;
-        background:#777;
-        border-radius:50%;
-        margin-right:6px;
-      "></span>
-      Medium
-    </div>
-
-    <div>
-      <span style="
-        display:inline-block;
-        width:20px;
-        height:20px;
-        background:#999;
-        border-radius:50%;
-        margin-right:6px;
-      "></span>
-      Low
-    </div>
-  </div>
-
-  <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
-  <script>
-    const map = new maplibregl.Map({
-      container: 'map',
-      style: 'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json',
-      center: [-79.39136024919026, 43.64444808909883],
-      zoom: 14.5
-    });
-
-
-    map.on('load', async () => {
-
-      // 1. Fetch the GeoJSON
-      let response = await fetch('data/road-restrictions.geojson');
-      let restrictions = await response.json();
-
-      // 2. Update WorkEventType for true/false values
-      restrictions.features.forEach(feature => {
-        if (feature.properties.WorkEventType === 'true' || feature.properties.WorkEventType === 'false') {
-          feature.properties.WorkEventType = "City of Toronto Construction";
-        }
+    <script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+    <script>
+      const map = new maplibregl.Map({
+        container: "map",
+        style: "https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json",
+        center: [-79.39136024919026, 43.64444808909883],
+        zoom: 14.5,
       });
-      // 1. AOI polygon
-      map.addSource('area', {
-        type: 'geojson',
-        data: 'data/downtown-west.geojson'
-      });
-      map.addLayer({
-        id: 'area-fill',
-        type: 'fill',
-        source: 'area',
-        paint: { 'fill-color':'#EEE','fill-opacity':0.1 }
-      });
-      map.addLayer({
-        id: 'area-line',
-        type: 'line',
-        source: 'area',
-        paint: {
-            'line-color': '#E4701D',
-            'line-width': 2
-        }
+
+      map.on("load", async () => {
+        // 1. Fetch the GeoJSON
+        let response = await fetch("data/road-restrictions.geojson");
+        let restrictions = await response.json();
+
+        // 2. Update WorkEventType for true/false values
+        restrictions.features.forEach((feature) => {
+          if (
+            feature.properties.WorkEventType === "true" ||
+            feature.properties.WorkEventType === "false"
+          ) {
+            feature.properties.WorkEventType = "City of Toronto Construction";
+          }
+        });
+        // 1. AOI polygon
+        map.addSource("area", {
+          type: "geojson",
+          data: "data/downtown-west.geojson",
+        });
+        map.addLayer({
+          id: "area-fill",
+          type: "fill",
+          source: "area",
+          paint: { "fill-color": "#EEE", "fill-opacity": 0.1 },
+        });
+        map.addLayer({
+          id: "area-line",
+          type: "line",
+          source: "area",
+          paint: {
+            "line-color": "#E4701D",
+            "line-width": 2,
+          },
         });
 
-      // 2. Restrictions points
-      map.addSource('restrictions', {
-        type: 'geojson',
-        data: restrictions
-      });
-      map.addLayer({
-        id: 'events',
-        type: 'circle',
-        source: 'restrictions',
-        paint: {
-          'circle-radius': [
-            'match',
-            ['get', 'maxImpact'],
-            'High', 24,
-            'Medium', 16,
-            'Low', 10,
-            6 // default if none match
+        // 2. Restrictions points
+        map.addSource("restrictions", {
+          type: "geojson",
+          data: restrictions,
+        });
+        map.addLayer({
+          id: "events",
+          type: "circle",
+          source: "restrictions",
+          paint: {
+            "circle-radius": [
+              "match",
+              ["get", "maxImpact"],
+              "High",
+              24,
+              "Medium",
+              16,
+              "Low",
+              10,
+              6, // default if none match
             ],
-          'circle-color': [
-            'case',
+            "circle-color": [
+              "case",
 
-            // special condition
-            [
-              'all',
-              ['==', ['get', 'WorkEventType'], 'Other'],
-              ['==', ['get', 'Contractor'], 'Ontario Transit Group']
+              // special condition
+              [
+                "all",
+                ["==", ["get", "WorkEventType"], "Other"],
+                ["==", ["get", "Contractor"], "Ontario Transit Group"],
+              ],
+              "#43A047",
+
+              // otherwise use a match
+              [
+                "match",
+                ["get", "WorkEventType"],
+
+                "Utility Work",
+                "#7C4DFF", // bright violet
+                "Utility",
+                "#7C4DFF", // bright violet
+                "City of Toronto Construction",
+                "#1E88E5", // bold blue
+                "Development",
+                "#d9ff00", // vivid yellow
+                "Metrolinx Transit Work",
+                "#43A047", // fresh green
+                "Metrolinx",
+                "#43A047", // fresh green
+                "Other",
+                "#FFAB91", // soft peach
+                "TTC Transit Work",
+                "#E53935", // bright red
+                "Provincial Transit Work",
+                "#FB8C00", // vibrant orange
+                "Toronto Hydro",
+                "#fcc100",
+
+                "#FFAB91",
+              ],
             ],
-            '#43A047',
+            "circle-opacity": 0.8,
+            "circle-stroke-color": "#fff",
+            "circle-stroke-width": 1,
+          },
+        });
 
-            // otherwise use a match
-            [
-              'match',
-              ['get', 'WorkEventType'],
-
-              'Utility Work', '#7C4DFF', // bright violet
-              'Utility', '#7C4DFF', // bright violet
-              'City of Toronto Construction', '#1E88E5', // bold blue
-              'Development', '#FFD600', // vivid yellow
-              'Metrolinx Transit Work', '#43A047', // fresh green
-              'Metrolinx', '#43A047', // fresh green
-              'Other', '#FFAB91', // soft peach
-              'TTC Transit Work', '#E53935',// bright red
-              'Provincial Transit Work', '#FB8C00', // vibrant orange
-
-              '#BDBDBD'
-            ]
-          ],
-          'circle-opacity':0.8,
-          'circle-stroke-color':'#fff',
-          'circle-stroke-width':1
-        }
-      });
-
-      // 3. Popup on click
-      const popup = new maplibregl.Popup({ closeOnClick: true });
-      map.on('click','events', e => {
-        console.log(e.features[0].properties);
-        const p = e.features[0].properties;
-        popup
-          .setLngLat(e.lngLat)
-          .setHTML(`
+        // 3. Popup on click
+        const popup = new maplibregl.Popup({ closeOnClick: true });
+        map.on("click", "events", (e) => {
+          console.log(e.features[0].properties);
+          const p = e.features[0].properties;
+          popup
+            .setLngLat(e.lngLat)
+            .setHTML(
+              `
             <strong>${p.WorkEventType}</strong><br/>
             <p>${p.Description}</p>
             <p><strong>Contractor:</strong> ${p.Contractor}<br/>
@@ -206,12 +246,21 @@
             <p><strong>Impact:</strong> ${p.maxImpact}</p>
             <p><strong>Start Time:</strong> ${p.StartTime}<br/>
             <strong>End Time:</strong> ${p.EndTime}</p>
-          `)
-          .addTo(map);
+          `,
+            )
+            .addTo(map);
+        });
+        map.on(
+          "mouseenter",
+          "events",
+          () => (map.getCanvas().style.cursor = "pointer"),
+        );
+        map.on(
+          "mouseleave",
+          "events",
+          () => (map.getCanvas().style.cursor = ""),
+        );
       });
-      map.on('mouseenter','events',()=> map.getCanvas().style.cursor='pointer');
-      map.on('mouseleave','events',()=> map.getCanvas().style.cursor='');
-    });
-  </script>
-</body>
+    </script>
+  </body>
 </html>
