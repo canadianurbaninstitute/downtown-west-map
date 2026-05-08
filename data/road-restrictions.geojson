@@ -5,159 +5,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
+        "Contractor": "Pave Krete Construction",
         "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Replacing Network Transformer @ 379 Adelaide",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "5/4/2026, 12:00:00 PM",
-        "EndTime": "5/29/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39618,
-          43.64662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Inspections only , no cutting (no cut permit applicable) - Paid Duty will be booked accordingly (near intersections)",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "4/24/2026, 1:00:00 PM",
-        "EndTime": "5/8/2026, 8:00:00 PM"
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38166,
-          43.64546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Inspections only , no cutting (no cut permit applicable) - Paid Duty will be booked accordingly (near intersections)",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "4/24/2026, 1:00:00 PM",
-        "EndTime": "5/8/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38251,
-          43.64538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Inspections only , no cutting (no cut permit applicable) - Paid Duty will be booked accordingly (near intersections)",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "4/24/2026, 1:00:00 PM",
-        "EndTime": "5/8/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38243,
-          43.6453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: City Contract -- City of Toronto Contract No. Doc4087325475. Hard Surface Tree Planting services at various locations throughout the City of Toronto",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/4/2026, 1:00:00 PM",
-        "EndTime": "5/8/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39109,
-          43.64488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Utility Force Construction Inc",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Emergency Sewer Repair Service 3 Days to Complete(8am to 5pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and Alleyway and directing traffic to other lanes.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/5/2026, 12:00:00 PM",
-        "EndTime": "5/8/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3891,
-          43.64988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Utility Force Construction Inc",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Emergency Sewer Repair Service 3 Days to Complete(8am to 5pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and Alleyway and directing traffic to other lanes.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/5/2026, 12:00:00 PM",
-        "EndTime": "5/8/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38928,
-          43.64984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Utility Force Construction Inc",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Sewer Relay Services 4 Days to Complete(8am to 4pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and putting \"No Parking\" signs throughout the work area.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/7/2026, 12:00:00 PM",
-        "EndTime": "5/12/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39003,
-          43.64381
+          -79.38762,
+          43.64086
         ]
       }
     },
@@ -176,8 +36,188 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39195,
-          43.64077
+          -79.38884,
+          43.64042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38788,
+          43.64071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38884,
+          43.64042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38762,
+          43.64086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38741,
+          43.64067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38998,
+          43.6405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38998,
+          43.6405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3903,
+          43.64055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39029,
+          43.64055
         ]
       }
     },
@@ -256,6 +296,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.38762,
+          43.64086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.3915,
           43.64075
         ]
@@ -278,6 +338,46 @@
         "coordinates": [
           -79.3914,
           43.64045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3915,
+          43.64075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "3/30/2026, 11:00:00 AM",
+        "EndTime": "5/18/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38998,
+          43.6405
         ]
       }
     },
@@ -336,268 +436,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39029,
-          43.64055
+          -79.39195,
+          43.64077
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Rafat General Contractor Inc.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: The scope of work is flushing.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "5/5/2026, 2:00:00 AM",
+        "EndTime": "5/8/2026, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3903,
-          43.64055
+          -79.39093,
+          43.64246
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
+        "WorkEventType": "Enwave/Chill & Hot Water",
+        "Contractor": "Aecon Utilities Inc.",
+        "PermitType": "Enwave/Chill & Hot Water",
+        "Description": "Toronto-TMC: Manhole 101, part of Enwave's hot and chilled water system requires chamber wall and roof repairs.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
+        "StartTime": "3/17/2026, 10:00:00 AM",
+        "EndTime": "5/15/2026, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38998,
-          43.6405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.393,
-          43.64056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38998,
-          43.6405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38884,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38884,
-          43.64042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38788,
-          43.64071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38741,
-          43.64067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38762,
-          43.64086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3915,
-          43.64075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Form 1H - Application for work initiated by Hydro Only Permit Status: AmendmentRequest",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "3/30/2026, 11:00:00 AM",
-        "EndTime": "5/18/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38998,
-          43.6405
+          -79.38711,
+          43.64983
         ]
       }
     },
@@ -644,40 +524,160 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Enwave/Chill & Hot Water",
-        "Contractor": "Aecon Utilities Inc.",
-        "PermitType": "Enwave/Chill & Hot Water",
-        "Description": "Toronto-TMC: Manhole 101, part of Enwave's hot and chilled water system requires chamber wall and roof repairs.",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Utility Force Construction Inc",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Emergency Sewer Repair Service 3 Days to Complete(8am to 5pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and Alleyway and directing traffic to other lanes.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "3/17/2026, 10:00:00 AM",
-        "EndTime": "5/15/2026, 11:00:00 PM"
+        "StartTime": "5/5/2026, 12:00:00 PM",
+        "EndTime": "5/8/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38711,
-          43.64983
+          -79.3891,
+          43.64988
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Rafat General Contractor Inc.",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: The scope of work is flushing.",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Utility Force Construction Inc",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Emergency Sewer Repair Service 3 Days to Complete(8am to 5pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and Alleyway and directing traffic to other lanes.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "5/5/2026, 2:00:00 AM",
-        "EndTime": "5/8/2026, 9:00:00 AM"
+        "StartTime": "5/5/2026, 12:00:00 PM",
+        "EndTime": "5/8/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39093,
-          43.64246
+          -79.38928,
+          43.64984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Inspections only , no cutting (no cut permit applicable) - Paid Duty will be booked accordingly (near intersections)",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "4/24/2026, 1:00:00 PM",
+        "EndTime": "5/8/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38243,
+          43.6453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Inspections only , no cutting (no cut permit applicable) - Paid Duty will be booked accordingly (near intersections)",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "4/24/2026, 1:00:00 PM",
+        "EndTime": "5/8/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38166,
+          43.64546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Inspections only , no cutting (no cut permit applicable) - Paid Duty will be booked accordingly (near intersections)",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "4/24/2026, 1:00:00 PM",
+        "EndTime": "5/8/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38251,
+          43.64538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: City Contract -- City of Toronto Contract No. Doc4087325475. Hard Surface Tree Planting services at various locations throughout the City of Toronto",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/4/2026, 1:00:00 PM",
+        "EndTime": "5/8/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39109,
+          43.64488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Utility Force Construction Inc",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Sewer Relay Services 4 Days to Complete(8am to 4pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and putting \"No Parking\" signs throughout the work area.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/7/2026, 12:00:00 PM",
+        "EndTime": "5/12/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39003,
+          43.64381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Replacing Network Transformer @ 379 Adelaide",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "5/4/2026, 12:00:00 PM",
+        "EndTime": "5/29/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39618,
+          43.64662
         ]
       }
     },
@@ -736,8 +736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40006,
-          43.64444
+          -79.39948,
+          43.64456
         ]
       }
     },
@@ -756,8 +756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39948,
-          43.64456
+          -79.40006,
+          43.64444
         ]
       }
     },
@@ -829,15 +829,15 @@
         "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: 26TR-OM-110-EY-TEY-GM - General Maint. to Roads & Sidewalks, Transportation Services, City of Toronto",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "5/8/2026, 1:00:00 PM",
         "EndTime": "5/15/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38865,
-          43.6482
+          -79.3889,
+          43.64814
         ]
       }
     },
@@ -869,15 +869,15 @@
         "PermitType": "Transportation Services",
         "Description": "Toronto-TMC: 26TR-OM-110-EY-TEY-GM - General Maint. to Roads & Sidewalks, Transportation Services, City of Toronto",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "5/8/2026, 1:00:00 PM",
         "EndTime": "5/15/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3889,
-          43.64814
+          -79.38865,
+          43.6482
         ]
       }
     },
