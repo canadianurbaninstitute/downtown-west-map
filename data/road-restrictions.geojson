@@ -4,6 +4,86 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Replacing Network Transformer @ 379 Adelaide",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "5/4/2026, 12:00:00 PM",
+        "EndTime": "5/29/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39618,
+          43.64662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: upgrading Toronto Hydro cable system",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/20/2026, 1:00:00 PM",
+        "EndTime": "5/26/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38617,
+          43.64756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: upgrading Toronto Hydro cable system",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "5/20/2026, 1:00:00 PM",
+        "EndTime": "5/26/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38639,
+          43.64869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Utility Force Construction Inc",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Sewer Relay Services 4 Days to Complete(8am to 4pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and putting \"No Parking\" signs throughout the work area.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "5/15/2026, 12:00:00 PM",
+        "EndTime": "5/22/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39003,
+          43.64381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Road Resurfacing, Critical Interim Road Repairs",
         "Contractor": "Viola Management Inc.",
         "PermitType": "Road Resurfacing, Critical Interim Road Repairs",
@@ -38,46 +118,6 @@
         "coordinates": [
           -79.39552,
           43.64671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Replacing Network Transformer @ 379 Adelaide",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "5/4/2026, 12:00:00 PM",
-        "EndTime": "5/29/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39618,
-          43.64662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Utility Force Construction Inc",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Sewer Relay Services 4 Days to Complete(8am to 4pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and putting \"No Parking\" signs throughout the work area.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "5/15/2026, 12:00:00 PM",
-        "EndTime": "5/22/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39003,
-          43.64381
         ]
       }
     },
@@ -188,7 +228,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "CONSTRUCTION",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
@@ -208,7 +248,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "ROAD_CLOSED",
+        "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
