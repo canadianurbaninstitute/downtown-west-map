@@ -29,15 +29,15 @@
         "PermitType": "Toronto Hydro",
         "Description": "Toronto-TMC: upgrading Toronto Hydro cable system",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "5/20/2026, 1:00:00 PM",
         "EndTime": "5/26/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38639,
-          43.64869
+          -79.38617,
+          43.64756
         ]
       }
     },
@@ -49,15 +49,15 @@
         "PermitType": "Toronto Hydro",
         "Description": "Toronto-TMC: upgrading Toronto Hydro cable system",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "5/20/2026, 1:00:00 PM",
         "EndTime": "5/26/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38617,
-          43.64756
+          -79.38639,
+          43.64869
         ]
       }
     },
@@ -188,7 +188,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "ROAD_CLOSED",
+        "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
@@ -208,7 +208,7 @@
         "Contractor": "Plazacorp Investments Limited",
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
-        "Type": "CONSTRUCTION",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "High",
         "StartTime": "12/18/2025, 5:00:00 AM",
         "EndTime": "5/31/2026, 4:00:00 AM"
