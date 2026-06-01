@@ -64,26 +64,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Storage of materials and equipment",
-        "Contractor": "Madison Group",
-        "PermitType": "Storage of materials and equipment",
-        "Description": "Toronto-TMC: Form 1SOP - Application for work requiring a SOP (Street occupation permit) Permit Status: Approved",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "5/1/2026, 4:00:00 AM",
-        "EndTime": "6/1/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39086,
-          43.64532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Metrolinx",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Metrolinx",
@@ -98,26 +78,6 @@
         "coordinates": [
           -79.38727,
           43.65025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "2489960 Ontario Inc (KORE Infrastructure Group)",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Resurfacing Laneway",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "4/27/2026, 11:00:00 AM",
-        "EndTime": "5/31/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38495,
-          43.65038
         ]
       }
     },
