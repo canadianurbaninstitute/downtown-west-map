@@ -4,6 +4,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Superior Crane Canada Inc",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Northbound closure of Peter St from Richmond St W north to Queen St W Using the closure to unload and deliver elevator equipment with a customer supplied telehandler",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "6/3/2026, 2:00:00 PM",
+        "EndTime": "6/4/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "Utility Force Construction Inc",
         "PermitType": "Toronto Water",
