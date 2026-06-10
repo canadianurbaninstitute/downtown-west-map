@@ -24,26 +24,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: We are installing a LiDAR sensor on the traffic controller pole at this location.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "6/5/2026, 1:00:00 PM",
-        "EndTime": "6/10/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38399,
-          43.64235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Ontario Transit Group",
         "PermitType": "Other",
