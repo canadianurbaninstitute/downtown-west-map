@@ -176,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.384444,
-          43.642307
+          -79.391495,
+          43.640746
         ]
       }
     },
@@ -198,26 +198,6 @@
         "coordinates": [
           -79.392841,
           43.640597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "Transportation Services, Traffic Management, City of Toronto",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: FIFA Matches and Blue Jays Game Day.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "6/23/2026, 5:00:00 PM",
-        "EndTime": "6/24/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.391495,
-          43.640746
         ]
       }
     },
@@ -298,6 +278,26 @@
         "coordinates": [
           -79.387623,
           43.640856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "Transportation Services, Traffic Management, City of Toronto",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: FIFA Matches and Blue Jays Game Day.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "6/23/2026, 5:00:00 PM",
+        "EndTime": "6/24/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.384444,
+          43.642307
         ]
       }
     },
