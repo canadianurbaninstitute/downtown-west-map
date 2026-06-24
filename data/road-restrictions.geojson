@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "englobecorp.",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: Ontario Line South well decommissioning on the tunnel alignment of Queen Spadina station",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "8/5/2026, 4:00:00 PM",
+        "EndTime": "8/5/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40211,
+          43.64265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "englobecorp.",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: Ontario Line South well decommissioning on the tunnel alignment of Queen Spadina station",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/5/2026, 1:00:00 PM",
+        "EndTime": "8/5/2026, 4:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40224,
+          43.64323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "OJCR Construction LTD",
         "PermitType": "Toronto Water",
@@ -38,6 +78,26 @@
         "coordinates": [
           -79.388923,
           43.640415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "Transportation Services, Traffic Management, City of Toronto",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: FIFA Matches and Blue Jays Game Day.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "6/26/2026, 4:00:00 PM",
+        "EndTime": "6/27/2026, 3:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.390011,
+          43.6405
         ]
       }
     },
@@ -116,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.390011,
-          43.6405
+          -79.387623,
+          43.640856
         ]
       }
     },
@@ -138,26 +198,6 @@
         "coordinates": [
           -79.391495,
           43.640746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "Transportation Services, Traffic Management, City of Toronto",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: FIFA Matches and Blue Jays Game Day.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "6/26/2026, 4:00:00 PM",
-        "EndTime": "6/27/2026, 3:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.387623,
-          43.640856
         ]
       }
     },
