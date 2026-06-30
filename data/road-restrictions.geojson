@@ -4,6 +4,66 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Vancouver Sign Group",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: The wayfinding totem program is designed to support intuitive navigation for visitors across key routes and destinations, enhancing the overall event experience while aligning with the City’s Look & Wayfinding strategy. Totems will be strategically placed along high-traffic corridors and decision points to guide pedestrian flow toward priority sites, including stadiums, fan festival locations, and transit hubs. The program includes the design, fabrication, permitting, and installation of engineered totem structures, with consideration for accessibility, visibility, durability, and integration within the existing urban environment.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "7/28/2026, 12:00:00 AM",
+        "EndTime": "7/31/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38153,
+          43.64303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP sewer rehabilitation. This project does not include phasing.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/6/2026, 11:00:00 AM",
+        "EndTime": "7/8/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39387,
+          43.64662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP sewer rehabilitation. This project does not contain phasing.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/6/2026, 11:00:00 AM",
+        "EndTime": "7/6/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39316,
+          43.64634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "OJCR Construction LTD",
         "PermitType": "Toronto Water",
