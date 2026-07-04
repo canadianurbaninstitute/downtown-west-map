@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "OJCR Construction LTD",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Sewer Repair",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "6/8/2026, 11:00:00 AM",
-        "EndTime": "7/3/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3934,
-          43.64692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Streetscape work",
         "Contractor": "Madison Group",
         "PermitType": "Streetscape work",
