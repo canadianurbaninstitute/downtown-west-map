@@ -4,46 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Madison Group",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: Storage of a 192 square foot bin measuring 24ft x 8ft in the south Public Lane from July 03 to August 31, 2026.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "7/3/2026, 4:00:00 AM",
-        "EndTime": "9/1/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39088,
-          43.64531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Vancouver Sign Group",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: The wayfinding totem program is designed to support intuitive navigation for visitors across key routes and destinations, enhancing the overall event experience while aligning with the City’s Look & Wayfinding strategy. Totems will be strategically placed along high-traffic corridors and decision points to guide pedestrian flow toward priority sites, including stadiums, fan festival locations, and transit hubs. The program includes the design, fabrication, permitting, and installation of engineered totem structures, with consideration for accessibility, visibility, durability, and integration within the existing urban environment.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "7/28/2026, 12:00:00 AM",
-        "EndTime": "7/31/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38153,
-          43.64303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "Insituform Technologies",
         "PermitType": "Toronto Water",
@@ -78,6 +38,46 @@
         "coordinates": [
           -79.39316,
           43.64634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Madison Group",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: Storage of a 192 square foot bin measuring 24ft x 8ft in the south Public Lane from July 03 to August 31, 2026.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/3/2026, 4:00:00 AM",
+        "EndTime": "9/1/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39088,
+          43.64531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Vancouver Sign Group",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: The wayfinding totem program is designed to support intuitive navigation for visitors across key routes and destinations, enhancing the overall event experience while aligning with the City’s Look & Wayfinding strategy. Totems will be strategically placed along high-traffic corridors and decision points to guide pedestrian flow toward priority sites, including stadiums, fan festival locations, and transit hubs. The program includes the design, fabrication, permitting, and installation of engineered totem structures, with consideration for accessibility, visibility, durability, and integration within the existing urban environment.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "7/28/2026, 12:00:00 AM",
+        "EndTime": "7/31/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38153,
+          43.64303
         ]
       }
     },
