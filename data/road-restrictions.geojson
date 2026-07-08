@@ -5,6 +5,46 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
+        "Contractor": "Gio Crete Construction Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Installing new water and sewer to 266 King St. W.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/20/2026, 1:00:00 PM",
+        "EndTime": "8/22/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38728,
+          43.64712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2026, 1:00:00 AM",
+        "EndTime": "8/7/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38718,
+          43.64029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
         "Contractor": "Insituform Technologies",
         "PermitType": "Toronto Water",
         "Description": "Toronto-TMC: CIPP sewer rehabilitation. This project does not include phasing.",
