@@ -4,6 +4,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: New Customer Connection at 128 Peter",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/21/2026, 1:00:00 PM",
+        "EndTime": "7/21/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39333,
+          43.64838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "Gio Crete Construction Ltd.",
         "PermitType": "Toronto Water",
