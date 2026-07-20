@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Gio Crete Construction Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Installing new water and sewer to 266 King St. W.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/20/2026, 1:00:00 PM",
+        "EndTime": "8/22/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38728,
+          43.64712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Gio Crete Construction Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Installing new fire hydrant",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/20/2026, 1:00:00 PM",
+        "EndTime": "8/22/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3885,
+          43.64755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Transportation Services",
         "Contractor": "Stratton Prime Drilling Inc",
         "PermitType": "Transportation Services",
@@ -164,46 +204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Crete Construction Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installing new fire hydrant",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/20/2026, 1:00:00 PM",
-        "EndTime": "8/22/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3885,
-          43.64755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Crete Construction Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installing new water and sewer to 266 King St. W.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/20/2026, 1:00:00 PM",
-        "EndTime": "8/22/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38728,
-          43.64712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
@@ -218,26 +218,6 @@
         "coordinates": [
           -79.38718,
           43.64029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Madison Group",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: Storage of a 192 square foot bin measuring 24ft x 8ft in the south Public Lane from July 03 to August 31, 2026.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "7/3/2026, 4:00:00 AM",
-        "EndTime": "9/1/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39088,
-          43.64531
         ]
       }
     },
