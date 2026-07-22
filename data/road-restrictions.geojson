@@ -4,60 +4,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "NSJ WATERWORX GROUP LTD",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: REMOVING BOULDER FROM MH, INSTALLING NEW MH AND REPARING SANITARY MAIN",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "7/22/2026, 4:00:00 AM",
-        "EndTime": "7/28/2026, 3:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3968,
-          43.64718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
+        "WorkEventType": "Telecommunications",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: 1x dig & repair pit",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "7/21/2026, 1:00:00 AM",
-        "EndTime": "8/7/2026, 9:00:00 AM"
+        "StartTime": "7/24/2026, 1:00:00 PM",
+        "EndTime": "7/31/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38718,
-          43.64029
+          -79.39442,
+          43.64444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "NSJ water works group",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for sanitary maintenance.",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "7/21/2026, 8:30:00 PM",
-        "EndTime": "7/27/2026, 11:00:00 PM"
+        "WorkEventType": "Other",
+        "Contractor": "Aecon Utilities",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.397617,
-          43.647018
+          -79.39482,
+          43.64495
         ]
       }
     },
@@ -98,6 +78,66 @@
         "coordinates": [
           -79.3885,
           43.64755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2026, 1:00:00 AM",
+        "EndTime": "8/7/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38718,
+          43.64029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "NSJ WATERWORX GROUP LTD",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: REMOVING BOULDER FROM MH, INSTALLING NEW MH AND REPARING SANITARY MAIN",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/22/2026, 4:00:00 AM",
+        "EndTime": "7/28/2026, 3:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3968,
+          43.64718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "NSJ water works group",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for sanitary maintenance.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2026, 8:30:00 PM",
+        "EndTime": "7/27/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.397617,
+          43.647018
         ]
       }
     },
