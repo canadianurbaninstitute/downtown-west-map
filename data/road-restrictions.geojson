@@ -4,20 +4,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: New Customer Connection at 128 Peter",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/21/2026, 1:00:00 PM",
-        "EndTime": "7/21/2026, 8:00:00 PM"
+        "WorkEventType": "Toronto Water",
+        "Contractor": "NSJ WATERWORX GROUP LTD",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: REMOVING BOULDER FROM MH, INSTALLING NEW MH AND REPARING SANITARY MAIN",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/22/2026, 4:00:00 AM",
+        "EndTime": "7/28/2026, 3:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39333,
-          43.64838
+          -79.3968,
+          43.64718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2026, 1:00:00 AM",
+        "EndTime": "8/7/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38718,
+          43.64029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "NSJ water works group",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for sanitary maintenance.",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2026, 8:30:00 PM",
+        "EndTime": "7/27/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.397617,
+          43.647018
         ]
       }
     },
@@ -64,20 +104,260 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "7/21/2026, 1:00:00 AM",
-        "EndTime": "8/7/2026, 9:00:00 AM"
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38718,
-          43.64029
+          -79.38748,
+          43.64425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3854,
+          43.64468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38915,
+          43.64518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38903,
+          43.64532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38955,
+          43.64616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3899,
+          43.64656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38971,
+          43.64657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38975,
+          43.64665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39045,
+          43.64782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3902,
+          43.64772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/24/2026, 1:00:00 PM",
+        "EndTime": "7/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39054,
+          43.64851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/24/2026, 1:00:00 PM",
+        "EndTime": "7/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39075,
+          43.6491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/24/2026, 1:00:00 PM",
+        "EndTime": "7/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39108,
+          43.64987
         ]
       }
     },
