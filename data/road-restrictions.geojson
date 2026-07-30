@@ -4,86 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "Ontario Transit Group",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: Watermain connection/site servicing at the northeast corner of King St. W. and Bathurst St. Sidewalk closed, with pedestrians detoured around works. Paid duty officer on site to assist with traffic control and pedestrian control. Working hours of 7am to 5pm.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/28/2026, 11:00:00 AM",
-        "EndTime": "8/1/2026, 3:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40206,
-          43.64405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/21/2026, 1:00:00 AM",
-        "EndTime": "8/7/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38718,
-          43.64029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Vancouver Sign Group",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: The wayfinding totem program is designed to support intuitive navigation for visitors across key routes and destinations, enhancing the overall event experience while aligning with the City’s Look & Wayfinding strategy. Totems will be strategically placed along high-traffic corridors and decision points to guide pedestrian flow toward priority sites, including stadiums, fan festival locations, and transit hubs. The program includes the design, fabrication, permitting, and installation of engineered totem structures, with consideration for accessibility, visibility, durability, and integration within the existing urban environment.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Medium",
-        "StartTime": "7/28/2026, 12:00:00 AM",
-        "EndTime": "7/31/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38153,
-          43.64303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Contracting",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installation of site service - Water, Sanitary, Storm - for 128 Peter St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/29/2026, 11:00:00 AM",
-        "EndTime": "8/3/2026, 9:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39313,
-          43.64806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "Gio Crete Construction Ltd.",
         "PermitType": "Toronto Water",
@@ -98,6 +18,66 @@
         "coordinates": [
           -79.38728,
           43.64712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: 1x dig & repair pit",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/24/2026, 1:00:00 PM",
+        "EndTime": "7/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39442,
+          43.64444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Gio Crete Construction Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Installing new fire hydrant",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/20/2026, 1:00:00 PM",
+        "EndTime": "8/22/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3885,
+          43.64755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/24/2026, 1:00:00 PM",
+        "EndTime": "7/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39054,
+          43.64851
         ]
       }
     },
@@ -145,79 +125,79 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Crete Construction Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installing new fire hydrant",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/20/2026, 1:00:00 PM",
-        "EndTime": "8/22/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3885,
-          43.64755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: 1x dig & repair pit",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/24/2026, 1:00:00 PM",
-        "EndTime": "7/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39442,
-          43.64444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/24/2026, 1:00:00 PM",
-        "EndTime": "7/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39054,
-          43.64851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
         "Contractor": "Gio Contracting",
         "PermitType": "Toronto Water",
         "Description": "Toronto-TMC: Installation of site service - Water, Sanitary, Storm - for 128 Peter St.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/13/2026, 11:00:00 AM",
-        "EndTime": "8/17/2026, 9:30:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "7/29/2026, 11:00:00 AM",
+        "EndTime": "8/3/2026, 9:30:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64838
+          -79.39313,
+          43.64806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Metrolinx",
+        "Contractor": "Ontario Transit Group",
+        "PermitType": "Metrolinx",
+        "Description": "Toronto-TMC: Watermain connection/site servicing at the northeast corner of King St. W. and Bathurst St. Sidewalk closed, with pedestrians detoured around works. Paid duty officer on site to assist with traffic control and pedestrian control. Working hours of 7am to 5pm.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "7/28/2026, 11:00:00 AM",
+        "EndTime": "8/1/2026, 3:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40206,
+          43.64405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Vancouver Sign Group",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: The wayfinding totem program is designed to support intuitive navigation for visitors across key routes and destinations, enhancing the overall event experience while aligning with the City’s Look & Wayfinding strategy. Totems will be strategically placed along high-traffic corridors and decision points to guide pedestrian flow toward priority sites, including stadiums, fan festival locations, and transit hubs. The program includes the design, fabrication, permitting, and installation of engineered totem structures, with consideration for accessibility, visibility, durability, and integration within the existing urban environment.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "7/28/2026, 12:00:00 AM",
+        "EndTime": "7/31/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38153,
+          43.64303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2026, 1:00:00 AM",
+        "EndTime": "8/7/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38718,
+          43.64029
         ]
       }
     },
@@ -238,6 +218,26 @@
         "coordinates": [
           -79.3934,
           43.64837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Gio Contracting",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Installation of site service - Water, Sanitary, Storm - for 128 Peter St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "8/13/2026, 11:00:00 AM",
+        "EndTime": "8/17/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64838
         ]
       }
     },
@@ -289,15 +289,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39277,
-          43.64594
+          -79.3936,
+          43.64578
         ]
       }
     },
@@ -309,15 +309,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3936,
-          43.64578
+          -79.39277,
+          43.64594
         ]
       }
     },
