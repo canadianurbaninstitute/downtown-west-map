@@ -4,10 +4,50 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "7/21/2026, 1:00:00 AM",
+        "EndTime": "8/7/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38718,
+          43.64029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Vaughan Paving Ltd.",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: We are completing permanent restoration of the utility cut at the road, sidewalk and driveway. Work will be done in two stages, first we will close off the north bound parking stall and restore the sidewalk, following which we will be moving to the road restoration for which we will ensure traffic flow in both directions as we complete the asphalt restoration. Sidewalk on the north side will be opened when we start on the road restoration.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/3/2026, 11:00:00 AM",
+        "EndTime": "8/19/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40091,
+          43.6465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Other",
-        "Contractor": "Aecon Utilities",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "8/3/2026, 1:00:00 PM",
@@ -16,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39482,
-          43.64495
+          -79.3899,
+          43.64656
         ]
       }
     },
@@ -64,20 +104,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Crete Construction Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installing new water and sewer to 266 King St. W.",
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/20/2026, 1:00:00 PM",
-        "EndTime": "8/22/2026, 8:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "8/3/2026, 1:00:00 PM",
+        "EndTime": "8/7/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38728,
-          43.64712
+          -79.38955,
+          43.64616
         ]
       }
     },
@@ -98,26 +138,6 @@
         "coordinates": [
           -79.38975,
           43.64665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/3/2026, 1:00:00 PM",
-        "EndTime": "8/7/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38955,
-          43.64616
         ]
       }
     },
@@ -165,9 +185,9 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Other",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "Contractor": "Aecon Utilities",
         "PermitType": "Other",
-        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "8/3/2026, 1:00:00 PM",
@@ -176,28 +196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3899,
-          43.64656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Vaughan Paving Ltd.",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: We are completing permanent restoration of the utility cut at the road, sidewalk and driveway. Work will be done in two stages, first we will close off the north bound parking stall and restore the sidewalk, following which we will be moving to the road restoration for which we will ensure traffic flow in both directions as we complete the asphalt restoration. Sidewalk on the north side will be opened when we start on the road restoration.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/3/2026, 11:00:00 AM",
-        "EndTime": "8/19/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40091,
-          43.6465
+          -79.39482,
+          43.64495
         ]
       }
     },
@@ -205,19 +205,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Contracting",
+        "Contractor": "Gio Crete Construction Ltd.",
         "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installation of site service - Water, Sanitary, Storm - for 128 Peter St.",
+        "Description": "Toronto-TMC: Installing new water and sewer to 266 King St. W.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/29/2026, 11:00:00 AM",
-        "EndTime": "8/3/2026, 9:30:00 PM"
+        "maxImpact": "High",
+        "StartTime": "7/20/2026, 1:00:00 PM",
+        "EndTime": "8/22/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39313,
-          43.64806
+          -79.38728,
+          43.64712
         ]
       }
     },
@@ -238,26 +238,6 @@
         "coordinates": [
           -79.4007,
           43.646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Final Work in Cable Chambers to Connect New Build at 9 Queen Quay",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "7/21/2026, 1:00:00 AM",
-        "EndTime": "8/7/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38718,
-          43.64029
         ]
       }
     },
@@ -329,15 +309,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3936,
-          43.64578
+          -79.39277,
+          43.64594
         ]
       }
     },
@@ -349,15 +329,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39277,
-          43.64594
+          -79.3936,
+          43.64578
         ]
       }
     },
