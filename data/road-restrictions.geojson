@@ -4,106 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Vaughan Paving Ltd.",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: We are completing permanent restoration of the utility cut at the road, sidewalk and driveway. Work will be done in two stages, first we will close off the north bound parking stall and restore the sidewalk, following which we will be moving to the road restoration for which we will ensure traffic flow in both directions as we complete the asphalt restoration. Sidewalk on the north side will be opened when we start on the road restoration.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/3/2026, 11:00:00 AM",
-        "EndTime": "8/19/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40091,
-          43.6465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Crete Construction Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installing new water and sewer to 266 King St. W.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "7/20/2026, 1:00:00 PM",
-        "EndTime": "8/22/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38728,
-          43.64712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Contracting",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installation of site service - Water, Sanitary, Storm - for 128 Peter St.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 11:00:00 AM",
-        "EndTime": "8/12/2026, 9:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39328,
-          43.64839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38936,
-          43.64869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38936,
-          43.6487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Transportation Services",
         "Contractor": "Stratton Prime Drilling Inc",
         "PermitType": "Transportation Services",
@@ -118,46 +18,6 @@
         "coordinates": [
           -79.38878,
           43.64852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38882,
-          43.64862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38947,
-          43.64868
         ]
       }
     },
@@ -196,8 +56,208 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.38947,
+          43.64868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/4/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38936,
+          43.6487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/4/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38882,
+          43.64862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/4/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.38923,
           43.64842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/4/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38936,
+          43.64869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Aqua Tech Solutions Inc.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39997,
+          43.64406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Aqua Tech Solutions Inc.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40072,
+          43.64391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38748,
+          43.64425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38903,
+          43.64532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38915,
+          43.64518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3854,
+          43.64468
         ]
       }
     },
@@ -225,19 +285,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Aqua Tech Solutions Inc.",
+        "Contractor": "Gio Crete Construction Ltd.",
         "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "Description": "Toronto-TMC: Installing new water and sewer to 266 King St. W.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
+        "maxImpact": "High",
+        "StartTime": "7/20/2026, 1:00:00 PM",
+        "EndTime": "8/22/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40072,
-          43.64391
+          -79.38728,
+          43.64712
         ]
       }
     },
@@ -245,39 +305,59 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Aqua Tech Solutions Inc.",
+        "Contractor": "Utility Force Construction Inc",
         "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "Description": "Toronto-TMC: Sewer Disconnect Services 5 Days to Complete(8am to 5pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and putting \"No Parking\" signs throughout the work area.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
+        "StartTime": "8/10/2026, 12:00:00 PM",
+        "EndTime": "8/14/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39997,
-          43.64406
+          -79.39901,
+          43.64186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Gasmain",
-        "Contractor": "ENBRIDGE GAS",
-        "PermitType": "Gasmain",
-        "Description": "Toronto-TMC: ENBRIDGE GAS NEEDS TO INSTALL AN ANODE ON THE CORRODED MAIN",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Vaughan Paving Ltd.",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: We are completing permanent restoration of the utility cut at the road, sidewalk and driveway. Work will be done in two stages, first we will close off the north bound parking stall and restore the sidewalk, following which we will be moving to the road restoration for which we will ensure traffic flow in both directions as we complete the asphalt restoration. Sidewalk on the north side will be opened when we start on the road restoration.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/13/2026, 1:00:00 PM",
-        "EndTime": "8/13/2026, 7:30:00 PM"
+        "StartTime": "8/3/2026, 11:00:00 AM",
+        "EndTime": "8/19/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38249,
-          43.64603
+          -79.40091,
+          43.6465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Gio Contracting",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Installation of site service - Water, Sanitary, Storm - for 128 Peter St.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/4/2026, 11:00:00 AM",
+        "EndTime": "8/12/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39328,
+          43.64839
         ]
       }
     },
@@ -298,6 +378,26 @@
         "coordinates": [
           -79.38173,
           43.64618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gasmain",
+        "Contractor": "ENBRIDGE GAS",
+        "PermitType": "Gasmain",
+        "Description": "Toronto-TMC: ENBRIDGE GAS NEEDS TO INSTALL AN ANODE ON THE CORRODED MAIN",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/13/2026, 1:00:00 PM",
+        "EndTime": "8/13/2026, 7:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38249,
+          43.64603
         ]
       }
     },
@@ -418,106 +518,6 @@
         "coordinates": [
           -79.3936,
           43.64578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Utility Force Construction Inc",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Sewer Disconnect Services 5 Days to Complete(8am to 5pm) Sidewalk to remain open 1 PDO Requested Occupying Curb Lane and putting \"No Parking\" signs throughout the work area.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/10/2026, 12:00:00 PM",
-        "EndTime": "8/14/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39901,
-          43.64186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/14/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38748,
-          43.64425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/14/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3854,
-          43.64468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/14/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38915,
-          43.64518
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: Manhole access for the purpose of cable work relating to telecommunications",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/14/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38903,
-          43.64532
         ]
       }
     },
