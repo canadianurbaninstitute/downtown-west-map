@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Vaughan Paving Ltd.",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: We are completing permanent restoration of the utility cut at the road, sidewalk and driveway. Work will be done in two stages, first we will close off the north bound parking stall and restore the sidewalk, following which we will be moving to the road restoration for which we will ensure traffic flow in both directions as we complete the asphalt restoration. Sidewalk on the north side will be opened when we start on the road restoration.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/3/2026, 11:00:00 AM",
-        "EndTime": "8/19/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40091,
-          43.6465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "Gio Crete Construction Ltd.",
         "PermitType": "Toronto Water",
@@ -38,6 +18,26 @@
         "coordinates": [
           -79.38728,
           43.64712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Vaughan Paving Ltd.",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: We are completing permanent restoration of the utility cut at the road, sidewalk and driveway. Work will be done in two stages, first we will close off the north bound parking stall and restore the sidewalk, following which we will be moving to the road restoration for which we will ensure traffic flow in both directions as we complete the asphalt restoration. Sidewalk on the north side will be opened when we start on the road restoration.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/3/2026, 11:00:00 AM",
+        "EndTime": "8/19/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40091,
+          43.6465
         ]
       }
     },
@@ -125,39 +125,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Aqua Tech Solutions Inc.",
+        "Contractor": "Gio Crete Construction Ltd.",
         "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "Description": "Toronto-TMC: Installing new fire hydrant",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
+        "StartTime": "7/20/2026, 1:00:00 PM",
+        "EndTime": "8/22/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40072,
-          43.64391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Aqua Tech Solutions Inc.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/10/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39997,
-          43.64406
+          -79.3885,
+          43.64755
         ]
       }
     },
@@ -176,8 +156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38936,
-          43.6487
+          -79.38894,
+          43.64849
         ]
       }
     },
@@ -196,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38947,
-          43.64868
+          -79.38878,
+          43.64852
         ]
       }
     },
@@ -276,8 +256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38894,
-          43.64849
+          -79.38936,
+          43.6487
         ]
       }
     },
@@ -296,8 +276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38878,
-          43.64852
+          -79.38947,
+          43.64868
         ]
       }
     },
@@ -305,39 +285,39 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Gio Crete Construction Ltd.",
+        "Contractor": "Aqua Tech Solutions Inc.",
         "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Installing new fire hydrant",
+        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "7/20/2026, 1:00:00 PM",
-        "EndTime": "8/22/2026, 8:00:00 PM"
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3885,
-          43.64755
+          -79.40072,
+          43.64391
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Aqua Tech Solutions Inc.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/24/2026, 1:00:00 PM",
-        "EndTime": "9/4/2026, 7:00:00 PM"
+        "StartTime": "8/10/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39133,
-          43.64353
+          -79.39997,
+          43.64406
         ]
       }
     },
@@ -358,6 +338,26 @@
         "coordinates": [
           -79.39108,
           43.64347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/24/2026, 1:00:00 PM",
+        "EndTime": "9/4/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39133,
+          43.64353
         ]
       }
     },
