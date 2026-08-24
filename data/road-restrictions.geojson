@@ -16,8 +16,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38947,
-          43.64868
+          -79.38882,
+          43.64862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/4/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38923,
+          43.64842
         ]
       }
     },
@@ -56,28 +76,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38882,
-          43.64862
+          -79.38947,
+          43.64868
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Duct Bank Install",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 1:00:00 PM",
+        "maxImpact": "High",
+        "StartTime": "8/17/2026, 1:00:00 PM",
         "EndTime": "8/31/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38923,
-          43.64842
+          -79.39451,
+          43.64696
         ]
       }
     },
@@ -138,26 +158,6 @@
         "coordinates": [
           -79.38936,
           43.64869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Duct Bank Install",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/17/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39451,
-          43.64696
         ]
       }
     },
@@ -296,8 +296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39108,
-          43.64347
+          -79.39133,
+          43.64353
         ]
       }
     },
@@ -316,8 +316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39133,
-          43.64353
+          -79.39108,
+          43.64347
         ]
       }
     },
@@ -349,15 +349,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39277,
-          43.64594
+          -79.3936,
+          43.64578
         ]
       }
     },
@@ -369,15 +369,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3936,
-          43.64578
+          -79.39277,
+          43.64594
         ]
       }
     },
