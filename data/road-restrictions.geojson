@@ -4,60 +4,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Metrolinx",
-        "Contractor": "englobecorp.",
-        "PermitType": "Metrolinx",
-        "Description": "Toronto-TMC: Well Decommissioning",
-        "Type": "ROAD_CLOSED",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Toronto Hydro",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: We are replacing 3 damaged Toronto Hydro poles on the Wellington St W. We will have paid duty officers and OTS crew for traffic and pedestrian traffic.",
+        "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/26/2026, 1:00:00 AM",
-        "EndTime": "8/26/2026, 9:00:00 AM"
+        "StartTime": "8/26/2026, 1:00:00 PM",
+        "EndTime": "8/28/2026, 6:30:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40157,
-          43.64278
+          -79.38928,
+          43.64527
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Aqua Tech Solutions Inc.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/10/2026, 11:00:00 PM",
-        "EndTime": "8/31/2026, 9:00:00 AM"
+        "StartTime": "8/24/2026, 1:00:00 PM",
+        "EndTime": "9/4/2026, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40072,
-          43.64391
+          -79.39133,
+          43.64353
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Aqua Tech Solutions Inc.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/10/2026, 11:00:00 PM",
-        "EndTime": "8/31/2026, 9:00:00 AM"
+        "StartTime": "8/24/2026, 1:00:00 PM",
+        "EndTime": "9/4/2026, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39997,
-          43.64406
+          -79.39108,
+          43.64347
         ]
       }
     },
@@ -96,8 +96,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38936,
-          43.64869
+          -79.38923,
+          43.64842
         ]
       }
     },
@@ -118,46 +118,6 @@
         "coordinates": [
           -79.38936,
           43.6487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38882,
-          43.64862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/4/2026, 1:00:00 PM",
-        "EndTime": "8/31/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38923,
-          43.64842
         ]
       }
     },
@@ -224,66 +184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/24/2026, 1:00:00 PM",
-        "EndTime": "9/4/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39108,
-          43.64347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/24/2026, 1:00:00 PM",
-        "EndTime": "9/4/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39133,
-          43.64353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: JOHN ST N/OF PEARL ST - NORTHBOUND CURB LANE - ROAD REPAIR",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/2/2026, 1:00:00 PM",
-        "EndTime": "9/3/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39003,
-          43.64732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors Co. Limited",
         "PermitType": "Toronto Hydro",
@@ -304,20 +204,100 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Toronto Hydro",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: We are replacing 3 damaged Toronto Hydro poles on the Wellington St W. We will have paid duty officers and OTS crew for traffic and pedestrian traffic.",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/26/2026, 1:00:00 PM",
-        "EndTime": "8/28/2026, 6:30:00 PM"
+        "StartTime": "8/4/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38928,
-          43.64527
+          -79.38882,
+          43.64862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/4/2026, 1:00:00 PM",
+        "EndTime": "8/31/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38936,
+          43.64869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Aqua Tech Solutions Inc.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 11:00:00 PM",
+        "EndTime": "8/31/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40072,
+          43.64391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Aqua Tech Solutions Inc.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Full Length Trenchless Rehabilitation of Existing Gravity Sewers and Related Works The crew will be working simultaneously from one manhole to another, NOT IN PHASES. The lining process rehabilitates the pipe internally and requires access between both manholes for installation. We will advise if project is completed sooner than work end date. Lane closure will only be implemented during active work periods. Every effort will be made to minimize traffic disruption. The crew will mobilize to multiple locations within the approved limits and complete as feasible per day, depending on pipe conditions and site constraints.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/10/2026, 11:00:00 PM",
+        "EndTime": "8/31/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39997,
+          43.64406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: JOHN ST N/OF PEARL ST - NORTHBOUND CURB LANE - ROAD REPAIR",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/2/2026, 1:00:00 PM",
+        "EndTime": "9/3/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39003,
+          43.64732
         ]
       }
     },
