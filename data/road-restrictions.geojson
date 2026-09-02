@@ -4,80 +4,80 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP sewer rehabilitation. This project DOES NOT contain phasing.",
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: JOHN ST N/OF PEARL ST - NORTHBOUND CURB LANE - ROAD REPAIR",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/31/2026, 11:00:00 PM",
-        "EndTime": "9/4/2026, 11:00:00 AM"
+        "StartTime": "9/2/2026, 1:00:00 PM",
+        "EndTime": "9/3/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39016,
-          43.64411
+          -79.39003,
+          43.64732
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/24/2026, 1:00:00 PM",
+        "EndTime": "9/4/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39133,
+          43.64353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/24/2026, 1:00:00 PM",
+        "EndTime": "9/4/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39108,
+          43.64347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Storage of materials and equipment",
+        "Contractor": "Sky Contracting Inc.",
+        "PermitType": "Storage of materials and equipment",
+        "Description": "Toronto-TMC: Temporary removal and reinstatement of basement shoring beneath the public sidewalk to facilitate the removal of an existing boiler. Work will be performed entirely within the building basement using manual and small lifting equipment. Occupation of a portion of the public sidewalk above the basement work area to protect the public while shoring is temporarily removed and reinstated. Pedestrian control measures that is fencing will be provided.",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40111,
-          43.64698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40087,
-          43.64642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: inspections and roping locations will be completed at a pace of 2 a day in the span of three days",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/31/2026, 11:00:00 AM",
+        "StartTime": "8/31/2026, 12:00:00 PM",
         "EndTime": "9/2/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38401,
-          43.64239
+          -79.39487,
+          43.64508
         ]
       }
     },
@@ -116,6 +116,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.38705,
+          43.64134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: inspections and roping locations will be completed at a pace of 2 a day in the span of three days",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "8/31/2026, 11:00:00 AM",
+        "EndTime": "9/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.3854,
           43.6421
         ]
@@ -136,28 +156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38705,
-          43.64134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Storage of materials and equipment",
-        "Contractor": "Sky Contracting Inc.",
-        "PermitType": "Storage of materials and equipment",
-        "Description": "Toronto-TMC: Temporary removal and reinstatement of basement shoring beneath the public sidewalk to facilitate the removal of an existing boiler. Work will be performed entirely within the building basement using manual and small lifting equipment. Occupation of a portion of the public sidewalk above the basement work area to protect the public while shoring is temporarily removed and reinstated. Pedestrian control measures that is fencing will be provided.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "8/31/2026, 12:00:00 PM",
-        "EndTime": "9/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39487,
-          43.64508
+          -79.38401,
+          43.64239
         ]
       }
     },
@@ -184,40 +184,60 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP sewer rehabilitation. This project DOES NOT contain phasing.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/24/2026, 1:00:00 PM",
-        "EndTime": "9/4/2026, 7:00:00 PM"
+        "StartTime": "8/31/2026, 11:00:00 PM",
+        "EndTime": "9/4/2026, 11:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39108,
-          43.64347
+          -79.39016,
+          43.64411
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/24/2026, 1:00:00 PM",
-        "EndTime": "9/4/2026, 7:00:00 PM"
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39133,
-          43.64353
+          -79.40087,
+          43.64642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40111,
+          43.64698
         ]
       }
     },
@@ -398,26 +418,6 @@
         "coordinates": [
           -79.38925,
           43.64527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: JOHN ST N/OF PEARL ST - NORTHBOUND CURB LANE - ROAD REPAIR",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/2/2026, 1:00:00 PM",
-        "EndTime": "9/3/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39003,
-          43.64732
         ]
       }
     },
