@@ -4,40 +4,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP sewer rehabilitation. This project DOES NOT contain phasing.",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "8/31/2026, 11:00:00 PM",
-        "EndTime": "9/4/2026, 11:00:00 AM"
+        "StartTime": "8/24/2026, 1:00:00 PM",
+        "EndTime": "9/4/2026, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39016,
-          43.64411
+          -79.39133,
+          43.64353
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Superior Boiler Works and Welding Ltd",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Completion of wedge replacement on the sewer gate",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Black & McDonald",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/3/2026, 11:00:00 PM",
-        "EndTime": "9/4/2026, 8:30:00 AM"
+        "StartTime": "8/24/2026, 1:00:00 PM",
+        "EndTime": "9/4/2026, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38666,
-          43.64872
+          -79.39108,
+          43.64347
         ]
       }
     },
@@ -84,46 +84,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/24/2026, 1:00:00 PM",
-        "EndTime": "9/4/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39108,
-          43.64347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Black & McDonald",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Installation of 8 pedestrian push buttons at Blue Jays Way & Front St Intersection. 2 push button poles being installed on NE corner.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "8/24/2026, 1:00:00 PM",
-        "EndTime": "9/4/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39133,
-          43.64353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Enwave/Chill & Hot Water",
         "Contractor": "Aecon Utilities Inc.",
         "PermitType": "Enwave/Chill & Hot Water",
@@ -138,66 +98,6 @@
         "coordinates": [
           -79.38254,
           43.64547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2026, 11:00:00 AM",
-        "EndTime": "9/15/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39377,
-          43.64622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2026, 11:00:00 AM",
-        "EndTime": "9/15/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39378,
-          43.64624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2026, 11:00:00 AM",
-        "EndTime": "9/15/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39376,
-          43.6462
         ]
       }
     },
@@ -236,8 +136,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.39377,
+          43.64622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2026, 11:00:00 AM",
+        "EndTime": "9/15/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.39375,
           43.64616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2026, 11:00:00 AM",
+        "EndTime": "9/15/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39376,
+          43.6462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2026, 11:00:00 AM",
+        "EndTime": "9/15/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39378,
+          43.64624
         ]
       }
     },
@@ -329,15 +289,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3936,
-          43.64578
+          -79.39277,
+          43.64594
         ]
       }
     },
@@ -349,15 +309,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39277,
-          43.64594
+          -79.3936,
+          43.64578
         ]
       }
     },
