@@ -4,6 +4,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Storage of materials and equipment",
+        "Contractor": "Elements Engineering Inc.",
+        "PermitType": "Storage of materials and equipment",
+        "Description": "Toronto-TMC: Lane closures will be done in order to pull up transport trucks so that they can set up crane, as well as to load equipment with forklifts (craning of equipment from John Transmission Station property – 241 Wellington Street West).",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/5/2026, 10:00:00 AM",
+        "EndTime": "9/6/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38925,
+          43.64527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Streetscape work",
         "Contractor": "Unified Build",
         "PermitType": "Streetscape work",
@@ -76,26 +96,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39375,
-          43.64616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2026, 11:00:00 AM",
-        "EndTime": "9/15/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.39378,
           43.64624
         ]
@@ -116,8 +116,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39381,
-          43.64632
+          -79.39375,
+          43.64616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2026, 11:00:00 AM",
+        "EndTime": "9/15/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39376,
+          43.6462
         ]
       }
     },
@@ -156,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39376,
-          43.6462
+          -79.39381,
+          43.64632
         ]
       }
     },
@@ -204,26 +224,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Storage of materials and equipment",
-        "Contractor": "Elements Engineering Inc.",
-        "PermitType": "Storage of materials and equipment",
-        "Description": "Toronto-TMC: Lane closures will be done in order to pull up transport trucks so that they can set up crane, as well as to load equipment with forklifts (craning of equipment from John Transmission Station property – 241 Wellington Street West).",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/5/2026, 10:00:00 AM",
-        "EndTime": "9/6/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38925,
-          43.64527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
@@ -249,15 +249,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39277,
-          43.64594
+          -79.3936,
+          43.64578
         ]
       }
     },
@@ -269,15 +269,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3936,
-          43.64578
+          -79.39277,
+          43.64594
         ]
       }
     },
