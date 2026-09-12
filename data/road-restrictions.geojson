@@ -4,60 +4,100 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed due to Toronto Film Festival.",
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "9/9/2026, 3:00:00 AM",
-        "EndTime": "9/21/2026, 8:00:00 AM"
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.390945,
-          43.649099
+          -79.40111,
+          43.64698
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.389505,
-          43.645939
+          -79.40087,
+          43.64642
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
+        "WorkEventType": "Gasmain",
+        "Contractor": "ENBRIDGE GAS",
+        "PermitType": "Gasmain",
+        "Description": "Toronto-TMC: ENBRIDGE GAS NEEDS TO INSTALL AN ANODE ON THE GAS MAIN TO PREVENT FURTHER CORROSION",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "9/18/2026, 1:00:00 PM",
+        "EndTime": "9/18/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.391093,
-          43.646316
+          -79.39809,
+          43.64485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Aecon Utilities",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/9/2026, 1:00:00 PM",
+        "EndTime": "9/16/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39482,
+          43.64495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Doug Dixon & Associates Inc.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Hammer Sounding of underside of F G Gardiner Expressway.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Medium",
+        "StartTime": "9/28/2026, 3:00:00 AM",
+        "EndTime": "9/29/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38104,
+          43.64188
         ]
       }
     },
@@ -78,6 +118,26 @@
         "coordinates": [
           -79.386621,
           43.648638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "TIFF",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closed due to the TIFF.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/10/2026, 8:00:00 AM",
+        "EndTime": "9/14/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389613,
+          43.646207
         ]
       }
     },
@@ -138,6 +198,46 @@
         "coordinates": [
           -79.391093,
           43.646316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "TIFF",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closed due to the TIFF.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/10/2026, 8:00:00 AM",
+        "EndTime": "9/14/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.391093,
+          43.646316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "TIFF",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closed due to the TIFF.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/10/2026, 8:00:00 AM",
+        "EndTime": "9/14/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389505,
+          43.645939
         ]
       }
     },
@@ -236,88 +336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.389613,
-          43.646207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.386369,
           43.648009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Aecon Utilities",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/9/2026, 1:00:00 PM",
-        "EndTime": "9/16/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39482,
-          43.64495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40111,
-          43.64698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40087,
-          43.64642
         ]
       }
     },
@@ -338,6 +358,26 @@
         "coordinates": [
           -79.39549,
           43.64662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/15/2026, 11:00:00 AM",
+        "EndTime": "9/15/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39378,
+          43.64624
         ]
       }
     },
@@ -398,26 +438,6 @@
         "coordinates": [
           -79.39375,
           43.64616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: CHARLOTTE ST & LN N KING E CHARLOTTE - SIDEWALK & ROAD REPAIRS - NORTH & SOUTH BOUND",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/15/2026, 11:00:00 AM",
-        "EndTime": "9/15/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39378,
-          43.64624
         ]
       }
     },
