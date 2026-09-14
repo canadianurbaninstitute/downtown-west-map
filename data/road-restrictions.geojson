@@ -4,6 +4,106 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/22/2026, 1:00:00 PM",
+        "EndTime": "10/1/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39166,
+          43.64113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/22/2026, 1:00:00 PM",
+        "EndTime": "10/1/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39156,
+          43.64172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/22/2026, 1:00:00 PM",
+        "EndTime": "10/1/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3861,
+          43.64594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Aecon Utilities",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/9/2026, 1:00:00 PM",
+        "EndTime": "9/16/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39482,
+          43.64495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: NWC JOHN ST ON WELLINGTON ST W - ROAD REPAIR AT CABLE CHAMBER LID 15276",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/14/2026, 1:00:00 PM",
+        "EndTime": "9/14/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38943,
+          43.64524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Streetscape work",
         "Contractor": "Unified Build",
         "PermitType": "Streetscape work",
@@ -64,26 +164,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Aecon Utilities",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/9/2026, 1:00:00 PM",
-        "EndTime": "9/16/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39482,
-          43.64495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Transportation Services",
         "Contractor": "Doug Dixon & Associates Inc.",
         "PermitType": "Transportation Services",
@@ -98,246 +178,6 @@
         "coordinates": [
           -79.38104,
           43.64188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386369,
-          43.648009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386111,
-          43.647395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386111,
-          43.647395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.388152,
-          43.646965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389774,
-          43.646603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.391093,
-          43.646316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389974,
-          43.647062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389774,
-          43.646603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389613,
-          43.646207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389505,
-          43.645939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.391093,
-          43.646316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "TIFF",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closed due to the TIFF.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/10/2026, 8:00:00 AM",
-        "EndTime": "9/14/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386621,
-          43.648638
         ]
       }
     },
@@ -376,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39378,
-          43.64624
+          -79.39375,
+          43.64616
         ]
       }
     },
@@ -396,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39375,
-          43.64616
+          -79.39377,
+          43.64622
         ]
       }
     },
@@ -436,8 +276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39381,
-          43.64632
+          -79.39378,
+          43.64624
         ]
       }
     },
@@ -456,28 +296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39377,
-          43.64622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: NWC JOHN ST ON WELLINGTON ST W - ROAD REPAIR AT CABLE CHAMBER LID 15276",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/14/2026, 1:00:00 PM",
-        "EndTime": "9/14/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38943,
-          43.64524
+          -79.39381,
+          43.64632
         ]
       }
     },
@@ -509,15 +329,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3936,
-          43.64578
+          -79.39277,
+          43.64594
         ]
       }
     },
@@ -529,15 +349,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39277,
-          43.64594
+          -79.3936,
+          43.64578
         ]
       }
     },
