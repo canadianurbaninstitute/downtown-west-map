@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40087,
+          43.64642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40111,
+          43.64698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Other",
         "Contractor": "Aecon Utilities",
         "PermitType": "Other",
@@ -44,40 +84,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Doug Dixon & Associates Inc.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Hammer Sounding of underside of F G Gardiner Expressway.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "9/30/2026, 3:00:00 AM",
+        "EndTime": "10/1/2026, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40111,
-          43.64698
+          -79.38717,
+          43.64027
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Doug Dixon & Associates Inc.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Hammer Sounding of underside of F G Gardiner Expressway.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
+        "StartTime": "9/30/2026, 3:00:00 AM",
+        "EndTime": "10/1/2026, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40087,
-          43.64642
+          -79.38707,
+          43.64002
         ]
       }
     },
@@ -249,15 +289,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39277,
-          43.64594
+          -79.3936,
+          43.64578
         ]
       }
     },
@@ -269,15 +309,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: Construction staging to complete mixed use tower under construction",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "4/1/2025, 4:00:00 AM",
         "EndTime": "1/1/2027, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3936,
-          43.64578
+          -79.39277,
+          43.64594
         ]
       }
     },
