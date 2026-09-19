@@ -4,6 +4,86 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: NWC JOHN ST ON WELLINGTON ST W - ROAD REPAIR AT CABLE CHAMBER LID 15276",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/24/2026, 1:00:00 PM",
+        "EndTime": "9/25/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38943,
+          43.64524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Aecon Utilities",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "10/23/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39482,
+          43.64495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40087,
+          43.64642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40111,
+          43.64698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Long term construction staging",
         "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
         "PermitType": "Long term construction staging",
@@ -58,86 +138,6 @@
         "coordinates": [
           -79.40292,
           43.64662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gasmain",
-        "Contractor": "ENBRIDGE GAS",
-        "PermitType": "Gasmain",
-        "Description": "Toronto-TMC: ENBRIDGE GAS NEEDS TO INSTALL AN ANODE ON THE GAS MAIN TO PREVENT FURTHER CORROSION",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/18/2026, 1:00:00 PM",
-        "EndTime": "9/18/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39809,
-          43.64485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Aecon Utilities",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/9/2026, 1:00:00 PM",
-        "EndTime": "9/18/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39482,
-          43.64495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40087,
-          43.64642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40111,
-          43.64698
         ]
       }
     },
@@ -216,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39166,
-          43.64113
+          -79.39156,
+          43.64172
         ]
       }
     },
@@ -236,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39156,
-          43.64172
+          -79.39166,
+          43.64113
         ]
       }
     },
