@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Long term construction staging",
+        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
+        "PermitType": "Long term construction staging",
+        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/21/2026, 4:00:00 AM",
+        "EndTime": "1/1/2030, 4:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39334,
+          43.64838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Long term construction staging",
+        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
+        "PermitType": "Long term construction staging",
+        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/21/2026, 4:00:00 AM",
+        "EndTime": "1/1/2030, 4:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39312,
+          43.64804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Ferpac Paving Inc",
         "PermitType": "Toronto Hydro",
@@ -84,46 +124,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Long term construction staging",
-        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
-        "PermitType": "Long term construction staging",
-        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/21/2026, 4:00:00 AM",
-        "EndTime": "1/1/2030, 4:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39312,
-          43.64804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Long term construction staging",
-        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
-        "PermitType": "Long term construction staging",
-        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/21/2026, 4:00:00 AM",
-        "EndTime": "1/1/2030, 4:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39334,
-          43.64838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Clearway Utilities",
         "PermitType": "Toronto Hydro",
@@ -156,8 +156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38717,
-          43.64027
+          -79.38707,
+          43.64002
         ]
       }
     },
@@ -176,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38707,
-          43.64002
+          -79.38717,
+          43.64027
         ]
       }
     },
