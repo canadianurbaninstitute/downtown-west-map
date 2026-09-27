@@ -116,26 +116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39475,
-          43.64807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/24/2026, 1:00:00 PM",
-        "EndTime": "10/2/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.39949,
           43.64731
         ]
@@ -158,6 +138,26 @@
         "coordinates": [
           -79.39127,
           43.64688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/24/2026, 1:00:00 PM",
+        "EndTime": "10/2/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39475,
+          43.64807
         ]
       }
     },
@@ -249,15 +249,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "9/28/2026, 1:00:00 PM",
         "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39997,
-          43.64681
+          -79.39988,
+          43.64722
         ]
       }
     },
@@ -269,15 +269,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "9/28/2026, 1:00:00 PM",
         "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39988,
-          43.64722
+          -79.39997,
+          43.64681
         ]
       }
     },
@@ -356,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38707,
-          43.64002
+          -79.38717,
+          43.64027
         ]
       }
     },
@@ -376,8 +376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38717,
-          43.64027
+          -79.38707,
+          43.64002
         ]
       }
     },
