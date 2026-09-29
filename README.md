@@ -7,6 +7,7 @@ This repository contains code for the Downtown West Road Restrictions Map. The m
 This project fetches real-time data from Toronto's Open Data feed about road restrictions, filters it to the Downtown West polygon, and displays the information interactively on a map using [MapLibre GL](https://maplibre.org/).
 
 **Features:**
+
 - Interactive map of Downtown West Toronto
 - Visualization of live and upcoming road restrictions, construction, and transit events
 - Impact and type of work clearly represented by color and size
@@ -19,7 +20,6 @@ This project fetches real-time data from Toronto's Open Data feed about road res
 
 2. **Map Display:**  
    `index.html` loads the Downtown West area and overlays filtered road restriction events. Events are colored and sized by type and impact. Users can click markers for more information.
-   
 3. **Road Restrictions GitHub Action**
 
 To ensure the map always displays the most recent road restrictions, this project uses a GitHub Actions workflow to update its data automatically:
@@ -40,24 +40,29 @@ This keeps the map up-to-date for users without manual intervention.
 
 - Node.js (for running data fetch scripts)
 - [MapLibre GL JS](https://maplibre.org/) (loaded via CDN in HTML)
+  - v5.24.0 pinned for this map
 
 ### Setup
 
 1. **Clone the repository:**
+
    ```sh
    git clone https://github.com/canadianurbaninstitute/downtown-west-map.git
    cd downtown-west-map
    ```
 
 2. **Install dependencies:**
+
    ```sh
    npm install
    ```
 
 3. **Fetch and process data:**
+
    ```sh
    node scripts/fetch-and-filter.js
    ```
+
    This will output the filtered `road-restrictions.geojson` file in the `data/` directory.
 
 4. **Run the web app locally:**
