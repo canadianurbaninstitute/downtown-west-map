@@ -4,80 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Doug Dixon & Associates Inc.",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Hammer Sounding of underside of F G Gardiner Expressway.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/2/2026, 3:00:00 AM",
-        "EndTime": "10/3/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38339,
-          43.64079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40111,
-          43.64698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Streetscape work",
-        "Contractor": "Unified Build",
-        "PermitType": "Streetscape work",
-        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/1/2026, 11:00:00 AM",
-        "EndTime": "10/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40087,
-          43.64642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
         "Contractor": "Aqua Tech Solutions Inc",
         "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
         "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
         "StartTime": "9/24/2026, 1:00:00 PM",
         "EndTime": "10/2/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39127,
-          43.64688
+          -79.39475,
+          43.64807
         ]
       }
     },
@@ -128,16 +68,96 @@
         "Contractor": "Aqua Tech Solutions Inc",
         "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
         "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
         "StartTime": "9/24/2026, 1:00:00 PM",
         "EndTime": "10/2/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39475,
-          43.64807
+          -79.39127,
+          43.64688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Waterfront Toronto",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Waterfront Toronto",
+        "Description": "Toronto-TMC: Asphalt patches and line painting",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/20/2026, 2:00:00 PM",
+        "EndTime": "11/30/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38708,
+          43.64004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40087,
+          43.64642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Streetscape work",
+        "Contractor": "Unified Build",
+        "PermitType": "Streetscape work",
+        "Description": "Toronto-TMC: - The sidewalk at the driveway is cracked - Water Valves on the sidewalk are not boxed out - First west planter concrete slap is moving and need to be secured - 7 bays of sidewalk beside the building entrance are spalled and need to be replaced - All the curbs are not done as per the city standard - Asphalt strip beside the crosswalk needs to be rout and sealed - Contraction joint on Portland St needs to be done both ways to prevent further cracks - Cracked sidewalk at Portland need to be replaced - Water ponding at south of the construction area needs to be addressed.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/1/2026, 11:00:00 AM",
+        "EndTime": "10/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40111,
+          43.64698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Doug Dixon & Associates Inc.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Hammer Sounding of underside of F G Gardiner Expressway.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/2/2026, 3:00:00 AM",
+        "EndTime": "10/3/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38339,
+          43.64079
         ]
       }
     },
@@ -156,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38734,
-          43.64568
+          -79.3829,
+          43.6452
         ]
       }
     },
@@ -196,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3829,
-          43.6452
+          -79.38734,
+          43.64568
         ]
       }
     },
@@ -289,15 +309,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "9/28/2026, 1:00:00 PM",
         "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39988,
-          43.64722
+          -79.39997,
+          43.64681
         ]
       }
     },
@@ -309,15 +329,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "9/28/2026, 1:00:00 PM",
         "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39997,
-          43.64681
+          -79.39988,
+          43.64722
         ]
       }
     },
