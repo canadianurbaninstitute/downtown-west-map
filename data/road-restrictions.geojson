@@ -4,140 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/24/2026, 1:00:00 PM",
-        "EndTime": "10/2/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39127,
-          43.64688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/22/2026, 1:00:00 PM",
-        "EndTime": "10/1/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39166,
-          43.64113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/22/2026, 1:00:00 PM",
-        "EndTime": "10/1/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39156,
-          43.64172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "9/22/2026, 1:00:00 PM",
-        "EndTime": "10/1/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3861,
-          43.64594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Doug Dixon & Associates Inc.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Hammer Sounding of underside of F G Gardiner Expressway.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/24/2026, 1:00:00 PM",
-        "EndTime": "10/2/2026, 8:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "10/2/2026, 3:00:00 AM",
+        "EndTime": "10/3/2026, 9:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39222,
-          43.6488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/24/2026, 1:00:00 PM",
-        "EndTime": "10/2/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39949,
-          43.64731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
-        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/24/2026, 1:00:00 PM",
-        "EndTime": "10/2/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39475,
-          43.64807
+          -79.38339,
+          43.64079
         ]
       }
     },
@@ -178,6 +58,206 @@
         "coordinates": [
           -79.40087,
           43.64642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "9/24/2026, 1:00:00 PM",
+        "EndTime": "10/2/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39127,
+          43.64688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/24/2026, 1:00:00 PM",
+        "EndTime": "10/2/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39949,
+          43.64731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/24/2026, 1:00:00 PM",
+        "EndTime": "10/2/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39222,
+          43.6488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "{\"tabledata\":[{\"Option\":\"Parks",
+        "Description": "Toronto-TMC: Street Occupation of Materials & Equipment to Maintain Infrastructures \"DOES NOT INCLUDE ANY SURFACE CUTS\"",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "9/24/2026, 1:00:00 PM",
+        "EndTime": "10/2/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39475,
+          43.64807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38734,
+          43.64568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38518,
+          43.64614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3829,
+          43.6452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38538,
+          43.64569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39299,
+          43.64053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39299,
+          43.64053
         ]
       }
     },
@@ -249,15 +329,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "9/21/2026, 4:00:00 AM",
         "EndTime": "1/1/2030, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39312,
-          43.64804
+          -79.39334,
+          43.64838
         ]
       }
     },
@@ -269,15 +349,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "9/21/2026, 4:00:00 AM",
         "EndTime": "1/1/2030, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64838
+          -79.39312,
+          43.64804
         ]
       }
     },
@@ -298,26 +378,6 @@
         "coordinates": [
           -79.39482,
           43.64495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Doug Dixon & Associates Inc.",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Hammer Sounding of underside of F G Gardiner Expressway.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/2/2026, 3:00:00 AM",
-        "EndTime": "10/3/2026, 9:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38339,
-          43.64079
         ]
       }
     },
