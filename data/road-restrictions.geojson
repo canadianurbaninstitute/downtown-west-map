@@ -36,46 +36,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38538,
-          43.64569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "IPAC Paving Limited",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Asphalt patches, line markings",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/7/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3829,
-          43.6452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "IPAC Paving Limited",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Asphalt patches, line markings",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/7/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.38518,
           43.64614
         ]
@@ -96,8 +56,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.38538,
+          43.64569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.38734,
           43.64568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3829,
+          43.6452
         ]
       }
     },
