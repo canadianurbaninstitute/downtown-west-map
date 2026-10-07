@@ -4,140 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the concrete sidewalk at Bathurst St & King St W. - The OTG gate will always remain open all the time. - A protected pathway is provided for pedestrians.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/7/2026, 8:00:00 AM",
-        "EndTime": "10/7/2026, 2:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40268,
-          43.64393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/5/2026, 11:00:00 AM",
-        "EndTime": "10/23/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39299,
-          43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/5/2026, 11:00:00 AM",
-        "EndTime": "10/23/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39299,
-          43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Powerlineplus",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Cable pulling",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/9/2026, 11:00:00 AM",
-        "EndTime": "10/12/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38761,
-          43.64087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/12/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39348,
-          43.6467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/12/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39369,
-          43.64666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Waterfront Toronto",
         "Contractor": "IPAC Paving Limited",
-        "PermitType": "Waterfront Toronto",
-        "Description": "Toronto-TMC: Asphalt patches and line painting",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/20/2026, 2:00:00 PM",
-        "EndTime": "11/30/2026, 9:00:00 PM"
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38708,
-          43.64004
+          -79.38518,
+          43.64614
         ]
       }
     },
@@ -164,20 +44,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "IPAC Paving Limited",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/7/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38734,
-          43.64568
+          -79.39299,
+          43.64053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39299,
+          43.64053
         ]
       }
     },
@@ -216,8 +116,88 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38518,
-          43.64614
+          -79.38734,
+          43.64568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Powerlineplus",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Cable pulling",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/9/2026, 11:00:00 AM",
+        "EndTime": "10/12/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38761,
+          43.64087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/12/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39369,
+          43.64666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/12/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39348,
+          43.6467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Waterfront Toronto",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Waterfront Toronto",
+        "Description": "Toronto-TMC: Asphalt patches and line painting",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/20/2026, 2:00:00 PM",
+        "EndTime": "11/30/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38708,
+          43.64004
         ]
       }
     },
@@ -289,15 +269,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "9/21/2026, 4:00:00 AM",
         "EndTime": "1/1/2030, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39312,
-          43.64804
+          -79.39334,
+          43.64838
         ]
       }
     },
@@ -309,15 +289,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "9/21/2026, 4:00:00 AM",
         "EndTime": "1/1/2030, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64838
+          -79.39312,
+          43.64804
         ]
       }
     },
