@@ -16,8 +16,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38518,
-          43.64614
+          -79.38734,
+          43.64568
         ]
       }
     },
@@ -38,46 +38,6 @@
         "coordinates": [
           -79.3829,
           43.6452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/5/2026, 11:00:00 AM",
-        "EndTime": "10/23/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39299,
-          43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/5/2026, 11:00:00 AM",
-        "EndTime": "10/23/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39299,
-          43.64053
         ]
       }
     },
@@ -116,8 +76,88 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38734,
-          43.64568
+          -79.38518,
+          43.64614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/12/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389,
+          43.64847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Midome Construction Services Ltd.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City of Toronto Mercer Street Streetscape Improvement From Blue Jays Way to John Street",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/13/2026, 11:00:00 AM",
+        "EndTime": "12/25/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38946,
+          43.64594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39299,
+          43.64053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39299,
+          43.64053
         ]
       }
     },
@@ -156,8 +196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39369,
-          43.64666
+          -79.39348,
+          43.6467
         ]
       }
     },
@@ -176,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39348,
-          43.6467
+          -79.39369,
+          43.64666
         ]
       }
     },
@@ -204,20 +244,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Clearway Utilities",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Permanent Restoration of CSW",
-        "Type": "ROAD_CLOSED",
+        "WorkEventType": "Other",
+        "Contractor": "Meridian Construction Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: It is a landscape project.",
+        "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "9/22/2026, 1:00:00 PM",
-        "EndTime": "10/7/2026, 8:00:00 PM"
+        "StartTime": "9/28/2026, 1:00:00 PM",
+        "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40292,
-          43.64662
+          -79.39988,
+          43.64722
         ]
       }
     },
@@ -244,20 +284,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Meridian Construction Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: It is a landscape project.",
+        "WorkEventType": "Long term construction staging",
+        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
+        "PermitType": "Long term construction staging",
+        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "9/28/2026, 1:00:00 PM",
-        "EndTime": "10/30/2026, 8:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "9/21/2026, 4:00:00 AM",
+        "EndTime": "1/1/2030, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39988,
-          43.64722
+          -79.39312,
+          43.64804
         ]
       }
     },
@@ -278,26 +318,6 @@
         "coordinates": [
           -79.39334,
           43.64838
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Long term construction staging",
-        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
-        "PermitType": "Long term construction staging",
-        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/21/2026, 4:00:00 AM",
-        "EndTime": "1/1/2030, 4:59:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39312,
-          43.64804
         ]
       }
     },
