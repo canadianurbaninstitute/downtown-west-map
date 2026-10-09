@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "A & F Di Carlo Construction Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURBS AND ROAD REPAIRS",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/14/2026, 11:00:00 AM",
+        "EndTime": "10/28/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38255,
+          43.64203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Powerlineplus",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Cable pulling",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/9/2026, 11:00:00 AM",
+        "EndTime": "10/12/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38761,
+          43.64087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "IPAC Paving Limited",
         "PermitType": "Toronto Water",
@@ -164,20 +204,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Powerlineplus",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Cable pulling",
-        "Type": "CONSTRUCTION",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
+        "Type": "ROAD_CLOSED",
         "maxImpact": "Low",
-        "StartTime": "10/9/2026, 11:00:00 AM",
-        "EndTime": "10/12/2026, 8:00:00 PM"
+        "StartTime": "10/12/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38761,
-          43.64087
+          -79.39369,
+          43.64666
         ]
       }
     },
@@ -198,26 +238,6 @@
         "coordinates": [
           -79.39348,
           43.6467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/12/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39369,
-          43.64666
         ]
       }
     },
