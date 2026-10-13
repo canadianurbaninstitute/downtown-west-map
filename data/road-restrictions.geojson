@@ -4,20 +4,140 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "IPAC Paving Limited",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Asphalt patches, line markings",
+        "WorkEventType": "Unknown",
+        "Contractor": "Canada Running Series Inc.",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is temporarily closed due to the Toronto Waterfront Marathon, Half-Marathon and 5K race",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/18/2026, 11:00:00 AM",
+        "EndTime": "10/18/2026, 3:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.402397,
+          43.643194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "Canada Running Series Inc.",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is temporarily closed due to the Toronto Waterfront Marathon, Half-Marathon and 5K race",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/18/2026, 11:00:00 AM",
+        "EndTime": "10/18/2026, 3:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.401422,
+          43.64075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": "Canada Running Series Inc.",
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Roads and Sidewalks temporarily closed due to the Toronto Waterfront Marathon, Half-Marathon and 5K race: twm26-eventnotice-1-Pager-1.pdf",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/17/2026, 7:00:00 AM",
+        "EndTime": "10/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.382471,
+          43.645292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/7/2026, 11:00:00 AM",
+        "StartTime": "10/12/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389,
+          43.64847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Midome Construction Services Ltd.",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City of Toronto Mercer Street Streetscape Improvement From Blue Jays Way to John Street",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/13/2026, 11:00:00 AM",
+        "EndTime": "12/25/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38946,
+          43.64594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/12/2026, 11:00:00 AM",
         "EndTime": "10/16/2026, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38734,
-          43.64568
+          -79.39348,
+          43.6467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/12/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39369,
+          43.64666
         ]
       }
     },
@@ -56,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3829,
-          43.6452
+          -79.38538,
+          43.64569
         ]
       }
     },
@@ -76,8 +196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38538,
-          43.64569
+          -79.38734,
+          43.64568
         ]
       }
     },
@@ -85,59 +205,19 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies Ltd.",
+        "Contractor": "IPAC Paving Limited",
         "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/12/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39369,
-          43.64666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/12/2026, 11:00:00 AM",
-        "EndTime": "10/16/2026, 11:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39348,
-          43.6467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Description": "Toronto-TMC: Asphalt patches, line markings",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/12/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
+        "StartTime": "10/7/2026, 11:00:00 AM",
+        "EndTime": "10/16/2026, 11:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.389,
-          43.64847
+          -79.3829,
+          43.6452
         ]
       }
     },
@@ -178,26 +258,6 @@
         "coordinates": [
           -79.39299,
           43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: SWC RICHMOND ST W & WIDMER ST - SIDEWALK & ROAD REPAIRS",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/22/2026, 1:00:00 PM",
-        "EndTime": "10/23/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39211,
-          43.64882
         ]
       }
     },
@@ -224,6 +284,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Ferpac Paving Inc",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: SWC RICHMOND ST W & WIDMER ST - SIDEWALK & ROAD REPAIRS",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/22/2026, 1:00:00 PM",
+        "EndTime": "10/23/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39211,
+          43.64882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Transportation Services",
         "Contractor": "A & F Di Carlo Construction Inc",
         "PermitType": "Transportation Services",
@@ -238,26 +318,6 @@
         "coordinates": [
           -79.38255,
           43.64203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Midome Construction Services Ltd.",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: City of Toronto Mercer Street Streetscape Improvement From Blue Jays Way to John Street",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/13/2026, 11:00:00 AM",
-        "EndTime": "12/25/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38946,
-          43.64594
         ]
       }
     },
@@ -329,15 +389,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "9/21/2026, 4:00:00 AM",
         "EndTime": "1/1/2030, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39334,
-          43.64838
+          -79.39312,
+          43.64804
         ]
       }
     },
@@ -349,15 +409,15 @@
         "PermitType": "Long term construction staging",
         "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "9/21/2026, 4:00:00 AM",
         "EndTime": "1/1/2030, 4:59:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39312,
-          43.64804
+          -79.39334,
+          43.64838
         ]
       }
     },
