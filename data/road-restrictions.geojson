@@ -24,26 +24,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": "Canada Running Series Inc.",
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Roads and Sidewalks temporarily closed due to the Toronto Waterfront Marathon, Half-Marathon and 5K race: https://www.torontowaterfrontmarathon.com/wp-content/uploads/2026/09/twm26-eventnotice-1-Pager-1.pdf",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/18/2026, 7:00:00 AM",
-        "EndTime": "10/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.382471,
-          43.645292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Transportation Services",
         "Contractor": "A & F Di Carlo Construction Inc",
         "PermitType": "Transportation Services",
