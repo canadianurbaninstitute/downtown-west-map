@@ -4,6 +4,66 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "Insituform Technologies Ltd.",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
+        "Type": "ROAD_CLOSED",
+        "maxImpact": "Low",
+        "StartTime": "10/19/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 11:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39335,
+          43.64673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "A & F Di Carlo Construction Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURBS AND ROAD REPAIRS",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/14/2026, 11:00:00 AM",
+        "EndTime": "10/28/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38255,
+          43.64203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Duct Bank Install & Pole removal & relocations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "10/26/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39306,
+          43.6479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Gas Service",
         "Contractor": "Bevcon Construction & Paving Ltd.",
         "PermitType": "Gas Service",
@@ -18,86 +78,6 @@
         "coordinates": [
           -79.38214,
           43.6461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "11/3/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39413,
-          43.6432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38428,
-          43.64492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38387,
-          43.645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Aecon Utilities",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "10/23/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39482,
-          43.64495
         ]
       }
     },
@@ -164,80 +144,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: SWC RICHMOND ST W & WIDMER ST - SIDEWALK & ROAD REPAIRS",
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "10/21/2026, 8:00:00 PM"
+        "StartTime": "10/21/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39203,
-          43.64879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "IPAC Paving Limited",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Road work",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/15/2026, 1:00:00 PM",
-        "EndTime": "10/23/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38268,
-          43.64581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Duct Bank Install & Pole removal & relocations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "10/26/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39306,
-          43.6479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "11/3/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39284,
-          43.64303
+          -79.38387,
+          43.645
         ]
       }
     },
@@ -264,6 +184,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/21/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38428,
+          43.64492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Transportation Services",
         "Contractor": "Stratton Prime Drilling Inc",
         "PermitType": "Transportation Services",
@@ -284,40 +224,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Road work",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/5/2026, 11:00:00 AM",
-        "EndTime": "10/23/2026, 7:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "10/15/2026, 1:00:00 PM",
+        "EndTime": "10/23/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39299,
-          43.64053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Utility",
-        "Contractor": "Pave Krete Construction",
-        "PermitType": "Utility",
-        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/5/2026, 11:00:00 AM",
-        "EndTime": "10/23/2026, 7:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39299,
-          43.64053
+          -79.38268,
+          43.64581
         ]
       }
     },
@@ -327,37 +247,97 @@
         "WorkEventType": "Transportation Services",
         "Contractor": "A & F Di Carlo Construction Inc",
         "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURBS AND ROAD REPAIRS",
+        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/14/2026, 11:00:00 AM",
-        "EndTime": "10/28/2026, 9:30:00 PM"
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "11/3/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38255,
-          43.64203
+          -79.39284,
+          43.64303
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "Insituform Technologies Ltd.",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: CIPP construction works on existing sanitary/storm Sewer",
-        "Type": "ROAD_CLOSED",
-        "maxImpact": "Low",
-        "StartTime": "10/19/2026, 11:00:00 AM",
-        "EndTime": "10/23/2026, 11:00:00 PM"
+        "WorkEventType": "Other",
+        "Contractor": "Aecon Utilities",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: We will be working at asphalt on the road and our service vehicles will be parked close to our worksite. Cyclist will be temporary merged with the road and traffic sign will be placed ahead to manage on coming traffic control.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "10/23/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39335,
-          43.64673
+          -79.39482,
+          43.64495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "A & F Di Carlo Construction Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "11/3/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39413,
+          43.6432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39299,
+          43.64053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Utility",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Utility",
+        "Description": "Toronto-TMC: - Permanent restoration of the asphalt road on Fort York Blvd from Spadina Ave to Dan Leckie Way. - One side of the road in both directions (eastbound and westbound) will remain open at all times. Note: This Project DOES NOT contain phasing.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/5/2026, 11:00:00 AM",
+        "EndTime": "10/23/2026, 7:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39299,
+          43.64053
         ]
       }
     },
@@ -489,26 +469,6 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "9/28/2026, 1:00:00 PM",
-        "EndTime": "10/30/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39997,
-          43.64681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Meridian Construction Inc.",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: It is a landscape project.",
-        "Type": "CONSTRUCTION",
         "maxImpact": "High",
         "StartTime": "9/28/2026, 1:00:00 PM",
         "EndTime": "10/30/2026, 8:00:00 PM"
@@ -524,20 +484,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Long term construction staging",
-        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
-        "PermitType": "Long term construction staging",
-        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
+        "WorkEventType": "Other",
+        "Contractor": "Meridian Construction Inc.",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "9/21/2026, 4:00:00 AM",
-        "EndTime": "1/1/2030, 4:59:00 AM"
+        "StartTime": "9/28/2026, 1:00:00 PM",
+        "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39312,
-          43.64804
+          -79.39997,
+          43.64681
         ]
       }
     },
@@ -558,6 +518,26 @@
         "coordinates": [
           -79.39334,
           43.64838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Long term construction staging",
+        "Contractor": "Kingdom Toronto Peter Project Limited Partnership",
+        "PermitType": "Long term construction staging",
+        "Description": "Toronto-TMC: The project at 128 Peter Street is a proposed residential development located at the southwest corner of Peter Street and Richmond Street West in Toronto. The development consists of approximately 370 residential units within a high-rise building. Construction will require occupation of portions of the public right-of-way on both Peter Street and Richmond Street West, including lane reductions and sidewalk management to accommodate staging, excavation, and building construction activities. Pedestrian and cycling connections will be maintained during construction.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "9/21/2026, 4:00:00 AM",
+        "EndTime": "1/1/2030, 4:59:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39312,
+          43.64804
         ]
       }
     },
