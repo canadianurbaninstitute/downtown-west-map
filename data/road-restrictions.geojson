@@ -10,14 +10,14 @@
         "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/28/2026, 1:00:00 PM",
+        "StartTime": "10/23/2026, 1:00:00 PM",
         "EndTime": "11/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39408,
-          43.64364
+          -79.3823,
+          43.64607
         ]
       }
     },
@@ -30,14 +30,54 @@
         "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
+        "StartTime": "10/23/2026, 1:00:00 PM",
         "EndTime": "11/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38384,
-          43.645
+          -79.38179,
+          43.64617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "A & F Di Carlo Construction Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "11/3/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39413,
+          43.6432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "A & F Di Carlo Construction Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "11/3/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39284,
+          43.64303
         ]
       }
     },
@@ -76,88 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38214,
-          43.6461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Stratton Prime Drilling Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/12/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.389,
-          43.64847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/23/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38179,
-          43.64617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/23/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3823,
-          43.64607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Duct Bank Install & Pole removal & relocations",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/26/2026, 1:00:00 PM",
-        "EndTime": "11/2/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39324,
-          43.64832
+          -79.38384,
+          43.645
         ]
       }
     },
@@ -224,106 +184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Clearway Utilities",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Permanent CSW Restoration",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/26/2026, 1:00:00 PM",
-        "EndTime": "10/30/2026, 8:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3971,
-          43.64778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38431,
-          43.64491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "11/3/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39284,
-          43.64303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "A & F Di Carlo Construction Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: NEIGHBOURHOOD IMPROVEMENTS - SIDEWALK, CURB AND ROAD REPAIRS.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "11/3/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39413,
-          43.6432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38429,
-          43.64491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Gas Service",
         "Contractor": "Bevcon Construction & Paving Ltd.",
         "PermitType": "Gas Service",
@@ -358,6 +218,146 @@
         "coordinates": [
           -79.38429,
           43.64491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/21/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38429,
+          43.64491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/21/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38431,
+          43.64491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Stratton Prime Drilling Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Engineering & Construction Services, Soil & Groundwater Quality Unit - Geotechnical, Geoenvironmental, Pavement and Hydrogeological Investigations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/12/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.389,
+          43.64847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/21/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38214,
+          43.6461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/28/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39408,
+          43.64364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Clearway Utilities",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Permanent CSW Restoration",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/26/2026, 1:00:00 PM",
+        "EndTime": "10/30/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3971,
+          43.64778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Duct Bank Install & Pole removal & relocations",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/26/2026, 1:00:00 PM",
+        "EndTime": "11/2/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39324,
+          43.64832
         ]
       }
     },
@@ -469,15 +469,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "9/28/2026, 1:00:00 PM",
         "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39997,
-          43.64681
+          -79.39988,
+          43.64722
         ]
       }
     },
@@ -489,15 +489,15 @@
         "PermitType": "Other",
         "Description": "Toronto-TMC: It is a landscape project.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
+        "maxImpact": "Low",
         "StartTime": "9/28/2026, 1:00:00 PM",
         "EndTime": "10/30/2026, 8:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39988,
-          43.64722
+          -79.39997,
+          43.64681
         ]
       }
     },
