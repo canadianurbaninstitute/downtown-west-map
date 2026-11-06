@@ -4,40 +4,160 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38384,
-          43.645
+          -79.39955,
+          43.64318
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39948,
+          43.64301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38705,
+          43.64134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38544,
+          43.6421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.38431,
-          43.64491
+          43.64233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38401,
+          43.64239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38149,
+          43.64295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38318,
+          43.64256
         ]
       }
     },
@@ -50,14 +170,74 @@
         "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/21/2026, 1:00:00 PM",
+        "StartTime": "10/28/2026, 1:00:00 PM",
         "EndTime": "11/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38429,
-          43.64491
+          -79.39643,
+          43.64364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/28/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39293,
+          43.64035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/28/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39669,
+          43.64358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Powerline plus",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Overhead electrical work",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/5/2026, 2:00:00 PM",
+        "EndTime": "11/12/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40346,
+          43.64585
         ]
       }
     },
@@ -130,34 +310,14 @@
         "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/23/2026, 1:00:00 PM",
+        "StartTime": "10/21/2026, 1:00:00 PM",
         "EndTime": "11/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38179,
-          43.64617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Other",
-        "Contractor": "Aecon Utilities",
-        "PermitType": "Other",
-        "Description": "Toronto-TMC: We will be working on concrete sidewalk and pedestrians will be temporary rerouted into detour path provided. Our service vehicles will be parked close to our worksite and traffic signs will be posted ahead to manage on coming vehicles.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/13/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39319,
-          43.64294
+          -79.38384,
+          43.645
         ]
       }
     },
@@ -190,34 +350,34 @@
         "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "10/28/2026, 1:00:00 PM",
+        "StartTime": "10/23/2026, 1:00:00 PM",
         "EndTime": "11/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39408,
-          43.64364
+          -79.38179,
+          43.64617
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "IPAC Paving Limited",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Roads, curbs, no simultaneous closings, locations done one by one",
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/2/2026, 2:00:00 PM",
-        "EndTime": "11/13/2026, 9:00:00 AM"
+        "StartTime": "10/23/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39088,
-          43.64351
+          -79.3823,
+          43.64607
         ]
       }
     },
@@ -244,6 +404,146 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/21/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38431,
+          43.64491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/21/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38429,
+          43.64491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Gas Service",
+        "Contractor": "Bevcon Construction & Paving Ltd.",
+        "PermitType": "Gas Service",
+        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "10/28/2026, 1:00:00 PM",
+        "EndTime": "11/6/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39408,
+          43.64364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Other",
+        "Contractor": "Aecon Utilities",
+        "PermitType": "Other",
+        "Description": "Toronto-TMC: We will be working on concrete sidewalk and pedestrians will be temporary rerouted into detour path provided. Our service vehicles will be parked close to our worksite and traffic signs will be posted ahead to manage on coming vehicles.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/13/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39319,
+          43.64294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Permanent asphalt road restoration on Spadina Ave & Fort York Blvd Intersection.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/9/2026, 12:00:00 PM",
+        "EndTime": "11/9/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39312,
+          43.64082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Pave Krete Construction",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Permanent asphalt road restoration on Spadina Ave & Fort York Blvd Intersection.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/9/2026, 12:00:00 PM",
+        "EndTime": "11/9/2026, 10:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.393,
+          43.64056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/9/2026, 2:00:00 PM",
+        "EndTime": "12/23/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39019,
+          43.64787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "IPAC Paving Limited",
         "PermitType": "Toronto Water",
@@ -256,8 +556,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38264,
-          43.6457
+          -79.39088,
+          43.64351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Water",
+        "Contractor": "IPAC Paving Limited",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Roads, curbs, no simultaneous closings, locations done one by one",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/2/2026, 2:00:00 PM",
+        "EndTime": "11/13/2026, 9:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38673,
+          43.64441
         ]
       }
     },
@@ -296,228 +616,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38673,
-          43.64441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Powerline plus",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Overhead electrical work",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/5/2026, 2:00:00 PM",
-        "EndTime": "11/12/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40346,
-          43.64585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/23/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3823,
-          43.64607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/28/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39293,
-          43.64035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/28/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39669,
-          43.64358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Gas Service",
-        "Contractor": "Bevcon Construction & Paving Ltd.",
-        "PermitType": "Gas Service",
-        "Description": "Toronto-TMC: Utility cut restoration on behalf of Enbridge.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "10/28/2026, 1:00:00 PM",
-        "EndTime": "11/6/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39643,
-          43.64364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38401,
-          43.64239
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38431,
-          43.64233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38318,
-          43.64256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38149,
-          43.64295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38705,
-          43.64134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38544,
-          43.6421
+          -79.38264,
+          43.6457
         ]
       }
     },
