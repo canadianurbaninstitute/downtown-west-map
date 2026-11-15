@@ -45,6 +45,66 @@
       "type": "Feature",
       "properties": {
         "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38318,
+          43.64256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38148,
+          43.64291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38431,
+          43.64233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
         "Contractor": "Ferpac Paving Inc",
         "PermitType": "Toronto Hydro",
         "Description": "Toronto-TMC: CABLE CHAMBER LIDS RESTORATION AT: BREMNER BLVD & GRAND TRUNK CR - SWC LOWER SIMCOE & BREMNER BLCD - SEC",
@@ -67,17 +127,17 @@
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
+        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/9/2026, 2:00:00 PM",
-        "EndTime": "12/23/2026, 9:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "11/4/2026, 2:00:00 PM",
+        "EndTime": "11/18/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39019,
-          43.64787
+          -79.38401,
+          43.64239
         ]
       }
     },
@@ -124,66 +184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38431,
-          43.64233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38318,
-          43.64256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38148,
-          43.64291
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Transportation Services",
         "Contractor": "Beacon Utility Contractors Limited",
         "PermitType": "Transportation Services",
@@ -207,17 +207,17 @@
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
+        "maxImpact": "High",
+        "StartTime": "11/9/2026, 2:00:00 PM",
+        "EndTime": "12/23/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38401,
-          43.64239
+          -79.39019,
+          43.64787
         ]
       }
     },
@@ -316,26 +316,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39117,
-          43.64345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/27/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.39129,
           43.64342
         ]
@@ -358,6 +338,26 @@
         "coordinates": [
           -79.39133,
           43.64354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/16/2026, 2:00:00 PM",
+        "EndTime": "11/27/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39117,
+          43.64345
         ]
       }
     },
