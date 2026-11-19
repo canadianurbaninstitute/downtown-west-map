@@ -4,140 +4,120 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "OJCR Construction LTD",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Sewer Rehabilitation",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
+        "StartTime": "11/16/2026, 12:00:00 PM",
+        "EndTime": "12/19/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38705,
-          43.64134
+          -79.40085,
+          43.64293
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38544,
-          43.6421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: CABLE CHAMBER LIDS RESTORATION AT: BREMNER BLVD & GRAND TRUNK CR - SWC LOWER SIMCOE & BREMNER BLCD - SEC",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38386,
-          43.64242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Beacon Utility Contractors Limited",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Restoration on the South East corner",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "11/20/2026, 9:00:00 PM"
+        "StartTime": "11/22/2026, 4:45:00 PM",
+        "EndTime": "11/22/2026, 5:30:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40006,
-          43.64444
+          -79.384651,
+          43.650441
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Ferpac Paving Inc",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: CABLE CHAMBER LIDS RESTORATION AT: BREMNER BLVD & GRAND TRUNK CR - SWC LOWER SIMCOE & BREMNER BLCD - SEC",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38401,
-          43.64239
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.38318,
-          43.64256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
+        "StartTime": "11/22/2026, 4:45:00 PM",
+        "EndTime": "11/22/2026, 5:30:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38148,
-          43.64291
+          -79.385111,
+          43.650342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/22/2026, 4:45:00 PM",
+        "EndTime": "11/22/2026, 5:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.385556,
+          43.648869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/22/2026, 4:45:00 PM",
+        "EndTime": "11/22/2026, 5:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.383685,
+          43.645695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:45:00 PM",
+        "EndTime": "11/22/2026, 5:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.382471,
+          43.645292
         ]
       }
     },
@@ -147,17 +127,77 @@
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "Description": "Toronto-TMC: REBUILD",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
+        "StartTime": "11/18/2026, 12:00:00 PM",
+        "EndTime": "12/31/2026, 10:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38401,
-          43.64239
+          -79.3889,
+          43.64881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39948,
+          43.64301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39955,
+          43.64318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/9/2026, 2:00:00 PM",
+        "EndTime": "1/1/2027, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39019,
+          43.64787
         ]
       }
     },
@@ -184,20 +224,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Beacon Utility Contractors Limited",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Restoration on the South East corner",
         "Type": "CONSTRUCTION",
         "maxImpact": "High",
-        "StartTime": "11/9/2026, 2:00:00 PM",
-        "EndTime": "1/1/2027, 9:00:00 PM"
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "11/20/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39019,
-          43.64787
+          -79.40006,
+          43.64444
         ]
       }
     },
@@ -264,120 +304,140 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: LID INSPECTIONS AND ROPING THE PROJECT WILL MOVE AT A PACE OF 2 -3 LIDS PER DAY WE ARE UNSURE OF THE LOCATIONS WHERE WE ARE STARTING",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/4/2026, 2:00:00 PM",
-        "EndTime": "11/18/2026, 9:00:00 PM"
+        "maxImpact": "High",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.38431,
-          43.64233
+          -79.386621,
+          43.648638
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors Co. Limited",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Entera crew to remove 2 old poles on the West side of Peter street.",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/18/2026, 12:00:00 PM",
-        "EndTime": "11/18/2026, 8:00:00 PM"
+        "maxImpact": "High",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39305,
-          43.64787
+          -79.386111,
+          43.647395
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "OJCR Construction LTD",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Sewer Rehabilitation",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/16/2026, 12:00:00 PM",
-        "EndTime": "12/19/2026, 12:00:00 AM"
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40085,
-          43.64293
+          -79.384911,
+          43.646196
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: REBUILD",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/18/2026, 12:00:00 PM",
-        "EndTime": "12/31/2026, 10:00:00 PM"
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3889,
-          43.64881
+          -79.385021,
+          43.644776
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/5/2026, 12:00:00 PM",
-        "EndTime": "12/23/2026, 9:30:00 PM"
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39948,
-          43.64301
+          -79.383993,
+          43.644974
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/5/2026, 12:00:00 PM",
-        "EndTime": "12/23/2026, 9:30:00 PM"
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39955,
-          43.64318
+          -79.382471,
+          43.645292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.383427,
+          43.645083
         ]
       }
     },
