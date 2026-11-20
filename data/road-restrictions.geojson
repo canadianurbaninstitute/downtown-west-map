@@ -4,20 +4,120 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "OJCR Construction LTD",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Sewer Rehabilitation",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 12:00:00 PM",
-        "EndTime": "12/19/2026, 12:00:00 AM"
+        "maxImpact": "High",
+        "StartTime": "11/9/2026, 2:00:00 PM",
+        "EndTime": "1/1/2027, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40085,
-          43.64293
+          -79.39019,
+          43.64787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Beacon Utility Contractors Limited",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: Restoration on the South East corner",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "10/19/2026, 1:00:00 PM",
+        "EndTime": "11/20/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40006,
+          43.64444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/16/2026, 2:00:00 PM",
+        "EndTime": "11/27/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39117,
+          43.64345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/16/2026, 2:00:00 PM",
+        "EndTime": "11/27/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39133,
+          43.64354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/16/2026, 2:00:00 PM",
+        "EndTime": "11/27/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39129,
+          43.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: Directional drill, open trench, install conduit, manhole set up",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/17/2026, 2:00:00 PM",
+        "EndTime": "11/27/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39369,
+          43.64713
         ]
       }
     },
@@ -27,17 +127,17 @@
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: REBUILD",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/18/2026, 12:00:00 PM",
-        "EndTime": "12/31/2026, 10:00:00 PM"
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3889,
-          43.64881
+          -79.39955,
+          43.64318
         ]
       }
     },
@@ -67,177 +167,37 @@
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "Description": "Toronto-TMC: REBUILD",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/5/2026, 12:00:00 PM",
-        "EndTime": "12/23/2026, 9:30:00 PM"
+        "StartTime": "11/18/2026, 12:00:00 PM",
+        "EndTime": "12/31/2026, 10:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39955,
-          43.64318
+          -79.3889,
+          43.64881
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "OJCR Construction LTD",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Sewer Rehabilitation",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/27/2026, 9:00:00 PM"
+        "StartTime": "11/16/2026, 12:00:00 PM",
+        "EndTime": "12/19/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39129,
-          43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/27/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39117,
-          43.64345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Beacon Utility Contractors Limited",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Restoration on the South East corner",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "11/20/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40006,
-          43.64444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/9/2026, 2:00:00 PM",
-        "EndTime": "1/1/2027, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39019,
-          43.64787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/27/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39133,
-          43.64354
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: Directional drill, open trench, install conduit, manhole set up",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/17/2026, 2:00:00 PM",
-        "EndTime": "11/27/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39369,
-          43.64713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:45:00 PM",
-        "EndTime": "11/22/2026, 5:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.383685,
-          43.645695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:45:00 PM",
-        "EndTime": "11/22/2026, 5:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.382471,
-          43.645292
+          -79.40085,
+          43.64293
         ]
       }
     },
@@ -307,17 +267,37 @@
         "WorkEventType": "Unknown",
         "Contractor": null,
         "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
         "Type": "CONSTRUCTION",
         "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
+        "StartTime": "11/22/2026, 4:45:00 PM",
+        "EndTime": "11/22/2026, 5:30:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.384911,
-          43.646196
+          -79.382471,
+          43.645292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/22/2026, 4:45:00 PM",
+        "EndTime": "11/22/2026, 5:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.383685,
+          43.645695
         ]
       }
     },
@@ -358,6 +338,26 @@
         "coordinates": [
           -79.386111,
           43.647395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.384911,
+          43.646196
         ]
       }
     },
@@ -456,8 +456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39527,
-          43.6468
+          -79.39451,
+          43.64696
         ]
       }
     },
@@ -476,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39451,
-          43.64696
+          -79.39527,
+          43.6468
         ]
       }
     },
