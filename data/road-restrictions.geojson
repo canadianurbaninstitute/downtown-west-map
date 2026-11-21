@@ -4,6 +4,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39948,
+          43.64301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Water",
         "Contractor": "OJCR Construction LTD",
         "PermitType": "Toronto Water",
@@ -56,8 +76,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39948,
-          43.64301
+          -79.39955,
+          43.64318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Telecommunications",
+        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
+        "PermitType": "Telecommunications",
+        "Description": "Toronto-TMC: Directional drill, open trench, install conduit, manhole set up",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/17/2026, 2:00:00 PM",
+        "EndTime": "11/27/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39369,
+          43.64713
         ]
       }
     },
@@ -67,37 +107,17 @@
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/5/2026, 12:00:00 PM",
-        "EndTime": "12/23/2026, 9:30:00 PM"
+        "maxImpact": "High",
+        "StartTime": "11/9/2026, 2:00:00 PM",
+        "EndTime": "1/1/2027, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39955,
-          43.64318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/27/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39117,
-          43.64345
+          -79.39019,
+          43.64787
         ]
       }
     },
@@ -144,40 +164,20 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/9/2026, 2:00:00 PM",
-        "EndTime": "1/1/2027, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39019,
-          43.64787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Telecommunications",
-        "Contractor": "CYBERTEC COMMUNICATIONS CORP",
-        "PermitType": "Telecommunications",
-        "Description": "Toronto-TMC: Directional drill, open trench, install conduit, manhole set up",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/17/2026, 2:00:00 PM",
+        "maxImpact": "Low",
+        "StartTime": "11/16/2026, 2:00:00 PM",
         "EndTime": "11/27/2026, 9:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39369,
-          43.64713
+          -79.39117,
+          43.64345
         ]
       }
     },
@@ -236,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.385556,
-          43.648869
+          -79.383685,
+          43.645695
         ]
       }
     },
@@ -276,28 +276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.383685,
-          43.645695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386621,
-          43.648638
+          -79.385556,
+          43.648869
         ]
       }
     },
@@ -318,6 +298,46 @@
         "coordinates": [
           -79.386111,
           43.647395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.384911,
+          43.646196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.385021,
+          43.644776
         ]
       }
     },
@@ -389,35 +409,15 @@
         "PermitType": "Unknown",
         "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
+        "maxImpact": "High",
         "StartTime": "11/22/2026, 4:00:00 PM",
         "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.384911,
-          43.646196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.385021,
-          43.644776
+          -79.386621,
+          43.648638
         ]
       }
     },
