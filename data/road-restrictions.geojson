@@ -4,40 +4,80 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
+        "WorkEventType": "Toronto Water",
+        "Contractor": "OJCR Construction LTD",
+        "PermitType": "Toronto Water",
+        "Description": "Toronto-TMC: Sewer Rehabilitation",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/9/2026, 2:00:00 PM",
-        "EndTime": "1/1/2027, 9:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "11/16/2026, 12:00:00 PM",
+        "EndTime": "12/19/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39019,
-          43.64787
+          -79.40085,
+          43.64293
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Beacon Utility Contractors Limited",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: Restoration on the South East corner",
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: REBUILD",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "10/19/2026, 1:00:00 PM",
-        "EndTime": "11/20/2026, 9:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "11/18/2026, 12:00:00 PM",
+        "EndTime": "12/31/2026, 10:00:00 PM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40006,
-          43.64444
+          -79.3889,
+          43.64881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39948,
+          43.64301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/5/2026, 12:00:00 PM",
+        "EndTime": "12/23/2026, 9:30:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39955,
+          43.64318
         ]
       }
     },
@@ -104,6 +144,26 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Connection of Temp Service at 263 Adelaide ST W",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/9/2026, 2:00:00 PM",
+        "EndTime": "1/1/2027, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39019,
+          43.64787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Telecommunications",
         "Contractor": "CYBERTEC COMMUNICATIONS CORP",
         "PermitType": "Telecommunications",
@@ -118,86 +178,6 @@
         "coordinates": [
           -79.39369,
           43.64713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/5/2026, 12:00:00 PM",
-        "EndTime": "12/23/2026, 9:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39955,
-          43.64318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: - The project is Underground Civil Infrastructure project. The project includes Installing ducts and one new cable chamber. - The project will be executed by Entera Utility Contractors under the contract with Toronto Hydro. Cut permit and MX No Conflict Letter have been received. - Location is Wellington St W and Portland St. - Construction notices has been delivered. Residents and businesses are aware of our existence on the site. This is just 1 and a half week of extension to Tor-RD1H2026-704. We are only doing sod restorations. No trench.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/5/2026, 12:00:00 PM",
-        "EndTime": "12/23/2026, 9:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39948,
-          43.64301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: REBUILD",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/18/2026, 12:00:00 PM",
-        "EndTime": "12/31/2026, 10:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3889,
-          43.64881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Toronto Water",
-        "Contractor": "OJCR Construction LTD",
-        "PermitType": "Toronto Water",
-        "Description": "Toronto-TMC: Sewer Rehabilitation",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 12:00:00 PM",
-        "EndTime": "12/19/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40085,
-          43.64293
         ]
       }
     },
@@ -356,46 +336,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.384911,
-          43.646196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.385021,
-          43.644776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.383993,
           43.644974
         ]
@@ -444,20 +384,40 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Toronto Hydro",
-        "Contractor": "Entera Utility Contractors",
-        "PermitType": "Toronto Hydro",
-        "Description": "Toronto-TMC: Crew to pull cable from vault rooms CC4496 to CO-VBU.",
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
         "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/23/2026, 2:00:00 PM",
-        "EndTime": "12/17/2026, 8:00:00 PM"
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39451,
-          43.64696
+          -79.384911,
+          43.646196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.385021,
+          43.644776
         ]
       }
     },
@@ -478,6 +438,26 @@
         "coordinates": [
           -79.39527,
           43.6468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Toronto Hydro",
+        "Contractor": "Entera Utility Contractors",
+        "PermitType": "Toronto Hydro",
+        "Description": "Toronto-TMC: Crew to pull cable from vault rooms CC4496 to CO-VBU.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/23/2026, 2:00:00 PM",
+        "EndTime": "12/17/2026, 8:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39451,
+          43.64696
         ]
       }
     },
