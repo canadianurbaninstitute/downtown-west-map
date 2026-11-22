@@ -4,6 +4,146 @@
     {
       "type": "Feature",
       "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.385021,
+          43.644776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.383993,
+          43.644974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.383427,
+          43.645083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.382471,
+          43.645292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.386621,
+          43.648638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "High",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.386111,
+          43.647395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Unknown",
+        "Contractor": null,
+        "PermitType": "Unknown",
+        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/22/2026, 4:00:00 PM",
+        "EndTime": "11/23/2026, 12:00:00 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.384911,
+          43.646196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
@@ -178,246 +318,6 @@
         "coordinates": [
           -79.39117,
           43.64345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:45:00 PM",
-        "EndTime": "11/22/2026, 5:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.382471,
-          43.645292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:45:00 PM",
-        "EndTime": "11/22/2026, 5:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.384651,
-          43.650441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:45:00 PM",
-        "EndTime": "11/22/2026, 5:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.385111,
-          43.650342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:45:00 PM",
-        "EndTime": "11/22/2026, 5:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.385556,
-          43.648869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road is closed for the Santa Claus Parade and Holly Jolly Fun Run",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:45:00 PM",
-        "EndTime": "11/22/2026, 5:30:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.383685,
-          43.645695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.384911,
-          43.646196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.385021,
-          43.644776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386621,
-          43.648638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386111,
-          43.647395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.383993,
-          43.644974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.382471,
-          43.645292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.383427,
-          43.645083
         ]
       }
     },
