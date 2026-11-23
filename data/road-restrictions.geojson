@@ -4,146 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.385021,
-          43.644776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.383993,
-          43.644974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.383427,
-          43.645083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.382471,
-          43.645292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386621,
-          43.648638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "High",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.386111,
-          43.647395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Unknown",
-        "Contractor": null,
-        "PermitType": "Unknown",
-        "Description": "Toronto-TMC: Road closures in connection with The Santa Claus Parade.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/22/2026, 4:00:00 PM",
-        "EndTime": "11/23/2026, 12:00:00 AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.384911,
-          43.646196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "WorkEventType": "Toronto Hydro",
         "Contractor": "Entera Utility Contractors",
         "PermitType": "Toronto Hydro",
@@ -276,6 +136,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.39117,
+          43.64345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkEventType": "Transportation Services",
+        "Contractor": "Aqua Tech Solutions Inc",
+        "PermitType": "Transportation Services",
+        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
+        "Type": "CONSTRUCTION",
+        "maxImpact": "Low",
+        "StartTime": "11/16/2026, 2:00:00 PM",
+        "EndTime": "11/27/2026, 9:00:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.39133,
           43.64354
         ]
@@ -298,26 +178,6 @@
         "coordinates": [
           -79.39129,
           43.64342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "WorkEventType": "Transportation Services",
-        "Contractor": "Aqua Tech Solutions Inc",
-        "PermitType": "Transportation Services",
-        "Description": "Toronto-TMC: City Contract -- CONTRACT 26TR-OM-111-TEY-GM - GENERAL MAINTENANCE TO ROAD, SIDEWALK WITHIN THE TORONTO EAST YORK DISTRICT.",
-        "Type": "CONSTRUCTION",
-        "maxImpact": "Low",
-        "StartTime": "11/16/2026, 2:00:00 PM",
-        "EndTime": "11/27/2026, 9:00:00 PM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.39117,
-          43.64345
         ]
       }
     },
